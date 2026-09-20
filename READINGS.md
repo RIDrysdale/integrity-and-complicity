@@ -13,7 +13,7 @@ Status is **checked** (text opened, locators exist, attributed argument actually
 | Rawls, "Legal Obligation and the Duty of Fair Play" (1964) | none | In-copyright anthology, hard to obtain | pointer | 1 |
 | Nozick, *Anarchy, State, and Utopia* (1974), ch. 5 | chapter section | In copyright | pointer | 1 |
 | Cicero, *De Officiis*, I.107–115 and III.49–57 | book and section | Free (LacusCurtius, Perseus) | checked | assigned, 2 |
-| Confucius, *Analects*, 4.5, 4.18, 4.26, 12.11, 12.16, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25 | book and chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
+| Confucius, *Analects*, 4.5, 4.18, 12.11, 12.16, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25 | book and chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
 | Mencius, 4A.17 and 4B.3 | book, part, chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
 | *Bhagavad Gita*, 1; 2.1–10; 2.31–38; 3.33–35; 18.41–49 | chapter and verse | Free, many translations (Besant, Wikisource) | checked | assigned, 2 |
 | Montaigne, *Essays*, III.10 | book and essay | Free (Cotton translation, Project Gutenberg) | checked | assigned, 2 |
@@ -35,7 +35,7 @@ Placed where a tradition has real purchase on a specific problem, not distribute
 | Work | Locator system | Access | Why here |
 |---|---|---|---|
 | *Bhagavad Gita* | chapter and verse | Free, many translations | Arjuna refuses to act because his role requires something he finds monstrous, and the answer he receives concerns duty and detachment from outcome. Assigned in Module 2, on the refusal and on duty indexed to station. Candidate for a second assignment in Module 7, on what may be demanded of someone who cannot cleanly withdraw, to be earned when that module is built. |
-| Confucius, *Analects*; Mencius | book and chapter | Free | Role and relationship are not separable from the person in these texts, which challenges the framing of Module 2 rather than supplying another position within it. Assigned in Module 2. The remonstrance material — how a subordinate corrects a superior, and when to withdraw from office — bears directly on Modules 4 and 6, and is deliberately left unassigned here so that those modules can take their own passages. |
+| Confucius, *Analects*; Mencius | book and chapter | Free | Role and relationship are not separable from the person in these texts, which challenges the framing of Module 2 rather than supplying another position within it. Assigned in Module 2. The remonstrance material — how a subordinate corrects a superior, and when to withdraw from office — bears directly on Modules 4 and 6, and is left unassigned here so those modules can take their own passages; *Analects* 4.26 in particular is reserved for Module 4. Module 2 takes only 4.18, which is needed to show that the bond permits disagreement, and 13.15, which concerns what a ruler needs rather than how a subordinate should speak. |
 
 Both have the access profile design principle 9 asks for: free, durable, and numbered by verse or chapter rather than by page.
 

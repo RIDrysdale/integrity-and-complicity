@@ -11,7 +11,7 @@ This is the defence that does most of the real work in institutional life — *t
 ## What is assigned
 
 - **Cicero, *De Officiis*, I.107–115 and III.49–57** — two short stretches, not the whole work. Half an hour.
-- **Confucius, *Analects*: 4.5, 4.18, 4.26, 12.11, 12.16, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25; and Mencius 4A.17 and 4B.3** — thirteen short passages. Longer than it looks, because they need re-reading.
+- **Confucius, *Analects*: 4.5, 4.18, 12.11, 12.16, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25; and Mencius 4A.17 and 4B.3** — twelve short passages. Longer than it looks, because they need re-reading.
 - **Montaigne, *Essays*, III.10, "Of Managing the Will"** — one essay, whole. Three quarters of an hour, and it wanders.
 - **Bhagavad Gita, 1; 2.1–10; 2.31–38; 3.33–35; 18.41–49** — the first chapter whole, then four short passages.
 - **Fried, "The Lawyer as Friend" (1976)** — the whole article. The longest and densest of the five.
@@ -97,3 +97,88 @@ The *Gita*, where what you owe is indexed to your particular station rather than
 A unity argument. There is one standard of conduct, not a separate one for offices, and cases where the honourable and the expedient appear to conflict are errors about what is genuinely expedient. The four *personae* are not four moralities; they are four things true of one person at once, which is why Cicero can hold that circumstance genuinely shapes what you should do without conceding that it changes the standard.
 
 Its strength is that it explains how a role can be real and demanding without ever becoming a licence. Its difficulty is visible in the structure of Book III: the principle at III.49 is stated in advance and the cases are then decided by it, so a reader who does not already accept III.49 may find the verdict at III.57 arrives rather than argues. Whether that is a flaw or simply what it looks like to have a principle is worth settling before you go on.
+
+---
+
+## Reading 2: Confucius, *Analects*, and Mencius
+
+Freely available. [Robert Eno's translation](https://hdl.handle.net/2022/23420) is the one quoted below; [ctext.org](https://ctext.org/analects) prints James Legge's older translation beside the Chinese, and the passage numbers are the same in both. Mencius is cited by book, part and chapter: 4A.17 is Book IV, Part I, chapter 17, which translations variously print as 4A.17, IV.A.17, or Book IV Part I ch. XVII.
+
+Four terms are better left in Chinese than trusted to a translation: *ren*, roughly humaneness, the central virtue; *li*, the whole body of ritual, ceremony and propriety that governs conduct; *dao*, the way; and *junzi*, the exemplary person, which Legge gives as "the superior man" and Eno sometimes leaves untranslated. Translations of these diverge widely, and one passage below turns on a difference between them.
+
+### Why it's here
+
+Cicero's argument needs something to be true before it can begin. Underneath the officeholder there must be a human being as such, sharing reason with everyone, possessing duties of its own, available to be consulted when the office asks for something. That is the first of his four *personae*, and Book III rests on it.
+
+These texts do not contain that person. What they contain is someone who is a son, a father, a minister, a ruler, a friend, an elder or a younger brother — and who is not, in addition to all that, something else underneath. *Ren* is not a standard held apart from the relations, to be appealed to against them. It is the name for conducting them well.
+
+If that is right, the question you have been carrying will not work. You cannot ask whether what a role requires differs from what you otherwise owe, because there is no third thing standing outside the relations for the comparison to be made against. These texts ask it differently: not *does my role override what I owe?* but *what is it actually to be a manager, and am I one?*
+
+Whether that is a gain or a loss is for you to decide. Notice what it costs before you decide it. It removes a court of appeal you were probably counting on.
+
+### What to watch for
+
+**Names, 13.3 and 12.11.** Asked what he would do first in government, Confucius says he would rectify names, and Zilu tells him he is being absurd. The answer is a chain: if names are not right then speech does not accord with things; if speech does not accord with things then affairs cannot succeed; then *li* and music do not flourish; then punishments miss their mark; and then the people have nowhere to put hand or foot. At 12.11 the same idea in four words — "Let the ruler be ruler, ministers ministers, fathers fathers, sons sons."
+
+Read 12.11 as a claim about language rather than a diagram of hierarchy. "Manager" is being treated as a word that can fail to apply. Note Duke Jing's reply, which is not pious: if the names come apart from the things, he may have all the grain he likes and not get to eat it.
+
+Then look at the document on your desk and ask what it is called.
+
+**Conduct and office are not two, 13.13.** If a man can make his own person upright, what difficulty will he have in governing? If he cannot, how will he make anyone else upright? Work out how much this rules out. It denies you the sentence *that was a decision I made as manager* as anything other than a description of where you were standing at the time.
+
+**13.18, the sheep.** The Duke of She tells Confucius that in his district there is an upright man: "His father stole a sheep, and he testified against him." Confucius answers: "The upright men in my district are different. Fathers cover up for their sons and sons cover up for their fathers. Uprightness lies therein."
+
+Sit with this one, because two readings of it are available and you need to feel both.
+
+On the first, it is a claim about integrity, and a serious one. A person whose relations place no weight on him at all is not more trustworthy than other people but less. The man who informs on his father would inform on anyone, and nothing he is part of is safe with him. The relation is not an obstacle that virtue has to overcome. It is where virtue is located, and a loyalty that dissolves the moment it becomes costly was never one.
+
+On the second, this is the defence in its purest form. *These are my people.* It is the sentence you were preparing for the analyst, with the business case stripped out and the moral claim left standing on its own.
+
+Both readings are in the passage. Do not pick one yet.
+
+**Disagreement inside the bond, 4.18 and 13.23.** At 4.18 a son who thinks his parents wrong remonstrates with them — gently; and if they will not listen, he keeps his reverence, does not abandon the point, and does not let himself resent the cost. So the bond does not require agreement. It shapes what disagreement is allowed to look like.
+
+At 13.23: "The junzi acts in harmony with others but does not seek to be like them; the small man seeks to be like others and does not act in harmony." The contrast is between *he*, harmony, and *tong*, sameness. Legge's rendering — affable but not adulatory — buries it.
+
+When you asked the analyst to soften the report, which of the two were you asking for? And if they had agreed, which would they have been giving you?
+
+**Weighing and reciprocity, Mencius 4A.17 and 4B.3.** Chunyu Kun asks Mencius whether it is the rule that men and women do not let their hands touch in giving and receiving. Mencius says it is. And if your sister-in-law is drowning — do you pull her out with your hand? Mencius: a man who would not is a wolf. The rule is *li*; the rescue is *quan*, weighing.
+
+So the role-rules bend, and a person who will not bend them is a beast. But watch what happens next, because Kun immediately tries to generalise it: the whole world is drowning, so why won't you rescue that? Mencius answers that a drowning world is rescued with the Way and a drowning sister-in-law with the hand, and asks whether Kun expects him to pull the world out by hand. He is refusing to let the exception spread. Decide whether that is an answer or an evasion.
+
+At 4B.3 the obligation runs in both directions and is graded. When a ruler treats his ministers as his hands and feet, they treat him as their belly and heart; as dogs and horses, they treat him as any ordinary man; as the ground or as grass, they treat him as a robber and an enemy — owed nothing, not even mourning when he dies.
+
+You are the ruler in this passage now, not the minister.
+
+**The three about being the senior person: 13.15, 13.25, 12.16.** Asked whether one saying can destroy a state, Confucius offers a candidate: *I take no joy in ruling, except that no one opposes what I say.* At 13.25 the *junzi* is easy to serve and hard to please — he is not pleased by what does not accord with the *dao*, and he gives people work they are fit for; the small man is hard to serve and easy to please, pleased by anything, and demands that everyone be capable of everything. At 12.16 the *junzi* perfects what is beautiful in people and not what is ugly in them.
+
+These are the passages about your chair. Read them as such.
+
+**And 4.5, on the cost.** Wealth and high rank are what people want; if they come by departing from the *dao*, do not dwell in them. Poverty and low rank are what people hate; if they come by departing from the *dao*, do not depart from them. There are two contracts on your desk.
+
+### What it pulls against
+
+Cicero, at the foundation rather than at any particular conclusion. His verdict at III.57 depends on a universal *persona* that these texts do not grant, and if they are right his argument does not fail so much as fail to start.
+
+Fried, who will offer you a role that is entered by agreement, bounded in advance, and exited on notice. Nothing here is like that. Ask whether the difference tells: is a relation you did not choose more binding than one you did, or less, or is that the wrong axis?
+
+The *Gita*, which also holds that what you owe is indexed to your particular station, but grounds it outside the relations altogether, in the order of things. Here the relations are the ground, and there is no further backing.
+
+Montaigne, whom you have not read yet. Carry 13.13 into him and see what happens.
+
+### Questions to carry
+
+- Scale 13.18 up. Fathers cover for sons. Then a department covers for the department, a police force covers for the force, a religious order covers for the order. If you accept Confucius about the sheep, produce the principle that stops the escalation — and then check whether that principle is anywhere in these passages, or whether you brought it in with you.
+- What is your actual objection to the son who testified? That he was disloyal — or that he was right, and you would rather he had not been?
+- If *ren* is not a standard outside the relations, what prevents these texts from ratifying any arrangement that happens to be running smoothly? Gather the resources for criticism you can find in the passages you have read. Say whether they are enough.
+- 4B.3 runs in your direction now. Which of the three does the analyst take you to be? What would they have to see you do to move you a grade?
+- Cicero could tell you that your office is the third of four things you are. These texts cannot tell you that. What exactly have you lost — and were you using it, or only keeping it?
+- Mencius will bend the rule for the drowning woman and will not bend it for the drowning world. Where is your report?
+
+### What kind of argument this is *(read after the text)*
+
+Not a derivation. Nothing here reasons from a principle to a conclusion in the way Cicero reasons from III.49 to III.57. These are claims about what a person is, mostly shown rather than argued, and the ethics follows from the account of the person rather than the other way round.
+
+That is why the disagreement with Cicero is harder to adjudicate than it looks. The two are not offering rival answers to one question. They disagree about what there is — whether, when you have finished listing someone's relations, anyone is left over. A reader who wants to settle the module's question will have to settle that first, and neither text will do it for them.
+
+The limitation is worth naming. Because the constitutive claim is worked within rather than argued for, these passages will not tell you what to do when the relations themselves conflict — when being a good manager and being a good colleague come apart — and 13.18 hands you a case where that collision is the whole difficulty. *Quan* names the work of weighing without saying how to do it. Whether that is an incomplete ethics or an honest one is a real question, and the same charge lands on most of the other readings here.
