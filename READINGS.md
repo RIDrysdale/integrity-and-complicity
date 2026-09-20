@@ -13,8 +13,8 @@ Status is **checked** (text opened, locators exist, attributed argument actually
 | Rawls, "Legal Obligation and the Duty of Fair Play" (1964) | none | In-copyright anthology, hard to obtain | pointer | 1 |
 | Nozick, *Anarchy, State, and Utopia* (1974), ch. 5 | chapter section | In copyright | pointer | 1 |
 | Cicero, *De Officiis*, I.107–115 and III.49–57 | book and section | Free (LacusCurtius, Perseus) | checked | assigned, 2 |
-| Confucius, *Analects*, 4.5, 4.18, 12.11, 12.16, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25 | book and chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
-| Mencius, 4A.17 and 4B.3 | book, part, chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
+| Confucius, *Analects*, 4.5, 4.18, 12.11, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25 | book and chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
+| Mencius, 2A.6, 4A.17 and 4B.3 | book, part, chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
 | *Bhagavad Gita*, 1; 2.1–10; 2.31–38; 3.33–35; 18.41–49 | chapter and verse | Free, many translations (Besant, Wikisource) | checked | assigned, 2 |
 | Montaigne, *Essays*, III.10 | book and essay | Free (Cotton translation, Project Gutenberg) | checked | assigned, 2 |
 | Fried, "The Lawyer as Friend" (1976) | section and subsection | Free (open access, Yale Law School repository) | checked | assigned, 2 |
@@ -35,11 +35,11 @@ Placed where a tradition has real purchase on a specific problem, not distribute
 | Work | Locator system | Access | Why here |
 |---|---|---|---|
 | *Bhagavad Gita* | chapter and verse | Free, many translations | Arjuna refuses to act because his role requires something he finds monstrous, and the answer he receives concerns duty and detachment from outcome. Assigned in Module 2, on the refusal and on duty indexed to station. Candidate for a second assignment in Module 7, on what may be demanded of someone who cannot cleanly withdraw, to be earned when that module is built. |
-| Confucius, *Analects*; Mencius | book and chapter | Free | Role and relationship are not separable from the person in these texts, which challenges the framing of Module 2 rather than supplying another position within it. Assigned in Module 2. The remonstrance material — how a subordinate corrects a superior, and when to withdraw from office — bears directly on Modules 4 and 6, and is left unassigned here so those modules can take their own passages; *Analects* 4.26 in particular is reserved for Module 4. Module 2 takes only 4.18, which is needed to show that the bond permits disagreement, and 13.15, which concerns what a ruler needs rather than how a subordinate should speak. |
+| Confucius, *Analects*; Mencius | book and chapter | Free | These texts reach questions about role and obligation without arguing from what a human being as such owes, which puts pressure on how Module 2's question is posed. How much pressure is contested and the module leaves it open: Mencius 2A.6 grounds a moral response in something every person has, prior to the relations in play, and is assigned for that reason. The remonstrance material — how a subordinate corrects a superior, and when to withdraw from office — bears on Modules 4 and 6 and is largely left for them; *Analects* 4.26 is reserved for Module 4. Module 2 takes 4.18, whose two defensible translations disagree about whether remonstrance may continue after it is refused, and 13.15, which concerns what a ruler needs rather than how a subordinate should speak. |
 
 Both have the access profile design principle 9 asks for: free, durable, and numbered by verse or chapter rather than by page.
 
-The Confucian reading met design principle 8's test rather than decorating the module: it caused Module 2's question to be rewritten, which is recorded in `ARCHITECTURE.md`. The two traditions are assigned to different positions in the module and are separated in the reading order, so that they are not encountered as a matched pair of outside perspectives. The *Gita* answers the module's question; the Confucian material rejects it.
+An earlier draft recorded the Confucian reading as having met design principle 8's test outright, on the ground that these texts contain no standard that could be appealed to against a relation. That claim was withdrawn under critique: it is stronger than the assigned passages support, 2A.6 tells against it, and the institutional problem needs only the weaker claim that a role's standards are not set by whoever currently occupies the senior position. What survives is a narrower reframing — the module's question becomes what a manager is and whether this is what one does — and whether that meets principle 8 is open. The two traditions are assigned to different positions and separated in the reading order so they are not met as a matched pair of outside perspectives.
 
 ## Gaps
 
