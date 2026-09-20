@@ -182,3 +182,76 @@ Not a derivation. Nothing here reasons from a principle to a conclusion in the w
 That is why the disagreement with Cicero is harder to adjudicate than it looks. The two are not offering rival answers to one question. They disagree about what there is — whether, when you have finished listing someone's relations, anyone is left over. A reader who wants to settle the module's question will have to settle that first, and neither text will do it for them.
 
 The limitation is worth naming. Because the constitutive claim is worked within rather than argued for, these passages will not tell you what to do when the relations themselves conflict — when being a good manager and being a good colleague come apart — and 13.18 hands you a case where that collision is the whole difficulty. *Quan* names the work of weighing without saying how to do it. Whether that is an incomplete ethics or an honest one is a real question, and the same charge lands on most of the other readings here.
+
+---
+
+## Reading 3: Montaigne, *Essays*, III.10, "Of Managing the Will"
+
+Freely available. [Cotton's translation at Project Gutenberg](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm), which is where the quotations below come from; translators title the essay variously, and Book III, essay 10 will find it in any edition. One essay, whole. It wanders, which is the form and not a defect — *essai* means an attempt.
+
+### Why it's here
+
+Montaigne was twice elected mayor of Bordeaux, in the 1580s, while France was tearing itself apart in the wars of religion. He is the only writer assigned here describing an office he actually held while he held it, and he says the thing this module exists to examine, flatly and without embarrassment: an honest man is not accountable for the vice or absurdity of his employment.
+
+The reason he gives for it is not the one you would expect.
+
+### What to watch for
+
+**The theatre, and one Latin word.** "Most of our business is farce," he says. "We must play our part properly, but withal as a part of a borrowed personage; we must not make real essence of a mask and outward appearance." Then the image that carries it: it is enough "to meal the face, without mealing the breast" — the flour goes on the actor's face, not on what is under it.
+
+He has seen the alternative. There are men who "transform and transubstantiate themselves into as many new shapes and new beings as they undertake new employments," who "strut and fume even to the heart and liver," and who — this is the sentence to carry away — "cannot distinguish the salutations made to themselves from those made to their commission, their train, or their mule."
+
+Now the word. *Persona* is Latin for an actor's mask, and it is Cicero's word for the four things you are. Cicero's third *persona* is your office, and it is genuinely yours. Montaigne's "borrowed personage" is the same word doing the opposite work: the office is a costume, and taking it for your face is the occupational disease of people who hold offices.
+
+You noticed, in the case, that the argument sounds better from this chair. Montaigne has a name for that and it is not a flattering one.
+
+**The mayor, and the sentence after.** "The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation. Because one is an advocate or a financier, he must not ignore the knavery there is in such callings; an honest man is not accountable for the vice or absurdity of his employment, and ought not on that account refuse to take the calling upon him."
+
+Read on before you decide what that means, because the next sentence turns it over: "the judgment of an emperor ought to be above his empire, and see and consider it as a foreign accident; and he ought to know how to enjoy himself apart from it." The separation is not being offered as relief. It is what leaves a judgment capable of seeing the office from outside it.
+
+He then puts it to work on the civil war. His own side's interest has not blinded him to what is admirable in his adversaries nor to what is contemptible in his own party; "a good work has never the worst grace with me for being made against me." Whatever the separation is for, it is not for comfort.
+
+**Lending, and what it does not withhold.** "A man should lend himself to others, and only give himself to himself." Watch where the line actually falls, because it is not where you would put it. He would not have men refuse the employments they take on "their attention, pains, eloquence, sweat, and blood if need be" — everything, up to and including dying — but all of it "only borrowed," the mind staying "not without action, but without vexation, without passion."
+
+He is not holding back effort. He is holding back identification. Decide whether those come apart as cleanly as he needs them to.
+
+**His father.** Montaigne's father wrecked his health and neglected his own affairs for the city of Bordeaux, out of what his son calls "a marvellous good nature; never was there a more charitable and popular soul." And then: "Yet this proceeding which I commend in others, I do not love to follow myself."
+
+That is the most exposed sentence in the essay. He does not argue that his father was mistaken. He praises him and declines to be him.
+
+**Duty, and what ambition adds to it.** "I did not, to my knowledge, omit anything that my duty really required. I easily forgot those offices that ambition mixes with duty and palliates with its title." Two things are being pulled apart there that your case runs together.
+
+Note also how he thinks a magistrate should work: it is acting for reputation rather than the public good "to refer that to be done in the public squares which one may do in the council chamber." There is a reading of your case in that sentence.
+
+**The sleeping magistrate.** "I do not condemn a magistrate who sleeps, provided the people under his charge sleep as well as he." And, of his own administration: "To forbear doing is often as generous as to do; but 'tis less in the light."
+
+This is the softest ground in the essay and you should stand on it hard.
+
+**The last line.** He finishes praising the sweet and silent calm of his term, and then closes the essay on a line from the *Aeneid* about a man asked to trust a sea that only looks placid. Work out what it is doing there. He may be defending himself; he may be doing something else.
+
+### What it pulls against
+
+*Analects* 13.13, which you were told to carry in. If a man who cannot make his own person upright has nothing to do with making others upright, then the Mayor and Montaigne cannot be two, and the whole practice of this essay is unavailable. Montaigne is not answering that objection. He has not heard it.
+
+Cicero, on the same Latin word. The four *personae* and the borrowed personage cannot both be right about what an office is.
+
+Fried, whom you read last, and who will give the separation an institutional warrant rather than a personal one. Montaigne's version depends entirely on the officeholder being the sort of person who keeps it up.
+
+The *Gita*, next, which also puts distance between the actor and the act. Hold Montaigne's version beside it and mark where they come apart.
+
+### Questions to carry
+
+- An honest man is not accountable for the vice or absurdity of his employment. Name an employment for which you think that is plainly false. Then say what distinguishes yours from it, or concede that nothing does.
+- He gives the office his blood and keeps his mind. In the case, which of the two were you asking the analyst for? Which were you giving your own manager?
+- The men who cannot tell the salutations made to themselves from those made to their commission do not know that about themselves. How would you find out? Name something you could actually observe.
+- Is there someone you commend and will not imitate? Montaigne says so about his father in one sentence and moves on. What is the honest name for that, in your case?
+- Which of your obligations here is duty, and which is what ambition mixes with duty and palliates with its title? Do them one at a time and in writing if you can.
+- A magistrate may sleep provided those in his charge sleep too. What if the quiet is the thing that is wrong? Does the essay have an answer, or is it relying on the times being survivable?
+
+### What kind of argument this is *(read after the text)*
+
+It is not an argument, and it does not want to be. It is a description of a practice, given in the first person by a man with no interest in turning it into a rule for anyone else, in a form built for trying things out rather than establishing them.
+
+Its strength is that it is the only account here written from inside an office, and it identifies something the principled accounts do not even name: not the officeholder who does wrong, but the officeholder who has become the office, and can no longer find the place from which the office would look questionable. Cicero has no vocabulary for that. Neither does Fried.
+
+Its difficulty is that there is no standard in it outside the man's own temperament. Montaigne can tell whether Montaigne has kept the separation. He offers nothing by which anyone else could tell, and nothing that would prevent the same words — *the mayor and I are two, I lend myself and do not give myself* — from being spoken with complete sincerity by someone who has simply stopped caring what the office does. The essay's defence is that it never claimed to be a rule. Whether that is its honesty or its failure is what you have to settle, and settling it will decide how much of the sleeping magistrate you are prepared to accept.
