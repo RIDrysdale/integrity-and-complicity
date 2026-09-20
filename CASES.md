@@ -2,7 +2,7 @@
 
 Cases recur across modules and escalate (design principle 7). The reader takes a position before reading and returns to it afterwards, so they can watch their own judgment move.
 
-**Status:** Case A is written. Its escalations are drafted and not yet placed in modules. Cases B and C are placeholders.
+**Status:** Case A.1 is assigned in Module 1. Its escalations are drafted and not yet placed. Cases B and C are placeholders.
 
 ## Case A — The internal report
 

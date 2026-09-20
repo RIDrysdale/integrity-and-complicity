@@ -1,20 +1,20 @@
 # Readings
 
-Candidate pool and verification status. A reading appears here before it is assigned to a module.
-
-**Nothing in this file is assigned yet.** A candidate must be justified against ARCHITECTURE.md before it enters a module.
+Assigned readings and the candidate pool. A candidate must be justified against ARCHITECTURE.md before it enters a module.
 
 Status is **checked** (text opened, locators exist, attributed argument actually present) or **unchecked**. Interpretations are always the editors' and are never marked checked.
 
-| Work | Locator system | Access | Status | Candidate for |
+| Work | Locator system | Access | Status | Module |
 |---|---|---|---|---|
-| Plato, *Apology* | Stephanus | Free (Perseus, MIT) | checked | 1 |
-| Plato, *Crito* | Stephanus | Free (Perseus, MIT) | checked | 1 |
-| Rawls, *A Theory of Justice* (1971), sections 18-19 | section | Free | checked | 1 |
-| Rawls, "Legal Obligation and the Duty of Fair Play" (1964) | none in original | In-copyright anthology, hard to obtain | pointer, not assigned | 1 |
-| Arendt, "Personal Responsibility Under Dictatorship" (2003) | section headings | In-copyright; online transcription unreliable | unchecked, argument located, wording unconfirmed | 1 |
-| Nozick, *Anarchy, State, and Utopia* (1974), ch. 5 | chapter section | In-copyright | pointer, not assigned | 1 |
-| Xenophon, *Apology of Socrates* | section | Free (Perseus) | checked | comparison only |
+| Plato, *Apology* | Stephanus | Free (Perseus, MIT) | checked | assigned, 1 |
+| Plato, *Crito* | Stephanus | Free (Perseus, MIT) | checked | assigned, 1 |
+| Rawls, *A Theory of Justice*, sections 18-19 | section | In copyright; widely held in libraries, and the section numbers work in both editions | checked | assigned, 1 |
+| Arendt, "Personal Responsibility Under Dictatorship" | none | In copyright; no reliable free text | unchecked, argument located, wording unconfirmed | assigned, 1 |
+| Rawls, "Legal Obligation and the Duty of Fair Play" (1964) | none | In-copyright anthology, hard to obtain | pointer | 1 |
+| Nozick, *Anarchy, State, and Utopia* (1974), ch. 5 | chapter section | In copyright | pointer | 1 |
+| Xenophon, *Apology of Socrates* | section | Free (Perseus) | checked | not assigned |
+
+Module 1 carries its cap of two pointers. Anything further there must be assigned or dropped.
 
 ## Traditions outside the Western canon
 
@@ -29,4 +29,6 @@ Both have the access profile design principle 9 asks for: free, durable, and num
 
 ## Gaps
 
-No candidates yet for Modules 2 through 8 from any tradition. That is the ordinary state of a program with no modules built, not a defect in the design.
+No candidates yet for Modules 2 through 8.
+
+Two of Module 1's four assigned readings are in copyright and require a library. That is acceptable for readings with no adequate free substitute, but a program in which it is the norm would fail design principle 9. Later modules should do better, not worse.
