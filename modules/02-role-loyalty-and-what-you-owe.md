@@ -332,3 +332,80 @@ A teaching rather than a demonstration. Its form is that a man in an impossible 
 Two features are worth registering after the fact. It severs the tie between right action and good outcome that most of your own reasoning in the case depended on — every argument for softening the report was built out of consequences. And it makes the content of what you owe depend on who you are rather than on a rule holding for everyone, which is a move every other reading here except the *Analects* resists.
 
 Its difficulty is the one Arjuna's own question opens up. He asks which course is better and is told to do what his station requires. A reader who wants to know how to tell what a station genuinely requires from what merely gets demanded in a station's name will not find that test here, and the *Gita* does not obviously think one is needed. Krishna is available to Arjuna. Nothing is available to you on those terms, and what you have in place of it is your own judgment about what a manager is — which is precisely the faculty this reading has just told you not to rely on.
+
+---
+
+## Reading 5: Charles Fried, "The Lawyer as Friend: The Moral Foundations of the Lawyer-Client Relation"
+
+*Yale Law Journal* 85 (1976). Open access in [Yale Law School's repository](https://openyls.law.yale.edu). Cited below by section and subsection — I, II and III, with lettered parts and, inside III.B, numbered ones — which work in any reprint. It is a law review article and reads like one. The footnotes can be left alone.
+
+### Why it's here
+
+Fried asks a version of your question in the hardest form available. Not how a decent lawyer ought to behave, but "whether a decent, ethical person can ever be a lawyer" — whether the assurances you give by taking up the role are ones an honourable person could give at all.
+
+Your version is not *how should a manager behave*. It is whether a decent person can be one.
+
+This is also the reading in which the role defence is not an evasion but a position, argued for at length by someone who thinks the alternative would be worse.
+
+### What to watch for
+
+**The two criticisms, I.A and I.B.** The first is about allocation: professional loyalty makes the lawyer spend his energy where it is wanted rather than where it is needed, and the doctor tend the hearts of the sedentary managerial classes. The second is specific to lawyers and concerns means rather than ends — discrediting a nervous but probably truthful witness, exploiting an adversary's ignorance or need in a negotiation.
+
+The difference is that the first names a social harm and the second has a particular person at the other end of it. Decide which kind your case is. It matters enormously by the end of the article.
+
+**Why he refuses the easy defence, II.B.** Mill and Sidgwick explain partiality by efficiency: you help those near you because you know them and can do it well. Fried says that is not enough, and his reason is the one to follow. If efficiency were the ground, he would be obliged to keep checking whether his effort would do more good elsewhere — and that is an inquiry he says we are not required, and sometimes not even authorised, to make.
+
+Watch that distinction. It separates a role that is a convenient rule of thumb from a role that changes what you are permitted to take into account.
+
+**The foundation, II.C.** Before there is morality, he argues, there must be a person, and a valuing agent must first of all be dear to himself. Out of that comes a right to weight your own interests, and then your friends' — stated in the language of rights rather than of maximising good.
+
+**The thesis, II.D.** The lawyer is a limited-purpose friend: a friend with respect to the legal system, who adopts the client's interests as his own, the range narrow but the identification inside it complete. What he serves is the client's autonomy within the law.
+
+Note that Fried puts the objections to his own analogy before you can. The relation begins from the client's need rather than the lawyer's gift; it is one-sided, with no devotion running back; the usual reason for taking or declining the work is money. He also asks why a grocer, a tailor or a landlord is not a limited-purpose friend on the same reasoning. Judge the answers he gives.
+
+**Where the moral work is done, III.A and III.B.1.** He holds the lawyer strictly inside the law and the rules of advocacy: no counselling a crime, no destroying evidence, no perjury. Then the structural claim, which is the one to carry out of here — social policy is to be made by controlling what the law is and which interests clients may lawfully pursue, not by deforming the lawyer's role and asking him to curb his advocacy within it.
+
+Corrections belong to the system, not to the conscience of whoever happens to be filling the role. And note the condition he attaches without emphasis: this holds in a reasonably just system, one that properly commands the lawyer's loyalty.
+
+**Where he concedes, III.B.2.** This is the most valuable passage in the article. The lawyer asked to press an unfair claim or humiliate a witness — nothing illegal, nothing against the canons — is in a different position, because now the personal relation is one of harm rather than benefit. Intentional harm, he says, reaches out and particularises its victim. Asking *who is my neighbour* is legitimate when the question is whom to help; it is out of order when the injunction is not to harm.
+
+So the pinch is this: the very principle of personal engagement that licenses the lawyer's devotion to his client forbids him to do to the adversary what that devotion is urging. Fried considers the reply that the lawyer may simply decline such cases, and calls it "not wrong but somewhat lame" — the question is not whether he may refuse but whether he is bound to.
+
+**The soldier, and the line he finally draws.** A soldier of a reasonably just state, whose wars are decided democratically, may hold that judging the justice of the war is not his to do — but he is personally bound not to use forbidden ammunition, not to attack civilians, not to abuse prisoners. Those are wrongs done by his person to the person of a victim. So the lawyer distinguishes wrongs a reasonably just system works through its rules from wrongs he personally commits.
+
+You met this soldier in the last reading, and he was told something else entirely. Set the two answers beside each other, and notice which of them attaches a condition that could fail.
+
+Fried does not pretend the line is clean. He says the border is exactly where competing moral principles rub against each other, and that no rule will spare you prudence and judgment there.
+
+**The last paragraph.** He will not see the integrity of these roles undermined so that the millennium may come sooner — because it may never come, and then where would we be?
+
+### What it pulls against
+
+**Cicero, head-on.** The merchant at Rhodes was ordered to disclose. Fried's argument is built to protect the space Diogenes was asking for, and II.C is designed to dislodge exactly the shared universal standard that III.57's verdict rests on. But look again before concluding they are opposites: Fried draws his own line at personal wrongs, which is not far from where Cicero drew his. Work out whether the disagreement is about the principle, or only about which side of it a silence falls on.
+
+**The *Analects* and Mencius.** Fried's role is chosen, bounded, terminable, and issued by an institution you can inspect. None of those words applies to being a son. And his foundation — that the valuing agent must first of all be dear to himself — is precisely what a constitutive account has no room for.
+
+**Montaigne.** Both hold the person apart from the office. Montaigne does it as a private discipline resting on nothing but his own character; Fried does it with a justification and a stated limit. Ask which of the two has actually told you when the separation stops.
+
+**The *Gita*.** The same soldier, answered from opposite directions, and only one of the answers can fail a test.
+
+### Questions to carry
+
+- Ask his question in his words about your own job: can a decent, ethical person be a manager? If you answer yes, say what it is about the job that makes it so — not what it is about you.
+- Which of the two criticisms is your case? Is softening the report a misallocation, or is it an advantage procured at the expense of someone identifiable? Name them if you can. If you cannot, ask whether that settles anything or only makes it more comfortable.
+- If the correction belongs to the system rather than the role-holder, what follows for you on Thursday? Is *work to change how these reports are commissioned* an answer or a deferral? It could be either.
+- His argument runs inside a reasonably just system. You have been asked a version of this before and were not made to answer it. Answer it now: is the arrangement you work inside reasonably just — and what would you accept as evidence either way?
+- Take his line between wrongs a system works through its rules and wrongs you personally commit, and put your case on one side of it. Then put the analyst's refusal on the same line. Do they land where you expected?
+- He will not have the roles undermined for a millennium that may never arrive. Is that a reason, or is it the sentence every defender of every arrangement eventually reaches for? Say what would tell the two apart.
+
+### What kind of argument this is *(read after the text)*
+
+A rights-based argument, and deliberately not a consequentialist one. It holds that role obligations are not efficient shortcuts to general duty but genuinely different in kind, resting on the same ground as your right to prefer your own children — that there must be a person before there can be a morality.
+
+Notice what it needs in order to work. It needs a background system that is reasonably just, because the licence the role confers is drawn from the justice of the system that issues it; Fried says so, and points at Rawls, whom you have already read. If the system is not reasonably just, his argument does not become false. It becomes unavailable, and it says nothing about what to do then. For a reader of this program that is the largest hole in it, because the question this program asks begins where the institution is already compromised.
+
+Its second difficulty is the border he names and declines to draw. Wrongs the system works through its rules, and wrongs you commit yourself: everything in your case turns on which side it falls, and the article brings the distinction into focus and then hands the decision back to you.
+
+A third, which he does not raise. The whole argument is conducted from the lawyer's side. The nervous and probably truthful witness appears once, as an illustration, and is not heard from again. Whether any account of roles can be adequate while the people on the receiving end of them appear only as examples is a question none of these five readings has pressed, and it is worth carrying forward.
+
+Finally: this is the last of the five, and final position lends an authority that has nothing to do with being right. Fried has not heard Confucius or Mencius, has not read Montaigne on the Mayor of Bordeaux, and is not answering Krishna. He is answering critics of his own profession in 1976. Before you go on, take the sharpest objection each of the other four could put to him, and put it.
