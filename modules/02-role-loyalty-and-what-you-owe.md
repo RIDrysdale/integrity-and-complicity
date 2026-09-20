@@ -409,3 +409,63 @@ Its second difficulty is the border he names and declines to draw. Wrongs the sy
 A third, which he does not raise. The whole argument is conducted from the lawyer's side. The nervous and probably truthful witness appears once, as an illustration, and is not heard from again. Whether any account of roles can be adequate while the people on the receiving end of them appear only as examples is a question none of these five readings has pressed, and it is worth carrying forward.
 
 Finally: this is the last of the five, and final position lends an authority that has nothing to do with being right. Fried has not heard Confucius or Mencius, has not read Montaigne on the Mayor of Bordeaux, and is not answering Krishna. He is answering critics of his own profession in 1976. Before you go on, take the sharpest objection each of the other four could put to him, and put it.
+
+---
+
+## Returning to the case
+
+Recall the position you settled on before you read. Before revising it, put the case to each reading in turn.
+
+- **Cicero** asks which of the four things you are is doing the talking, and whether the difference between concealing and not revealing survives the fact that you commissioned the document.
+- **Confucius** asks whether the word *manager* applies to you, and Mencius asks how you have been treating the people who report to you — because on his account that settles what they owe you, not what you owe them.
+- **Montaigne** asks how much of what you are calling duty is ambition wearing duty's name, and whether you can still see this office from anywhere outside it.
+- **Krishna** asks whose dharma you are performing, and tells you there is no version of the job with the smoke taken out.
+- **Fried** asks whether this is a wrong a reasonably just arrangement works through its rules, or one you would be committing yourself — and whether the arrangement is reasonably just.
+
+### The person who said no
+
+There is someone else in this case, and you have met them before. They were you.
+
+The analyst is doing what you did, or what you wish you had done, or what you told yourself you would have done. They are refusing politely and not moving, and they are junior, and their contract may be one of the two.
+
+So: what do you owe the person who refuses you? Not what may you do about them — what do you owe them?
+
+Work through what each reading gives you on that question, and notice how much of the module goes quiet. Then ask whether the ones with something to say have something to say because they are better, or only because that was the question they happened to be built to answer.
+
+### Before you decide anything
+
+Thursday is coming and the report is due. If you do nothing, the analyst's version goes up unchanged.
+
+Sit with that. Doing nothing now produces the outcome that the person you used to be would have wanted. It costs you no argument, no overruling, and no moment where you say the thing out loud. You may even get to feel that you did the right thing.
+
+Ask whether that is a decision or a way of not making one, and whether you would be able to tell.
+
+### Two questions about yourself
+
+Both of them, not whichever is more comfortable.
+
+**How might I be laundering a preference through the role?** You want the budget, the reorganisation is coming, and the role supplies a vocabulary in which wanting the budget sounds like discharging a duty. Every reading here handed you a tool for this. Use one of them properly: separate what this job actually requires from what your position merely makes it easy to say, and do it on paper, item by item, in plain words that name who benefits.
+
+Then the harder half. If you find nothing — if every item comes out as genuine duty — ask whether that is because there is nothing, or because you were the one auditing.
+
+**How might refusing the role's demands be a way of keeping my hands clean?** This is the opposite failure and it is not the less common one. You may be declining to make a hard managerial call because you would rather remain the sort of person who does not make them. Krishna's charge is that this is performing someone else's duty well instead of your own badly; Fried's is that roles which actually work should not be undermined so that a better world may arrive sooner. Montaigne watched his father wreck his health for the city of Bordeaux, praised him, and would not do it — and left it genuinely unclear whether that was honesty or evasion.
+
+The job has real demands. Name the ones you are tempted to duck, and say what you are protecting by ducking them.
+
+### What you would actually do on Thursday
+
+Not your position. Your action. The next concrete thing, in order: what you say, to whom, in what room, and what you expect to happen afterwards. Include what you will say to the analyst either way, because you will have to say something.
+
+Writing a paragraph helps and is not required.
+
+Keep it alongside what you wrote in the first module. You have now answered the same case from both ends of it, and the gap between the two answers is a fact about you that you will not get another clean look at.
+
+## What this module did not settle
+
+Whether there is a you apart from the roles. That is the module's question and five readings divide on it, and the division is not one that argument settled — Cicero and Fried need a person underneath, the *Analects* and Mencius do not supply one, Montaigne insists on one without being able to say what secures it.
+
+Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Whether the *Gita*'s answer is available at all to someone who has no Krishna. Where Fried's border runs between wrongs an arrangement works through its rules and wrongs a person commits — he brings it into focus and then declines to draw it.
+
+And one that has been accumulating rather than arriving. In all five readings the people on the receiving end of a role appear as examples: the Rhodians, the man who bought the unsound house, the nervous witness, the men across the field at Kurukshetra. None of these accounts was built from their side. Whether an adequate account of roles could be is not a question this module raised, and it is not going to go away.
+
+The next module takes up the distinctions this one kept running into and could not use: doing, ordering, enabling, facilitating, benefiting, saying nothing, staying. Fried's border is where it begins.
