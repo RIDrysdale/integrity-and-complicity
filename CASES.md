@@ -20,7 +20,7 @@ You are not being asked to break a law or falsify a number. What do you do?
 
 Some years on. You hold the budget now, and the people whose jobs depended on it report to you.
 
-An analyst on your team has prepared a report. It is accurate and it is damaging. The findings are not wrong; they are worse than anyone expected, and set out plainly they will read to senior leadership as a failure of management, which means yours. There is a reorganisation coming. Two of the six people who work for you are on contracts you will have to argue to renew.
+An analyst on your team has prepared a report. It is accurate and it is damaging. The findings are not wrong; they are worse than anyone expected, and set out plainly they will read to senior leadership as a failure of management, which means yours. It goes into the quarterly pack on Thursday, under the analyst's name and yours, unless you pull it. There is a reorganisation coming. Two of the six people who work for you are on contracts you will have to argue to renew.
 
 You ask the analyst to soften it.
 
@@ -36,7 +36,7 @@ The analyst says no. They say it politely, and they are not going to move.
 - Overrule them and soften it yourself.
 - Send it up unchanged with your own covering note supplying the context you think it lacks.
 - Take it to your own manager and put the decision there.
-- I don't know yet. *(Then: the report is due Thursday. What happens on Thursday?)*
+- I don't know yet. *(Then: Thursday comes regardless. What happens on Thursday?)*
 
 Then the question the case exists for: **is what you now know a fact about how these reports are read, or a fact about where you are sitting?** You cannot answer that by consulting your own confidence, because it would feel the same either way.
 
