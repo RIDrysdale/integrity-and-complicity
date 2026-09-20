@@ -255,3 +255,80 @@ It is not an argument, and it does not want to be. It is a description of a prac
 Its strength is that it is the only account here written from inside an office, and it identifies something the principled accounts do not even name: not the officeholder who does wrong, but the officeholder who has become the office, and can no longer find the place from which the office would look questionable. Cicero has no vocabulary for that. Neither does Fried.
 
 Its difficulty is that there is no standard in it outside the man's own temperament. Montaigne can tell whether Montaigne has kept the separation. He offers nothing by which anyone else could tell, and nothing that would prevent the same words — *the mayor and I are two, I lend myself and do not give myself* — from being spoken with complete sincerity by someone who has simply stopped caring what the office does. The essay's defence is that it never claimed to be a rule. Whether that is its honesty or its failure is what you have to settle, and settling it will decide how much of the sleeping magistrate you are prepared to accept.
+
+---
+
+## Reading 4: *Bhagavad Gita*, 1; 2.1–10; 2.31–38; 3.33–35; 18.41–49
+
+Freely available in many translations. [Besant's at Wikisource](https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)) is quoted below and prints the Sanskrit beside the English with every verse numbered; chapter and verse work in any edition, though chapters are often called discourses.
+
+One warning about the English. Where the translation says "duty" the word is *dharma*, and *dharma* is much wider — law, order, what holds things up, what is right for you given what you are. Besant footnotes this each time, which is worth following. *Svadharma* is your own dharma, the one indexed to you.
+
+### Why it's here
+
+Every role in this module so far has been one you walked into. Cicero's fourth *persona* is a career you picked. Montaigne accepted the mayoralty, reluctantly, but accepted it. The lawyer you read next signed something.
+
+Here a man's station was settled before he could be consulted about it, he cannot put it down, and he is told that what is right for him is not what is right for anyone else — and that this is not a limitation on morality but the shape of it.
+
+It also opens with a refusal, and the refusal is a good one.
+
+### What to watch for
+
+**Chapter 1, and how strong Arjuna's case is.** He looks across at the opposing army and sees his teachers, his uncles, his cousins, his grandfathers. His limbs fail, his mouth dries, his bow slips from his hand.
+
+But do not mistake this for squeamishness, because the text does not. He argues that killing these men will destroy the families and the order the families hold up; that it is a great sin undertaken out of greed for a kingdom; and that he would rather be killed unarmed and unresisting than do it. Then 1.47: he sits down on the seat of the chariot and casts away his bow and arrow.
+
+Someone in your case also said no and would not move.
+
+**2.7 and 2.9.** "My mind is confused as to duty. I ask thee which may be the better — that tell me decisively. I am thy disciple, suppliant to Thee; teach me." And then, without elaboration: "I will not fight!"
+
+Notice exactly what he asks for. Not permission, and not help thinking it through. He asks to be told. Decide whether you find that admirable, and whether you have wanted it this week.
+
+**Who is answering, and on what authority.** The reply comes from Krishna, and the text's claim is not that Krishna is a wise adviser. From 2.11 onward the speaker is God, and by chapter 11 Arjuna is shown a form of him that terrifies him.
+
+You need not accept that to follow the argument, but you cannot quietly subtract it either. Arjuna's answer arrives with a backing that nothing in your situation has. Keep a running account of how much of the force comes from the reasoning and how much from the speaker.
+
+**The premise underneath everything, 2.30.** "This dweller in the body of everyone is ever invulnerable, O Bhârata; therefore thou shouldst not grieve for any creature." Before a word about duty, Krishna has established that what Arjuna thinks he is about to do is not quite what is happening. Much of what follows rests here. Notice how much of it you would lose if you denied it.
+
+**Svadharma, at 2.31–38, 3.35 and 18.47.** The formula arrives twice, in almost the same words: better your own duty badly done than another's done well; better to die in your own duty; another's duty is dangerous. At 2.31 there is nothing better for a *kshatriya* — the warrior order — than a righteous war. At 2.33, refusing means casting away both your dharma and your honour, and incurring sin.
+
+Then watch 2.35–37, because the kind of argument changes. They will say you fled in fear; your enemies will speak of you contemptuously; slain you gain heaven and victorious you gain the earth, so stand up. Krishna has just reasoned from the indestructibility of the self, and is now reasoning from reputation and reward. Decide whether those fit together.
+
+**Where the duties come from, 18.41–48.** Duties are assigned by *varna*, the four orders, each "born of his own nature" — down to 18.44, where service is the duty of the *shudra*. This is ascribed status, not a chosen profession, and the text does not offer it as an unfortunate feature of its time.
+
+You will very likely reject this, and you should be precise about what you are rejecting. The social content is one thing. The structure is another: that what you owe follows from a position you did not select. Your own case is full of that. You did not choose the team you inherited, or the two people whose contracts now depend on what you decide.
+
+**18.48, which is the line to carry out of here.** "Congenital duty, O son of Kunti, though defective, ought not to be abandoned. All undertakings indeed are clouded by defects as fire by smoke."
+
+No role comes clean. There is no version of your job with the smoke taken out. Work out whether that is a description or a permission, because it can be read as either.
+
+**How literally to take the battlefield.** The *Gita* sits inside an enormous epic, and the battle it opens goes on to happen. Readers have divided for a very long time over whether this is counsel to a soldier or a figure for a struggle of a different kind. This module does not settle it. Notice which reading you are using, and whether you picked it because it is better supported or because it is easier to live with.
+
+### What it pulls against
+
+**Montaigne, immediately, and this is the one to be careful about.** He has just taught you to lend yourself and not give yourself. Then 2.38 tells Arjuna to hold pleasure and pain, gain and loss, victory and defeat as equal and gird himself for battle, and it will look like the same counsel in other dress.
+
+It is not the same counsel. Montaigne's separation leaves a man able to serve and still find the office questionable from outside it; it exists to protect his judgment. Krishna's leaves Arjuna's judgment overruled and sends him to kill his teachers. One of them detaches you so that you can see what you are doing. The other detaches you so that you can do it. If you find the *Gita* comfortable at this point, you have probably converted it into Montaigne without noticing.
+
+**Cicero**, whose whole argument needs one standard resting on what every human shares. Here what is right differs by who you are, and doing someone else's right thing well is worse than doing yours badly.
+
+**The *Analects* and Mencius.** Ascribed position matters in both, but there the duties grow out of the relations themselves, and Mencius 4B.3 makes what a minister owes conditional on how he is treated. Nothing here is conditional on the conduct of the men across the field. And Mencius will bend a rule of *li* to pull a drowning woman from a river. Ask whether anything in these chapters bends, and if not, what has replaced *quan*.
+
+**Fried**, next, who also holds that your position changes what you may do, but grounds it in a system you can inspect and an arrangement you could have declined.
+
+### Questions to carry
+
+- Arjuna's objections in chapter 1 are never shown to be false. Are they answered, or are they superseded? If superseded, by what — and would you accept that move from anyone who was not God?
+- Better your own duty ill done than another's well performed. You are the manager. Writing the honest report yourself may be performing the analyst's dharma well instead of your own badly. Is that a real distinction in your case, or an excuse wearing a foreign word?
+- Arjuna asks to be told decisively. Have you wanted that? What would you have accepted as decisive, and from whom? Write down the name.
+- Remove 2.30 — suppose the people really are destroyed. How much of chapters 2 and 18 is left standing?
+- Everything here binds a man who did not choose his station. List the obligations in your case that you did not choose. Do they bind you less than the ones you did?
+- All undertakings are clouded as fire by smoke. Name the smoke in yours, precisely. Then say whether naming it changed what you are going to do — and if it did not, say what the naming was for.
+
+### What kind of argument this is *(read after the text)*
+
+A teaching rather than a demonstration. Its form is that a man in an impossible position asks an authority for instruction and is given it, and how much the answer is worth depends on who is giving it. This is the first reading here in which a role may require what the person filling it believes monstrous, and the reply is *yes, and do it anyway*.
+
+Two features are worth registering after the fact. It severs the tie between right action and good outcome that most of your own reasoning in the case depended on — every argument for softening the report was built out of consequences. And it makes the content of what you owe depend on who you are rather than on a rule holding for everyone, which is a move every other reading here except the *Analects* resists.
+
+Its difficulty is the one Arjuna's own question opens up. He asks which course is better and is told to do what his station requires. A reader who wants to know how to tell what a station genuinely requires from what merely gets demanded in a station's name will not find that test here, and the *Gita* does not obviously think one is needed. Krishna is available to Arjuna. Nothing is available to you on those terms, and what you have in place of it is your own judgment about what a manager is — which is precisely the faculty this reading has just told you not to rely on.
