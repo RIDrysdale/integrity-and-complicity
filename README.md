@@ -2,13 +2,23 @@
 
 *An applied ethics reading program on moral agency inside compromised systems.*
 
-> **Status: foundations drafted, no modules built.** Nothing here is yet a syllabus a reader can follow.
+> **Status: Module 1 drafted, seven to go.** The first module can be worked through now. It has not yet been tested on a reader.
 
 ## The question
 
 How should a person act with integrity while living or working inside institutions that are compromised, dysfunctional, unjust, or corrupt, especially when leaving is not practical or not desirable?
 
 Most people never face a single dramatic moment of conscience. They face a report they are asked to soften, a colleague they are expected to cover for, a policy they think is unfair, or a culture that slowly shifts what everyone treats as normal. They are rarely sure they are right, rarely free of dependence on the institution, and often benefiting from the very arrangements they question.
+
+## Where to start
+
+**[Module 1: Conscience and Obligation](modules/01-conscience-and-obligation.md)**, the first of eight.
+
+It opens with a case — a report you are asked to soften — and asks you to settle on a position before reading anything. Four readings then disagree about what makes an institutional demand binding and what could justify refusing one: Plato's *Apology* and *Crito*, both freely available online, and sections of Rawls's *A Theory of Justice* and an essay by Hannah Arendt, both of which need a library. The module returns you to the case at the end and asks what you would actually do on Monday.
+
+It can be done by reading and thinking alone. Writing is offered and optional.
+
+`ARCHITECTURE.md` sets out the other seven modules and the problems they address.
 
 ## Files
 
@@ -18,11 +28,11 @@ Most people never face a single dramatic moment of conscience. They face a repor
 | `DESIGN-PRINCIPLES.md` | The rules every part of the program is held to |
 | `ARCHITECTURE.md` | The problem sequence: eight core modules and three expansions, provisional |
 | `CASES.md` | Anchor cases and their escalations |
-| `READINGS.md` | Candidate readings with access and verification status |
+| `READINGS.md` | Assigned readings and candidates, with access and verification status |
 | `WORKFLOW.md` | How the work is done, sourced, and reviewed |
 | `OPEN-QUESTIONS.md` | What is still unresolved |
-| `modules/` | Module files, none yet |
-| `notes/` | Tensions, compromise typology, glossary, created when earned |
+| `modules/` | The modules. Module 1 is drafted |
+| `notes/` | `tensions.md`, with others added as they are earned |
 
 ## A note on accuracy
 
