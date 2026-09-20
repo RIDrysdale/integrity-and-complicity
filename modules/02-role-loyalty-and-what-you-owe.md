@@ -183,6 +183,16 @@ That is why the disagreement with Cicero is harder to adjudicate than it looks. 
 
 The limitation is worth naming. Because the constitutive claim is worked within rather than argued for, these passages will not tell you what to do when the relations themselves conflict — when being a good manager and being a good colleague come apart — and 13.18 hands you a case where that collision is the whole difficulty. *Quan* names the work of weighing without saying how to do it. Whether that is an incomplete ethics or an honest one is a real question, and the same charge lands on most of the other readings here.
 
+### An argument we do not assign
+
+**Bradley on station.** In "My Station and Its Duties," the fifth essay of *Ethical Studies* (1876), F. H. Bradley argues that the individual considered apart from family, class, profession and country is not a person at all but a leftover abstraction. Moral life is carried on through the position one occupies and the duties attached to it, and the ordinary man doing his work properly is not falling short of philosophical morality but is inside it.
+
+We mention this because a reader who has just met the *Analects* may file what they found there under *interesting, but not how we think*. It is how a good deal of European philosophy thought. The claim that there is no self standing behind the roles was argued in English, from Hegel and against Kant and the utilitarians, and reached conclusions a reader of 12.11 will recognise.
+
+The more useful point is that the two are not the same view, and reading either as a version of the other will cost you both. Bradley still has a self, and the station is where that self becomes actual; the argument is finally about self-realisation. Nothing in the *Analects* or Mencius is. Their person is constituted in concrete relations and in *li*, with no underlying self waiting to be realised — which is why the two differ about where criticism comes from when a station's demands are bad. Bradley can appeal past the station to something larger; Mencius appeals to *quan*, and to how a ruler has in fact treated the people under him. Bradley, for his part, does not think station is the whole of morality, and says so: the essay that follows this one is called "Ideal Morality."
+
+We do not assign it because the module already carries this position, and a second statement of it would cost a reading without adding a disagreement. The argument compresses into the paragraphs above. The idealist account of the self standing behind it does not, and would require much more of *Ethical Studies* than one essay to make good.
+
 ---
 
 ## Reading 3: Montaigne, *Essays*, III.10, "Of Managing the Will"
@@ -409,6 +419,14 @@ Its second difficulty is the border he names and declines to draw. Wrongs the sy
 A third, which he does not raise. The whole argument is conducted from the lawyer's side. The nervous and probably truthful witness appears once, as an illustration, and is not heard from again. Whether any account of roles can be adequate while the people on the receiving end of them appear only as examples is a question none of these five readings has pressed, and it is worth carrying forward.
 
 Finally: this is the last of the five, and final position lends an authority that has nothing to do with being right. Fried has not heard Confucius or Mencius, has not read Montaigne on the Mayor of Bordeaux, and is not answering Krishna. He is answering critics of his own profession in 1976. Before you go on, take the sharpest objection each of the other four could put to him, and put it.
+
+### An argument we do not assign
+
+**Weber on responsibility.** In "Politics as a Vocation," a lecture given in 1919, Max Weber set out a distinction that has been in the language ever since. An ethic of conviction — *Gesinnungsethik* — answers for the rightness of the act and leaves the consequences to God, or to the world, or to whoever caused the circumstances. An ethic of responsibility — *Verantwortungsethik* — answers for the foreseeable results of what one does. Weber's claim is that anyone who takes up power cannot be governed by conviction alone, because the results of a refusal belong to the person who refuses just as the results of compliance belong to the person who complies. He did not think the two could be reconciled, and did not think the second was the comfortable one: his account of the person who takes up office is that they contract with means that will implicate them, and that this is the condition of the work rather than a failure of it.
+
+It is worth knowing about here because it is your manager's argument from three years ago, and now yours, at its full strength and stated by someone with no interest in making it easy to live with. Fried sends the moral correction to the system and leaves the role-holder's conscience out of it. Weber leaves it exactly where you are standing, and says you will be marked by it. Nothing else assigned in this module holds both of those at once.
+
+We do not assign it for reasons that have nothing to do with its quality. It carries no locators that survive a change of edition, and there is no English translation of it that is both reliable and freely available — the standard one is in copyright, and the copies circulating without charge do not have a clear right to be there. A reading the reader cannot obtain is not a reading. If you have library access, the lecture is short and worth the trip.
 
 ---
 
