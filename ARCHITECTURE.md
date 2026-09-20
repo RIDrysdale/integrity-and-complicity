@@ -30,11 +30,11 @@ Two things deliberately do **not** appear as modules:
 The entry point. A demand arrives that you believe is wrong but that is not illegal and not obviously outrageous. The module establishes the two poles the rest of the program works between: grounds for refusal, and obligations that survive being wronged.
 
 ### 2. Role, Loyalty, and What You Owe
-*Do the obligations of a job, a profession, or a membership differ in kind from ordinary moral obligations?*
+*What does a role make you owe — and is there a you apart from the roles?*
 
 The defense that does most of the real work in institutional life: *this is my role, these are my people, this is not my call.* The module has to take that seriously before it can be examined, because it is frequently correct.
 
-Candidate site for Confucian role ethics, which does not answer this question in familiar terms so much as deny the framing that separates role from person.
+The question originally read: *do the obligations of a job, a profession, or a membership differ in kind from ordinary moral obligations?* It was restated when the module's readings were chosen. The Confucian material denies that there are two separable things to compare, and the old wording granted that separation before the reader could examine it. The present wording holds the original question and the challenge to it open together.
 
 ### 3. Complicity and Participation
 *What counts as taking part in wrongdoing someone else is doing?*
@@ -86,7 +86,7 @@ Responsibility looking outward rather than inward: what is owed to the people ha
 ## What is not yet decided
 
 - No readings are assigned in this document, including for Module 1.
-- The eight problems are Western-analytic in their carving: discrete problems, rival positions, an individual agent deciding. Design principle 8 does not require every module to test that carving, but it does require that somewhere in the program a tradition be allowed to reject it rather than supply another position within it. If that happens, this document changes.
+- The eight problems are Western-analytic in their carving: discrete problems, rival positions, an individual agent deciding. Design principle 8 does not require every module to test that carving, but it does require that somewhere in the program a tradition be allowed to reject it rather than supply another position within it. This has now happened once, in Module 2, whose question was rewritten because the Confucian readings deny its original premise. Whether it should happen again elsewhere is open.
 - Anchor cases and their escalation across modules are drafted in `CASES.md`.
 
 ## Coverage of the charter's concerns
