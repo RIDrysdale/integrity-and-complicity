@@ -14,6 +14,12 @@ Neither model's agreement with the other establishes anything.
 
 **One reading entry at a time.** Draft it, have it reviewed, move on. A whole module is too large a unit to hold in review at once.
 
+## Drafting a module
+
+Do not pre-judge a reading for the reader. No advance verdicts on which arguments are strongest, no warning the reader against a text before they meet it, and no positioning of the final reading as the one that sees through the others.
+
+Sequence carries an argument whether or not one is intended: the last reading and the last question acquire authority from their position alone. Test every reading against the others in both directions, and turn the module's sharpest question on whichever reading the draft treats most gently.
+
 ## Sourcing rules
 
 1. Cite by edition-independent locator: Stephanus, Bekker, section, chapter, verse. Never by page number.

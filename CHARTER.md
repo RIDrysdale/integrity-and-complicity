@@ -45,6 +45,10 @@ A module is finished when:
 2. Every assigned reading is obtainable by the reader and cited by a locator that works in any edition.
 3. Nothing is quoted that has not been checked against an accessible text.
 4. Its readings were chosen for what they contribute to this problem, not for familiarity or for coverage.
-5. Robert has read it as a reader and it survived that reading.
 
-**And of the finished program:** traditions outside the Western canon are engaged as full readings where they bear on the problem at hand, and at least one of them was allowed to change something. This is a requirement on the whole, not on each module.
+**And of the finished program:**
+
+1. Traditions outside the Western canon are engaged as full readings where they bear on the problem at hand, and at least one of them was allowed to change something.
+2. Robert has read the program through as a reader, in sequence, and it survived that reading.
+
+The reader pass is held until the modules exist, so that the recurring cases and the movement between modules can be met the way a reader meets them rather than one module at a time. The cost of holding it is real: until it happens, nothing in the program has been read by anyone outside the drafting process, and an error in the form itself would be repeated across every module before anyone noticed.
