@@ -1,16 +1,16 @@
 # Module 2: Role, Loyalty, and What You Owe
 
-*What does a role make you owe — and is there a you apart from the roles?*
+*Do the obligations of a job, a profession, or a membership differ in kind from ordinary moral obligations?*
 
-Four readings disagree about what a role is. Cicero holds that whatever office you occupy there are bounds you do not set, and tests that on a merchant who knows something his buyers do not. The *Analects* and Mencius ask instead what makes someone a good minister or a good son, and reach their standards without opening from a conflict between conscience and office. Montaigne, who governed a city during a civil war, says that the mayor and the man were always two. Fried argues that a lawyer may do things for a client that he would not do for himself, and that this is a moral position rather than an exception to one.
+Four readings disagree about one thing. When what you owe as a person and what you owe as an officeholder pull in different directions, does one of them get laid aside? Cicero says it does: the judge who sits in a friend's case stops, for that purpose, being a friend. Confucius, asked about a son whose father has stolen a sheep, puts uprightness in exactly the relation Cicero lays down. Montaigne, who governed a city during a civil war, separates the man from the office too, and runs the separation the other way — to keep the office from consuming the man. Fried argues that a lawyer's partiality to a client is not an exception to morality but a form of friendship licensed by it, and so is never laid aside at all.
 
-By the end you should be able to state the strongest case for thinking a role genuinely changes what you owe, the strongest case for thinking it cannot, and the case for thinking the question is better approached from a different direction. You are not expected to choose between them.
+By the end you should be able to state the strongest case for thinking a role genuinely changes what you owe, the strongest case for thinking it cannot, and what turns on whether a role is something you put on or something you become. You are not expected to choose between them.
 
 This is the defence that does most of the real work in institutional life — *this is my role, these are my people, this is not my call* — and it is frequently correct. A judge sentences someone they would personally forgive. A defence lawyer works for a client they believe guilty. A civil servant implements a policy they voted against. None of these people is doing something shabby. Working out what separates them from the person who says *I just work here* is the whole of the problem.
 
 ## What is assigned
 
-- **Cicero, *De Officiis*, I.107–115 and III.49–58** — two short stretches, not the whole work. Half an hour or a little more.
+- **Cicero, *De Officiis*, I.107–115 and III.43–58** — two stretches, not the whole work. Forty minutes or so.
 - **Confucius, *Analects*: 4.5, 4.18, 12.11, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25; and Mencius 2A.6, 4A.17 and 4B.3** — twelve short passages. Longer than it looks, because they need re-reading.
 - **Montaigne, *Essays*, III.10, "Of Managing the Will"** — one essay, whole. Three quarters of an hour, and it wanders.
 - **Fried, "The Lawyer as Friend" (1976)** — the whole article. The longest and densest of the four.
@@ -50,13 +50,13 @@ Note also what you are assuming about the analyst. You may be taking them to hav
 
 ---
 
-## Reading 1: Cicero, *De Officiis*, I.107–115 and III.49–58
+## Reading 1: Cicero, *De Officiis*, I.107–115 and III.43–58
 
 Freely available, and the book and section numbers are standard in every edition. Miller's translation at LacusCurtius: [Book I](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/1E*.html) and [Book III](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/3B*.html), which is where the quotations below come from. Only the two stretches named are assigned.
 
 ### Why it's here
 
-Cicero held office in a republic he watched being dismantled, and wrote this to his son about how to conduct oneself in one. He gives the module its first answer to the question — and then, on a case very close to yours, he does something the other readings mostly do not. He produces a test.
+Cicero held office in a republic he watched being dismantled, and wrote this to his son about how to conduct oneself in one. He gives the module its first answer, and gives it twice: once as a rule for what happens when two roles pull against each other, and once, on a case very close to yours, as a test for the silences an officeholder may keep. Both are short enough to carry and harder to use than they look.
 
 ### What to watch for
 
@@ -66,6 +66,12 @@ They are not four equals. At I.110 the universal sets bounds and your own nature
 
 So Cicero already grants that what you must do depends on who you are. Work out what he thinks does not vary, and whether the text supports the line he draws there.
 
+**The judge in a friend's case, III.43.** Duty is most confused in friendships, Cicero says, because it is a breach either to fail a friend in what you may rightly do for him or to do for him what is not right. Then the rule: an upright man will do nothing against his country's interests, his oath or his good faith for a friend's sake — not even if he sits as judge in that friend's case, "for he lays aside the rôle of friend when he assumes that of judge." The Latin is *ponit enim personam amici, cum induit iudicis*: the same word you have just met four times over. What friendship is still allowed is exact and small. He may prefer his friend's side to be the juster one, and may set the time of the hearing to suit him so far as the laws permit.
+
+Read III.44–46 for what holds it up. The verdict is sworn, and the witness Cicero names is the judge's own mind. If everything a friend wanted had to be done, these would not be friendships but conspiracies. And where friendship asks for what is not honourable, good faith comes first.
+
+This is the module's hinge, so take the trouble to state it exactly. Cicero is not saying the relation counts for nothing. He is saying that when you put the office on, the relation stops being the thing you act from. Whether that is right is the question the rest of the module is about.
+
 **III.49–50.** Nothing morally wrong is ever expedient. But read III.50 before deciding that settles anything by assertion: cases arise where the two seem to clash, and the work is to find whether the conflict is real. He is announcing a method.
 
 **The merchant at Rhodes, III.50–57.** Famine, a fabulous price for grain, a trader who alone knows more ships are close behind. Antipater says disclose; Diogenes says declare what the law requires and otherwise sell to advantage, misrepresenting nothing — because concealing and merely not revealing are different things. At III.54 the same question is put about a house the seller knows to be unsound, and Diogenes asks what would be more stupid than a vendor reciting every fault of what he is selling.
@@ -74,18 +80,24 @@ So Cicero already grants that what you must do depends on who you are. Work out 
 
 That is a test with two conditions, and it grants Diogenes his distinction rather than brushing it aside. Run it on your own case, and notice whether the conditions come apart.
 
-**III.58.** Suppressing the truth and stating what is false are kept distinct, and both are blamed. Nothing in your analyst's report is false.
+Notice what the first condition excludes. The Latin is *emolumenti tui causa* — for the sake of your own gain — so a silence kept for somebody else's benefit does not obviously fall inside it. Hold that beside III.43, where acting for another's sake is precisely what the judge may not do. Two passages, two different tests, and most real cases sit between them.
+
+**III.58.** Suppressing the truth and stating what is false are kept distinct, and both are blamed. Nothing in your analyst's report is false. The story of Canius and the borrowed fishing boats begins here and runs on past the end of the assignment; read it if you like, but the sentence before it is the one that bears.
 
 ### What it pulls against
 
-Later readings disagree with parts of this. Rather than predicting which, carry two things separately.
+Later readings disagree with parts of this. Rather than predicting which, carry three things separately.
+
+The rule at III.43 — that putting on the office lays down the relation — is the claim contested most directly ahead, and it can be rejected without disturbing anything else here.
 
 The universal *persona* does a particular job: it sets bounds, inside which character, circumstance and choice differentiate what you must do. Denying that anything universal sets the bounds, and disagreeing about where they fall, are different objections with different consequences.
 
-The criterion at III.57 is detachable. A later reading could reject Cicero's account of the person and keep his test, or keep the account and find the test too narrow.
+The criterion at III.57 is detachable from both. A later reading could reject Cicero's account of the person and keep his test, or keep the account and find the test too narrow.
 
 ### Questions to carry
 
+- III.43 has the judge lay aside the friend. Name the office you put on when you decide about this report, and say what it requires you to lay aside. If the answer is nothing, say what makes your case unlike the judge's.
+- Cicero forbids acting against good faith for a *friend's* sake. Two of the six people who work for you are on contracts you will have to argue to renew. Is that a friend's sake, and does it matter whether you like them?
 - Put your case through III.57. Are you keeping from senior leadership something it is in their interest to know? And are you doing it for your own profit — bearing in mind that a reorganisation is coming and you are in it?
 - Now pull the two conditions apart. Suppose it is genuinely in their interest to know, and your motive genuinely is the two contracts and not yourself. Does the criterion reach that case? Should it?
 - Answer Diogenes. Would you expect a vendor to recite every fault of what he is selling? If your report is not like a house for sale, say what the difference is — you commissioned it, you do not own it, and nobody is buying anything.
@@ -96,9 +108,9 @@ The criterion at III.57 is detachable. A later reading could reject Cicero's acc
 
 A unity argument: one standard of conduct rather than a separate one for offices, and apparent conflicts between the honourable and the expedient are errors about what is genuinely expedient. The four *personae* are not four moralities. They are four things true of one person at once, which is how Cicero can hold that character and circumstance really do shape what you should do without conceding that they change the standard that bounds them.
 
-Its strength is that it yields a test and not only a verdict, and that the test survives being detached from the rest.
+Its strength is that it yields rules and not only verdicts, and that the rules survive being detached from the account of the person that produced them.
 
-Its difficulty is in the test's two conditions, which Cicero joins without asking whether either works alone. Someone confident their motive is not profit can satisfy the criterion while leaving people in an ignorance it is against their interest to be in. And confidence about one's own motive is exactly what this module's case has already warned you not to trust. Whether that is a gap in the criterion, or the point at which any criterion has to hand over to a kind of honesty it cannot itself supply, is worth settling before you go on.
+Its difficulty is where the two rules meet. III.43 forbids acting against good faith for another's sake; III.57 makes concealment a matter of keeping people ignorant for your own gain. Cicero does not say which governs when the benefit runs partly to you and partly to people you are responsible for, which is where most real cases sit and where yours sits. Someone confident their motive is not profit can satisfy the criterion while leaving people in an ignorance it is against their interest to be in — and confidence about one's own motive is exactly what this module's case has already warned you not to trust.
 
 ---
 
@@ -110,9 +122,9 @@ Four words are better left in Chinese: *ren*, roughly humaneness, the central vi
 
 ### Why it's here
 
-Cicero reached his test by way of an account of the person: universal nature setting bounds, character and circumstance differentiating inside them. These texts get to their standards along a different road. They characteristically ask what makes someone a good ruler, a good minister, a good father or son — and do not begin from a conflict between what a person privately judges and what an office demands.
+Cicero reached his rules by way of an account of the person: universal nature setting bounds, character and circumstance differentiating inside them. These texts get to their standards along a different road. They characteristically ask what makes someone a good ruler, a good minister, a good father or son — and do not begin from a conflict between what a person privately judges and what an office demands.
 
-That changes where an inquiry starts, and it is worth seeing what the change does before deciding how deep it goes. The question you have been carrying asks whether what a role demands differs from what you otherwise owe. These texts more often ask what the role is, whether this is what one does, and on whose authority that is settled. Those are not the same investigation even when they end in the same place.
+That changes where an inquiry starts, and it is worth seeing what the change does before deciding how deep it goes. But one passage here does not merely start elsewhere. At 13.18 Confucius is given Cicero's answer to the module's question by someone else, and rejects it. That is the reason this reading comes second.
 
 ### What to watch for
 
@@ -126,7 +138,11 @@ Role words carry standards, and "manager" can fail to apply. Notice what this le
 
 Do not soften this. The case is a theft, the response is concealment, and Confucius does not treat the concealment as a regrettable cost of family feeling. He puts uprightness in it. That is the claim, and the reader who wants these texts to be congenial has to get past it rather than around it.
 
-What it does not settle is how far it reaches — whether past kin, or to graver things than a sheep.
+Now set it against III.43. The Duke of She's district holds Cicero's position exactly: the upright man testifies, because taking up the office of witness lays down the relation of son. Confucius answers it by name — the upright men here are different — and locates uprightness in the thing Cicero lays down. The two texts are addressing the same question from opposite ends, and neither has to be stretched to produce the disagreement.
+
+Then something that makes it harder rather than easier. Cicero's other test may acquit the son. Concealment at III.57 is wanting people ignorant *for your own gain*, and the son gains nothing; on that test his silence is holding his peace, which Cicero expressly permits. So the two writers may agree about the sheep and disagree about the rule. Work out which of Cicero's two passages you think governs his own case, because the answer decides a good deal about Thursday.
+
+What 13.18 does not settle is how far it reaches — whether past kin, or to graver things than a sheep.
 
 You will want to take it further, because the institutional version writes itself: my department covers for my department, my force for my force. An analogy does not need the two to be the same kind of thing, only relevantly alike, so do the work properly. A family is not chosen and a department is. A family answers to no one for its internal arrangements and a department answers to the institution paying for it. The sheep's owner is a neighbour; the audience for your report commissioned it. Decide which of those differences bear on the case for concealment and which do not.
 
@@ -154,11 +170,12 @@ Note the shape of that and also its distance from you. A ruler actively preventi
 
 ### What it pulls against
 
-Cicero, though not where it first appears. Both accounts constrain what a role can demand, and I.112 already lets duty differ from person to person, so this is not universal standards against particular ones. Nor is it that one side can state obligations without reference to roles and the other cannot — 2A.6 does exactly that. What differs is where each begins and what each treats as needing explanation.
+Cicero, and now precisely. Both accounts constrain what a role can demand, and I.112 already lets duty differ from person to person, so this is not universal standards against particular ones. Nor is it that one side can state obligations without reference to roles and the other cannot — 2A.6 does exactly that. What they divide on is narrower and sharper: whether taking up a position cancels the claims of the people you already stood in relation to. III.43 says it does. 13.18 says uprightness is in those claims.
 
 ### Questions to carry
 
 - Confucius puts uprightness in concealing the theft. State the strongest case for him in your own words before you object, and then say what your objection actually rests on.
+- Cicero's judge lays aside the friend; Confucius's son does not lay aside the father. Which of the two is the analyst asking you to be, and which are you asking the analyst to be?
 - Take the institutional analogy seriously and then take it apart. Which differences between a family and a department bear on concealment, and which are beside the point?
 - These texts are strong against an officeholder who is failing. What do they give you against a practice that everyone performs correctly and that is rotten anyway? Point at the passage.
 - 4.18 has the son keeping his respect and not disobeying, on either reading. Your analyst is refusing. Does any passage here support them, and if not, what do you make of that?
@@ -171,17 +188,13 @@ Less derivation than Cicero, but not the absence of argument. 13.3 runs a chain 
 
 The standards here are mostly developed inside the relations they govern. That is a real strength against an officeholder who is not doing what the office is for, and it is the reason 12.11 has teeth. Whether it reaches a whole practice that is functioning smoothly and badly is the thing to keep testing, and your own case is the test.
 
+It is also why 13.18 is not a lapse in an otherwise congenial text. If standards are developed inside relations, a relation is not the kind of thing an office can simply displace, and the sheep follows from the method rather than sitting awkwardly beside it.
+
 The limitation to carry out is that *quan* names the work of weighing without saying how it is done, and 13.18 hands you a case where the weighing is the whole difficulty. That charge lands on most of the other readings here too.
 
 ### An argument we do not assign
 
-**Bradley on station.** In "My Station and Its Duties," the fifth essay of *Ethical Studies* (1876), F. H. Bradley argues that the individual considered apart from family, class, profession and country is not a person but a leftover abstraction, and that moral life is carried on through the position one occupies and the duties attached to it. The ordinary man doing his work properly is not falling short of philosophical morality; he is inside it.
-
-We mention him because he states plainly a claim you may have thought you were reading a moment ago. That a person is constituted by station, so that there is nothing left when you subtract the relations, is a real position, argued in English, from Hegel and against Kant and the utilitarians. Set it beside the passages you have just read and see whether they assert it or only proceed without needing to. The difference decides a good deal about what follows from them.
-
-Bradley also does not think station is the whole of morality. Within the same essay he faces the case of a community that is itself rotten, and the essay after it is called "Ideal Morality" — which is the question these passages left you with, reached from the other direction.
-
-We do not assign it because the essay cannot be detached from the idealist account of the self running through the book, and because the module already carries as much as it can. The position states in a paragraph; what holds it up does not.
+**Bradley on station.** In "My Station and Its Duties," the fifth essay of *Ethical Studies* (1876), F. H. Bradley argued that the individual considered apart from family, class, profession and country is not a person but a leftover abstraction, and that moral life is carried on through the position one occupies and the duties attached to it — the ordinary man doing his work properly is not falling short of philosophical morality but is inside it. It bears on this module because it states plainly, and from Hegel against Kant and the utilitarians, a claim the passages just read may look like they are making and mostly are not: they develop standards through the relations without asserting that a person is constituted by them. We do not assign it because the essay cannot be detached from the idealist account of the self running through the book. The position states in a paragraph; what holds it up does not.
 
 ---
 
@@ -191,7 +204,7 @@ Freely available. [Cotton's translation at Project Gutenberg](https://www.gutenb
 
 ### Why it's here
 
-Montaigne was twice elected mayor of Bordeaux in the 1580s, while France tore itself apart in the wars of religion. He is the only writer here who held an office of the kind this module is about, and he is writing after the fact — the essay names the man he handed the office to. He also says the thing the module exists to examine, flatly: an honest man is not accountable for the vice or absurdity of his employment.
+Montaigne was twice elected mayor of Bordeaux in the 1580s, while France tore itself apart in the wars of religion. Cicero held office too, but wrote his book as advice to a son; Montaigne is giving an account of his own administration after the fact, and the essay names the man he handed the office to. He also says the thing the module exists to examine, flatly: an honest man is not accountable for the vice or absurdity of his employment.
 
 ### What to watch for
 
@@ -199,7 +212,7 @@ Montaigne was twice elected mayor of Bordeaux in the 1580s, while France tore it
 
 He has seen the alternative: men who "transform and transubstantiate themselves into as many new shapes and new beings as they undertake new employments," who "strut and fume even to the heart and liver," and of whom he says: "I cannot make them distinguish the salutations made to themselves from those made to their commission, their train, or their mule."
 
-*Persona* is Latin for an actor's mask, and it is Cicero's word for the four things you are — the third being your office. Montaigne's "borrowed personage" is the same word in different service. Before deciding they contradict, work out whether an office could impose real obligations without exhausting its holder, and whether either writer denies it.
+*Persona* is Latin for an actor's mask, and it is Cicero's word both for the four things you are and for what the judge puts on when he lays down the friend. Montaigne's "borrowed personage" is the same word in different service. Cicero separates in order to bind the officeholder to the office's standard; Montaigne separates in order to loosen the hold the office has on the man. Both take it off and on. They disagree about which of the two is protected by doing so — and a reader who holds both has to say what happens on Thursday.
 
 **The mayor, and what surrounds it.** "The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation." The sentence continues into a reason that is easy to miss: a man who is an advocate or a financier "must not ignore the knavery there is in such callings," yet "an honest man is not accountable for the vice or absurdity of his employment, and ought not on that account refuse to take the calling upon him: 'tis the usage of his country, and there is money to be got by it; a man must live by the world."
 
@@ -221,9 +234,9 @@ Read the excuse, because it is an argument. Moral teaching drives us out of ours
 
 ### What it pulls against
 
-*Analects* 13.13, which you carried in. If personal uprightness and the conduct of office are bound as tightly as that passage may mean, this essay's practice is harder to hold. How much harder depends on what 13.13 was claiming, which you were asked to decide.
+*Analects* 13.13, which you carried in. If personal uprightness and the conduct of office are bound as tightly as that passage may mean, this essay's practice is harder to hold. How much harder depends on what 13.13 was claiming — and Reading 2 gave you reasons not to take it at its strongest.
 
-Cicero, on one word and perhaps on nothing else. Both men think an officeholder is more than the office. Whether they disagree about what follows is a question, not a result.
+Cicero, on more than a word. Both men think an officeholder is more than the office, and both put the office on and take it off. What they do with the separation runs opposite ways, and it is worth asking whether that is one claim with the sign changed or two different claims that happen to share a vocabulary.
 
 ### Questions to carry
 
@@ -238,7 +251,7 @@ Cicero, on one word and perhaps on nothing else. Both men think an officeholder 
 
 An essay in the older sense — a trial, proceeding by example, quotation and second thought rather than in order. But it does argue. Excessive attachment to an office damages the work; public good is not the same as personal reputation; what we owe ourselves sets a limit on what can be demanded for others; moral exhortation is pitched high on purpose and should be read accordingly. These are claims with reasons attached.
 
-Its strength is that it comes from inside an office, and that it names something the principled accounts here do not: not the officeholder who does wrong, but the one who has become the office and can no longer locate the place from which it would look questionable.
+Its strength is that it comes from inside an office, and that it dwells on a failure the other readings pass quickly: not the officeholder who does wrong, but the one who has become the office and can no longer locate the place from which it would look questionable. Fried names the same thing near the end of his essay, in a sentence. Montaigne spends pages describing what living next to it is like, which is a different kind of use.
 
 Its difficulty is how little it offers anyone else. There are standards in it — duty as against ambition, the public good as against reputation, the governed sleeping soundly — but each is applied by Montaigne to Montaigne, and the essay is a retrospective account of an administration he is defending. Nothing in it prevents the same sentences being spoken in good faith by someone who has simply stopped minding what the office does. The essay never claimed to be a rule. Whether that is its honesty or its limit is what you have to settle.
 
@@ -252,7 +265,7 @@ Its difficulty is how little it offers anyone else. There are standards in it �
 
 Fried asks whether a decent, ethical person can ever be a lawyer — not how a decent lawyer should behave, but whether the assurances you give by taking up the role are ones an honourable person could give at all. Your version is whether a decent person can be a manager.
 
-He is also the only writer here defending a role that is entered by agreement, bounded in advance, and backed by an institution you can inspect.
+He is also the only writer here who never lays the relation aside. Cicero's judge puts off the friend; Fried's lawyer is a friend, and that is what the professional role consists of.
 
 ### What to watch for
 
@@ -272,23 +285,25 @@ The difference is that the second has a particular person at the other end. Deci
 
 **The soldier, and the line.** A soldier of a just state whose foreign policy is decided democratically may hold that judging the war is not his to do — note both conditions, since the second is part of why the judgment might belong elsewhere — while being personally bound not to attack civilians or abuse prisoners — wrongs done by his person to the person of a victim. So: wrongs a reasonably just system works through its rules, against wrongs the role-holder commits. He says the border is where competing principles rub together and no rule will spare you judgment there.
 
-**The machinery the argument runs on.** Keep a list as you read of what has to be in place for any of this to work. There is an adversary with a lawyer of their own. There are rules of advocacy setting the outer limits. There is a tribunal that decides. There is a client who chose this lawyer and can dismiss him, whose autonomy is the good being served. And there is a professional code that in some circumstances requires him to withdraw, which footnote 35 sets out.
+**What the argument needs, and what it does not.** It is tempting to read this as a defence of courtroom advocacy and then to rule yourself out for having no opponent and no tribunal. Fried blocks that himself. A doctor, he says, is a friend though a special purpose friend. His lawyers include one who arranges the estate of a disagreeable dowager and one who advises a client how lawfully to avoid a tax. None of those has an adversary with counsel or a court to decide between them. The friendship is meant to cover professional partiality as such.
 
-None of that is scenery. Fried's permission is issued by that structure, and he says as much at III.B.1 when he sends the correction back to whoever writes the rules.
+What it does need is worth listing as you read, because it is shorter and more demanding than the courtroom furniture. The law and the rules of advocacy set outer limits he did not choose. A client's autonomy within those limits is the good being served. Footnote 35 adds circumstances in which the rules oblige him to withdraw. And the system has to be reasonably just, because the licence is drawn from the justice of whatever issues it — which is why, at III.B.1, he sends the correction back to the people who write the rules rather than to the man doing the job.
 
 **The conclusion.** Before the end he turns on lawyers who identify with their clients beyond the professional task — the defence lawyer speaking publicly against regulation, often because it is good for business. He has a name for capture by the role. Then the last word: he will not have the integrity of these roles undermined so the millennium may come sooner, since it may never come.
 
 ### What it pulls against
 
+Cicero at the hinge. III.43 has the judge lay the friend aside; Fried's lawyer never does, because for him the friendship is the role. Before calling that a flat contradiction, notice that nothing in Fried requires him to deny Cicero his judge, since the lawyer is not the one deciding, and see where that leaves you. On Thursday, are you the judge or the advocate? The case does not settle it, and both answers are genuinely available.
+
 Cicero, on the merchant. Fried protects some of the space Diogenes claimed, and III.57's criterion would not obviously permit it — but both reason from something everyone is owed, and Fried's line at personal wrongs is not far from where Cicero drew his. Work out whether they disagree about the principle or about which side a silence falls.
 
-The *Analects* and Mencius, where a relation is not entered by contract — though 4B.3 has a minister leaving, and a ruler who obstructs the leaving. Ask whether the difference is about what is owed or only about how the obligation arose and how it ends.
+The *Analects* and Mencius, where a relation is not entered by contract — though 4B.3 has a minister leaving, and a ruler who obstructs the leaving. Ask whether the difference is about what is owed or only about how the obligation arose and how it ends. Note also that Fried and 13.18 end up on the same side of III.43 by quite different routes.
 
 
 ### Questions to carry
 
 - Ask his question in his words about your own job. If you answer yes, say what it is about the job that makes it so, not what it is about you.
-- Before borrowing this argument, check whether you have what it runs on. Who is your client? Who is on the other side, and who is acting for them? What rules say what you may and may not do for your side? Who decides? If most of those come back empty, work out what is left of the permission.
+- His partiality does not require a courtroom, so do not let yourself off on that ground. Say instead what it does require in your case: whose interests you have adopted, what limits were set for you and by whom, and what would oblige you to stop. If a limit holds only because you are observing it, say what that changes.
 - And the hardest one: Fried's lawyer is never the person the case is about. You are. The report concerns your management, so in his terms you are closer to a man acting for himself, which the profession treats as a hazard rather than a licence. Does anything in the argument survive that?
 - Which criticism is your case: misallocation, or advantage taken at the expense of someone identifiable? Name them if you can.
 - If correction belongs to the system rather than the role-holder, what follows for you on Thursday? Is *work to change how these reports are commissioned* an answer or a deferral? It can be either.
@@ -303,19 +318,17 @@ Notice what it needs. It needs the background system to be reasonably just, beca
 
 Its second difficulty is the border. Wrongs a system works through its rules, and wrongs you commit yourself: your case turns on which side it falls. Fried gives the distinction real content and worked examples, and says only that no rule will resolve every borderline case without judgment. Whether that leaves you enough is worth settling.
 
-The third is not a difficulty in his argument but in taking it out of the building. What licenses the lawyer's partiality is not that he has a client; it is that an institution has specified in advance what he may do for that client, who opposes him, who decides between them, and when he must stop. Some jobs have that structure — an auditor, a union representative, a public defender, an inspector — and if yours does, Fried transfers and you should use him. A manager deciding what leadership gets told has an interest, not a brief. The difference is not that partiality is unavailable to you; it is that nothing has authorised yours or set its limits, so you are supplying both. Saying *this department is my client* borrows the vocabulary without the machinery.
+The third is not a difficulty in his argument but in carrying it out of the building. Fried's professional serves someone who chose him and can dismiss him, inside limits set before either of them arrived, and is never himself the subject of the matter. Take those away one at a time and see what is left standing. You have adopted interests too — the department's, the two contracts', arguably your own — but nobody specified in advance which of them you may serve or how far, and the report is about you. None of that shows the argument is unavailable to you. It shows which parts of it you would be supplying yourself, and those are the parts worth knowing about before you lean on them.
 
 ### An argument we do not assign
 
-**Weber on responsibility.** In "Politics as a Vocation," a lecture of 1919, Max Weber distinguished an ethic of conviction — *Gesinnungsethik* — which answers for the rightness of the act and leaves the consequences to God or the world, from an ethic of responsibility — *Verantwortungsethik* — which answers for the foreseeable results of what one does, including the results of a refusal. He thought anyone taking up power contracts with means that will implicate them, and that this is a condition of the work rather than a failure of it. He did not treat the two ethics as simple opposites: the lecture ends by saying they supplement each other, and that a person who has both has the calling for politics.
-
-It bears on this module because it places the reckoning with consequences on the officeholder rather than on the system, which is where Fried declines to put it. We do not assign it because it carries no locators that survive a change of edition and has no English translation that is both reliable and freely available — the standard one is in copyright and the free copies have no clear right to be there. If you have library access, the lecture is short.
+**Weber on responsibility.** In "Politics as a Vocation," a lecture of 1919, Max Weber distinguished an ethic of conviction, which answers for the rightness of the act and leaves the consequences to the world, from an ethic of responsibility, which answers for the foreseeable results of what one does, including the results of a refusal; he held that anyone taking up power contracts with means that will implicate them, and ended by saying the two ethics supplement each other rather than excluding each other. It bears on this module because it puts the reckoning with consequences on the officeholder rather than on the system, which is where Fried declines to put it. We do not assign it because no English translation is both reliable and freely available — the standard one is in copyright. If you have library access, the lecture is short.
 
 ## Returning to the case
 
 Recall the position you settled on before you read. Before revising it, put the case to each reading in turn.
 
-- **Cicero** hands you a test: are you keeping from leadership something it is in their interest to know, and are you doing it for your own profit? He also thinks the answer does not depend on what the rules require of you.
+- **Cicero** asks what office you are putting on and what it requires you to lay aside, and then hands you a test: are you keeping from leadership something it is in their interest to know, and are you doing it for your own profit?
 - **Confucius** asks whether the word *manager* applies to what you are doing, and Mencius asks how you have been treating the people who report to you — because on his account that bears on what they owe you.
 - **Montaigne** asks how much of what you are calling duty is ambition wearing duty's name, and whether you can still see this office from anywhere outside it.
 - **Fried** asks who your client is, whether this is a wrong a reasonably just arrangement works through its rules or one you would commit yourself, and whether the arrangement is reasonably just.
@@ -328,7 +341,7 @@ The analyst is refusing politely, is not moving, and is junior.
 
 So: what do you owe the person who refuses you? Not what may you do about them — what do you owe them?
 
-Put the question to each of the five in turn and write down what you get. Some will have more to say about it than others. Do not conclude anything from that until you have tried them all, because a reading that seems to offer nothing may be one you have asked the wrong way.
+Put the question to each of the four in turn. Some will have more to say about it than others. Do not conclude anything from that until you have tried them all, because a reading that seems to offer nothing may be one you have asked the wrong way.
 
 ### Before you decide anything
 
@@ -342,7 +355,7 @@ The question is not whether the choice felt hard enough. It is whether you made 
 
 Both of them, not whichever is more comfortable.
 
-And a warning about both. You are going to want a test — something you can apply to your own reasoning that sorts duty from self-interest and returns an answer. There isn't one. Any test simple enough to apply to yourself is simple enough to pass while doing the wrong thing, and this module is not going to hand you one dressed up as a conclusion. What these questions can do is send you after evidence. What the evidence means is still yours to judge.
+And a warning about both. You are going to want a test — something you can apply to your own reasoning that sorts duty from self-interest and returns an answer. Cicero comes closest to supplying one, and even his turns on a fact about your own motives, which is the thing you are least placed to witness. What these questions can do instead is send you after evidence. What the evidence means is still yours to judge.
 
 **How might I be laundering a preference through the role?** You want the budget, the reorganisation is coming, and the role supplies a vocabulary in which wanting the budget sounds like discharging a duty. Go through what you take this job to require, item by item, and name who benefits from each.
 
@@ -362,10 +375,10 @@ Keep it alongside whatever you concluded in the first module, whichever way you 
 
 ## What this module did not settle
 
-Whether there is a you apart from the roles, and whether the question needs settling before the practical one can be. Cicero and Fried both argue from something owed to everyone; the *Analects* and Mencius reach their standards another way, and Mencius 2A.6 may or may not close the distance; Montaigne insists on a person apart from the office without saying what secures it. Whether these are rival answers or different routes is left where the readings leave it.
+Whether putting on an office lays down the relations you were already in, or whether both sets of claims stay in force and simply have to be weighed. Cicero gives the first answer at III.43. Confucius gives the second at 13.18. Fried gives a third on which the professional role is itself a relation of the kind Cicero lays down, so the question does not arise in that form. Montaigne separates the office from the man and never says what either owes the other. Nothing here decides between them, and the weighing that the second answer requires is not described by anyone who recommends it.
 
 Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Where the border runs between wrongs an arrangement works through its rules and wrongs a person commits. Fried gives the distinction content and examples but holds that no rule settles every borderline case, and your case may be one of those.
 
 And one that has been accumulating rather than arriving. The people on the receiving end of a role are mostly present here as examples: the Rhodians, the man who bought the unsound house, and the nervous witness. Some of the readings do more than that — Mencius on the child at the well and on a minister treated as grass, Fried on intentional harm particularising its victim — and you should judge for yourself how far any of them gets. Whether an adequate account of roles could be built from that side is not a question this module settled.
 
-The next module takes up the distinctions this one kept running into and could not use: doing, ordering, enabling, facilitating, benefiting, saying nothing, staying.
+The next module takes up a set of distinctions this one stayed close to without needing: doing, ordering, enabling, facilitating, benefiting, saying nothing, staying.

@@ -20,7 +20,7 @@ It opens with a case — a report you are asked to soften — and asks you to se
 **[Module 2: Role, Loyalty, and What You Owe](modules/02-role-loyalty-and-what-you-owe.md)**, the second of eight.
 *Do the obligations of a job, a profession, or a membership differ in kind from ordinary moral obligations?*
 
-The same case returns with you on the other side of it. Some years have passed, you hold the budget now, an analyst who works for you has written a report that is accurate and damaging, and you find yourself making your old manager's argument — better than you remembered it. Four readings disagree about what a role makes you owe: Cicero's *De Officiis*, the *Analects* with Mencius, Montaigne on having been mayor of Bordeaux during a civil war, and a 1976 essay by Charles Fried asking whether a decent person can be a lawyer. All four are free to obtain.
+The same case returns with you on the other side of it. Some years have passed, you hold the budget now, an analyst who works for you has written a report that is accurate and damaging, and you find yourself making your old manager's argument — better than you remembered it. Four readings disagree about whether taking up an office lays down the relations you were already in: Cicero's *De Officiis*, where the judge puts off the friend; the *Analects* with Mencius, where a son conceals for his father and uprightness is said to lie there; Montaigne on having been mayor of Bordeaux during a civil war; and a 1976 essay by Charles Fried asking whether a decent person can be a lawyer. All four are free to obtain.
 
 The modules are meant to be taken in order. The anchor case recurs and escalates, and part of the point is to be able to compare what you said the first time with what you say later.
 

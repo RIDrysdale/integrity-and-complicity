@@ -28,13 +28,29 @@ Antipater holds that everything bearing on the buyer's position must be disclose
 
 Cicero decides for Antipater at III.57 and supplies a criterion: holding one's peace is not concealment, but concealment is trying, for your own profit, to keep others from finding out what it is in their interest to know.
 
-**Why the disagreement survives that.** He settles it by defining concealment so that the merchant's silence falls inside it, rather than by meeting Diogenes' claim that silence is not deception. A reader who does not grant the definition is returned to the start. The criterion also joins two conditions without asking whether either works alone, and cases arise — the manager's among them — that may satisfy the second while the first is genuinely unclear.
+**Why the disagreement survives that.** The criterion grants Diogenes his distinction rather than brushing it aside — not everything you hold back is concealment — and then draws the line so that the merchant falls on the far side of it. A reader who does not grant where the line is drawn is returned to the start. The criterion also joins two conditions without asking whether either works alone, and cases arise — the manager's among them — that may satisfy the second while the first is genuinely unclear.
 
-**Why it matters in the report case.** It is that case with the parties changed, and the manager's argument is Diogenes': everything stated is true, the practice of the market is known to everyone in it, and a buyer who discounts what he is told has not been deceived.
+**Why it matters in the report case.** The manager's argument is Diogenes': everything stated is true, the practice is known to everyone inside it, and an audience that discounts what it is told has not been deceived. Whether the two cases are the same case is itself contested, and the last paragraph below says why.
 
 **A reconciliation worth testing, not the entry's answer.** Perhaps the two differ only about whether custom can fix what a person is entitled to expect. Diogenes lets the law and usage of the market set that baseline; Antipater denies that usage can make silence honest. The difficulty is that the manager's whole case rests on custom — every department presents its work favourably and leadership discounts accordingly — so whichever way this falls, it falls on them.
 
 **Left open.** Whether Diogenes' distinction can be restated in a form that survives III.57. Whether the criterion's two conditions are each necessary or only jointly sufficient. And whether a report is the merchant's case at all: he owns his cargo and came by his knowledge privately, where the manager neither owns the report nor sought the findings for himself. An antecedent duty to pass on what was commissioned may settle the matter before Cicero's question arises, which would mean the reader has been handed the wrong tool rather than a blunt one.
+
+## T-003 — Whether the office lays down the relation
+
+**Between:** Cicero, *De Officiis* III.43, and Confucius, *Analects* 13.18. Module 2.
+
+Cicero rules on a judge who is hearing a friend's case. An upright man will do nothing against his country, his oath or his good faith for a friend's sake, *ne si iudex quidem erit de ipso amico; ponit enim personam amici, cum induit iudicis* — not even sitting as judge in that friend's own case, for he lays aside the person of the friend when he puts on that of the judge. What friendship is still allowed is named and small: he may wish his friend's side the juster, and may set the hearing at his friend's convenience so far as the law permits.
+
+The Duke of She reports an upright man who testified against his father for stealing a sheep. Confucius answers that the upright men of his own district are different: fathers cover up for their sons and sons for their fathers, and uprightness lies therein.
+
+**Why this is not a difference of route.** The Duke of She's district holds Cicero's position, and Confucius rejects it in the sentence that follows. One says taking up the office displaces the relation; the other puts uprightness in the relation the office would displace. Both are stated generally and illustrated by a case, so neither is being extended to reach the other.
+
+**Why it matters in the report case.** The manager holds an office and stands in relations to the people who report to him, and these pull opposite ways. Cicero says name the office and lay the rest down. Confucius says the relation is where uprightness is. Fried lands on Confucius's side of this by a route neither would recognise, since for him the professional role *is* a relation of the kind Cicero lays aside; Montaigne separates office from man like Cicero and then protects the opposite one.
+
+**A reconciliation worth testing, not the entry's answer.** Cicero's other test may acquit the son. Concealment at III.57 requires wanting people ignorant for your own gain, and the son gains nothing, so his silence may be the holding of peace that III.57 expressly permits. If that is right, the two writers agree about the sheep and disagree only about the rule. The difficulty is that it makes Cicero's two passages give different answers in any case where the benefit runs to someone else, and he never says which governs.
+
+**Left open.** Whether 13.18 reaches past kin, and what a reader is entitled to do with it if it does not. Whether the judge is the right model for anyone who is not adjudicating. And whether a case in which the benefit runs partly to you and partly to people you are responsible for — which is the manager's, and most people's — is reached by either rule as stated.
 
 ---
 
