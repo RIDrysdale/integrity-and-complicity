@@ -2,7 +2,7 @@
 
 *Do the obligations of a job, a profession, or a membership differ in kind from ordinary moral obligations?*
 
-Four readings disagree about one thing. When what you owe as a person and what you owe as an officeholder pull in different directions, does one of them get laid aside? Cicero says it does: the judge who sits in a friend's case stops, for that purpose, being a friend. Confucius, asked about a son whose father has stolen a sheep, puts uprightness in exactly the relation Cicero lays down. Montaigne, who governed a city during a civil war, separates the man from the office too, and runs the separation the other way — to keep the office from consuming the man. Fried argues that a lawyer's partiality to a client is not an exception to morality but a form of friendship licensed by it, and so is never laid aside at all.
+Four readings disagree about one thing. When what you owe as a person and what you owe as an officeholder pull in different directions, does one of them get laid aside? Cicero says that at least one office works that way: the judge hearing a friend's case may not let the friendship decide it. Confucius, asked about a son whose father has stolen a sheep, puts uprightness in the family relation that a public reckoning would override. Montaigne, who governed a city during a civil war, separates the man from the office too, and runs the separation the other way — to keep the office from consuming the man. Fried argues that a lawyer's partiality to a client is not an exception to morality but a form of friendship licensed by it, and so is never laid aside at all.
 
 By the end you should be able to state the strongest case for thinking a role genuinely changes what you owe, the strongest case for thinking it cannot, and what turns on whether a role is something you put on or something you become. You are not expected to choose between them.
 
@@ -64,11 +64,13 @@ Cicero held office in a republic he watched being dismantled, and wrote this to 
 
 They are not four equals. At I.110 the universal sets bounds and your own nature directs you inside them — and he takes that a long way. At I.112 the same circumstances make an act a duty for one man and a crime for another, Cato against those who surrendered to Caesar; at I.113 Ulysses endures what Ajax would have died rather than suffer. So Cicero already grants that what you must do depends on who you are.
 
-**The judge in a friend's case, III.43.** Duty is most confused in friendships, Cicero says, because it is a breach either to fail a friend in what you may rightly do for him or to do for him what is not right. Then the rule: an upright man will do nothing against his country's interests, his oath or his good faith for a friend's sake — not even if he sits as judge in that friend's case, "for he lays aside the rôle of friend when he assumes that of judge." The Latin is *ponit enim personam amici, cum induit iudicis*: the same word you have just met four times over. What friendship is still allowed is exact and small. He may prefer his friend's side to be the juster one, and may set the time of the hearing to suit him so far as the laws permit.
+**The judge in a friend's case, III.43.** Take the section in the order Cicero wrote it, because the order is the argument. Duty is most confused in friendships, he begins, since it is a breach either to fail a friend in what you may rightly do for him or to do for him what is not right — so the relation generates obligations in both directions before any office is mentioned. Then: apparent advantages, honours, riches, pleasures, are never to be preferred to friendship. Only now the limit. An upright man will do nothing against his country's interests, his oath or his good faith for a friend's sake — not even if he sits as judge in that friend's case, "for he lays aside the rôle of friend when he assumes that of judge." The Latin is *ponit enim personam amici, cum induit iudicis*: the same word you have just met four times over.
 
-Read III.44–46 for what holds it up. The verdict is sworn, and the witness Cicero names is the judge's own mind. If everything a friend wanted had to be done, these would not be friendships but conspiracies. And where friendship asks for what is not honourable, good faith comes first.
+Then read the sentence that follows, because it is the one most easily skipped. He will grant friendship this much: he may prefer his friend's cause to be the juster one, and may set the time of the hearing to suit him so far as the laws permit. The friendship is still operating. It is excluded from deciding the merits, not switched off.
 
-This is the module's hinge, so state it exactly. Not that the relation counts for nothing — that when you put the office on, the relation stops being the thing you act from.
+Read III.44–46 for what holds the limit up. The verdict is sworn, and the witness Cicero names is the judge's own mind. If everything a friend wanted had to be done, these would not be friendships but conspiracies. And where friendship asks for what is not honourable, good faith comes first.
+
+State the claim exactly, because a larger one is easy to slide into. Cicero is not saying that taking up an office cancels your relations. He is saying that this office — deciding a case — may not be decided by them, and that good faith and the republic set a limit no friendship crosses. How much of that carries to an office that is not adjudicating anything is left open here, and is worth holding as a question rather than an answer.
 
 **The merchant at Rhodes, III.49–57.** Nothing morally wrong is ever expedient — but III.50 says cases arise where the two seem to clash and the work is to find whether the conflict is real, so this is a method and not an assertion. Then the case. Famine, a fabulous price for grain, a trader who alone knows more ships are close behind. Antipater says disclose; Diogenes says declare what the law requires and otherwise sell to advantage, misrepresenting nothing — because concealing and merely not revealing are different things. At III.54 the same question is put about a house the seller knows to be unsound, and Diogenes asks what would be more stupid than a vendor reciting every fault of what he is selling.
 
@@ -82,7 +84,7 @@ A test with two conditions, and it grants Diogenes his distinction rather than b
 
 Later readings disagree with parts of this. Rather than predicting which, carry three things separately.
 
-The rule at III.43 — that putting on the office lays down the relation — is the claim contested most directly ahead, and it can be rejected without disturbing anything else here.
+III.43 is the passage contested most directly ahead. Be careful what you take from it: that friendship may not decide a verdict, and that good faith bounds what friendship can ask, are narrower than a general rule about offices and relations. A later reading may dispute the narrow claim, the general one, or the move between them.
 
 The universal *persona* does a particular job: it sets bounds, inside which character, circumstance and choice differentiate what you must do. Denying that anything universal sets the bounds, and disagreeing about where they fall, are different objections with different consequences.
 
@@ -90,8 +92,9 @@ The criterion at III.57 is detachable from both. A later reading could reject Ci
 
 ### Questions to carry
 
-- III.43 has the judge lay aside the friend. Name the office you put on when you decide about this report, and say what it requires you to lay aside. If the answer is nothing, say what makes your case unlike the judge's.
-- Cicero forbids acting against good faith for a *friend's* sake. Two of the six people who work for you are on contracts you will have to argue to renew. Is that a friend's sake, and does it matter whether you like them?
+- III.43 keeps the judge's friendship out of the verdict and lets it set the hearing's timing. Draw that line in your own case: what may the two contracts move, and what may they not?
+- Cicero's limit is the republic, his oath, and good faith. Name the equivalent of each in your job, or say which has no equivalent.
+- Are the two contracts a friendship competing with your office, or part of what your office is for? The answer changes which of Cicero's passages is even relevant.
 - Put your case through III.57. Are you keeping from senior leadership something it is in their interest to know? And are you doing it for your own profit — bearing in mind that a reorganisation is coming and you are in it?
 - Now pull the two conditions apart. Suppose it is genuinely in their interest to know, and your motive genuinely is the two contracts and not yourself. Does the criterion reach that case? Should it?
 - Answer Diogenes. Would you expect a vendor to recite every fault of what he is selling? If your report is not like a house for sale, say what the difference is — you commissioned it, you do not own it, and nobody is buying anything.
@@ -104,7 +107,7 @@ A unity argument: one standard of conduct rather than a separate one for offices
 
 Its strength is that it yields rules and not only verdicts, and that the rules survive being detached from the account of the person that produced them.
 
-Its difficulty is where the two rules meet. III.43 forbids acting against good faith for another's sake; III.57 makes concealment a matter of keeping people ignorant for your own gain. Cicero does not say which governs when the benefit runs partly to you and partly to people you are responsible for, which is where most real cases sit and where yours sits. Someone confident their motive is not profit can satisfy the criterion while leaving people in an ignorance it is against their interest to be in — and confidence about one's own motive is exactly what this module's case has already warned you not to trust.
+Its difficulty is in the reach of each rule. III.43 forbids acting against good faith for another's sake; III.57 describes concealment as keeping people ignorant for your own gain. These are separate prohibitions, not rival tests, and an act can breach the first without answering to the second. What Cicero does not supply is what governs an act that escapes both descriptions — the silence kept for someone else, breaching no oath, which is where a good deal of institutional life happens. Someone confident their motive is not profit can satisfy the criterion while leaving people in an ignorance it is against their interest to be in, and confidence about one's own motive is exactly what this module's case has already warned you not to trust.
 
 ---
 
@@ -132,9 +135,11 @@ Role words carry standards, and "manager" can fail to apply. What this leaves un
 
 Do not soften this. The case is a theft and the response is concealment, and Confucius does not treat it as a regrettable cost of family feeling. He puts uprightness in it.
 
-Set that against III.43. The Duke of She's district holds Cicero's position exactly — the upright man testifies, because taking up the office of witness lays down the relation of son — and Confucius answers it by name, locating uprightness in the thing Cicero lays down. Neither text has to be stretched to produce the disagreement.
+Now put it beside III.43, and be careful about what the comparison shows. Cicero keeps a friendship out of a verdict that must be impartial; Confucius locates uprightness in a family concealment. Those are two different judgments about when a relation may move you, made about two different situations, and they are worth holding together. They are not the same case answered two ways. Nothing in 13.18 mentions an office, an oath, or a duty attaching to the man who testified — he is a villager, not a magistrate — and Confucius says nothing about what a judge should do. Supplying Cicero's apparatus to the Analects is the first mistake available here, and it is a tempting one.
 
-Then something that makes it harder. Cicero's other test may acquit the son: concealment at III.57 is wanting people ignorant *for your own gain*, and the son gains nothing, so his silence may be the holding of peace that III.57 expressly permits. The two writers may agree about the sheep and disagree about the rule. Decide which of Cicero's passages you think governs his own case.
+What the pair does give you is a real question, sharply put. Cicero thinks there is at least one position from which a relation may not move you. Confucius thinks a relation can be exactly where uprightness lives. Both cannot be the whole truth about your Thursday, and neither tells you which kind of position you occupy.
+
+A third passage complicates it further. III.57 makes concealment a matter of keeping people ignorant *for your own gain*, which raises the question whether it describes the son at all. Two cautions before you use that. The Analects does not say the son gains nothing — a father protected is a household protected — so disinterest has to be stipulated rather than read off the text. And escaping Cicero's description of concealment is not the same as being permitted: he says only that not everything withheld is concealment, and a duty to testify, if there were one, would be untouched by that. What survives is a limit on the criterion rather than a verdict, which is worth knowing when you run it on yourself.
 
 You will want to take 13.18 further, because the institutional version writes itself: my department covers for my department, my force for my force. An analogy needs the two to be relevantly alike, not identical, so do the work. A family is not chosen and a department is. A family answers to no one for its internal arrangements; a department answers to whoever pays for it. The sheep's owner is a neighbour; the audience for your report commissioned it.
 
@@ -156,12 +161,12 @@ The concrete question is whether a departing minister mourns a former ruler, and
 
 ### What it pulls against
 
-Cicero, and now precisely. Both accounts constrain what a role can demand, and I.112 already lets duty differ from person to person, so this is not universal standards against particular ones. Nor is it that one side can state obligations without reference to roles and the other cannot — 2A.6 does exactly that. What they divide on is narrower and sharper: whether taking up a position cancels the claims of the people you already stood in relation to. III.43 says it does. 13.18 says uprightness is in those claims.
+Cicero, and it is worth being exact about where. Both accounts constrain what a role can demand, and I.112 already lets duty differ from person to person, so this is not universal standards against particular ones. Nor is it that one side can state obligations without reference to roles and the other cannot — 2A.6 does exactly that. What they divide on is how far a relation may move someone who owes an account to others: III.43 holds a verdict clear of it, 13.18 puts uprightness inside it. Whether that is one disagreement or two judgments about two unlike situations is the thing to decide, and you should not let this module decide it for you.
 
 ### Questions to carry
 
 - Confucius puts uprightness in concealing the theft. State the strongest case for him in your own words before you object, and then say what your objection actually rests on.
-- Cicero's judge lays aside the friend; Confucius's son does not lay aside the father. Which of the two is the analyst asking you to be, and which are you asking the analyst to be?
+- Cicero keeps friendship out of a verdict; Confucius keeps a father covered. Neither is deciding your case. Say what your position has in common with each, and where the likeness runs out.
 - Take the institutional analogy seriously and then take it apart. Which differences between a family and a department bear on concealment, and which are beside the point?
 - These texts are strong against an officeholder who is failing. What do they give you against a practice that everyone performs correctly and that is rotten anyway? Point at the passage.
 - 4.18 has the son keeping his respect and not disobeying, on either reading. Your analyst is refusing. Does any passage here support them, and if not, what do you make of that?
@@ -198,7 +203,7 @@ Montaigne was twice elected mayor of Bordeaux in the 1580s, while France tore it
 
 He has seen the alternative: men who "transform and transubstantiate themselves into as many new shapes and new beings as they undertake new employments," who "strut and fume even to the heart and liver," and of whom he says: "I cannot make them distinguish the salutations made to themselves from those made to their commission, their train, or their mule."
 
-*Persona* is Latin for an actor's mask, and it is Cicero's word both for the four things you are and for what the judge puts on when he lays down the friend. Montaigne's "borrowed personage" is the same word in different service. Cicero separates in order to bind the officeholder to the office's standard; Montaigne separates in order to loosen the hold the office has on the man. Both take it off and on. They disagree about which of the two is protected by doing so — and a reader who holds both has to say what happens on Thursday.
+*Persona* is Latin for an actor's mask, and it is Cicero's word both for the four things you are and for what the judge puts on when he lays down the friend. Montaigne's "borrowed personage" is the same word in different service. Cicero puts the mask on to keep a friendship out of a verdict; Montaigne keeps it loose to stop the office swallowing the man. Both separations are real and they protect different things, which is not the same as contradicting each other. A reader may well want both. The work is saying what someone who holds both actually does on Thursday.
 
 **The mayor, and what surrounds it.** "The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation." The sentence continues into a reason that is easy to miss: a man who is an advocate or a financier "must not ignore the knavery there is in such callings," yet "an honest man is not accountable for the vice or absurdity of his employment, and ought not on that account refuse to take the calling upon him: 'tis the usage of his country, and there is money to be got by it; a man must live by the world."
 
@@ -222,7 +227,7 @@ Read the excuse, because it is an argument. Moral teaching drives us out of ours
 
 *Analects* 13.13, which you carried in. If personal uprightness and the conduct of office are bound as tightly as that passage may mean, this essay's practice is harder to hold. How much harder depends on what 13.13 was claiming — and Reading 2 gave you reasons not to take it at its strongest.
 
-Cicero, on more than a word. Both men think an officeholder is more than the office, and both put the office on and take it off. What they do with the separation runs opposite ways, and it is worth asking whether that is one claim with the sign changed or two different claims that happen to share a vocabulary.
+Cicero, on more than a word. Both men think an officeholder is more than the office, and both put the office on and take it off. They put the separation to opposite uses — one guarding the judgment, the other guarding the man — and that is probably two compatible claims in one vocabulary rather than a quarrel. Say what would have to be true for them to conflict.
 
 ### Questions to carry
 
@@ -251,7 +256,7 @@ Its difficulty is how little it offers anyone else. There are standards in it �
 
 Fried asks whether a decent, ethical person can ever be a lawyer — not how a decent lawyer should behave, but whether the assurances you give by taking up the role are ones an honourable person could give at all. Your version is whether a decent person can be a manager.
 
-He is also the only writer here who never lays the relation aside. Cicero's judge puts off the friend; Fried's lawyer is a friend, and that is what the professional role consists of.
+He is also the one who makes the relation itself the professional role. Cicero's judge keeps friendship clear of the verdict; Fried's lawyer is a friend to his client, and that is what the job consists of. Both may be right, since a judge and an advocate are not doing the same work — which is the difficulty you will have to face, since you are doing neither.
 
 ### What to watch for
 
@@ -277,11 +282,11 @@ What it does need is shorter and more demanding than the courtroom furniture. Ou
 
 ### What it pulls against
 
-Cicero at the hinge. III.43 has the judge lay the friend aside; Fried's lawyer never does, because for him the friendship is the role. Before calling that a flat contradiction, notice that nothing in Fried requires him to deny Cicero his judge, since the lawyer is not the one deciding, and see where that leaves you. On Thursday, are you the judge or the advocate? The case does not settle it, and both answers are genuinely available.
+Cicero, and less as a contradiction than as a division of labour. III.43 keeps friendship out of a verdict; Fried makes a form of friendship the substance of advocacy. Nothing in Fried needs to deny Cicero his judge, and the two together describe a system in which partiality and impartiality each have a place. That is the difficulty rather than the resolution. On Thursday you are neither a judge nor an advocate, and both models are available to borrow — so say which one you are reaching for, and what entitles you to it.
 
 Cicero, on the merchant. Fried protects some of the space Diogenes claimed, and III.57's criterion would not obviously permit it — but both reason from something everyone is owed, and Fried's line at personal wrongs is not far from where Cicero drew his. Work out whether they disagree about the principle or about which side a silence falls.
 
-The *Analects* and Mencius, where a relation is not entered by contract — though 4B.3 has a minister leaving, and a ruler who obstructs the leaving. Ask whether the difference is about what is owed or only about how the obligation arose and how it ends. Note also that Fried and 13.18 end up on the same side of III.43 by quite different routes.
+The *Analects* and Mencius, where a relation is not entered by contract — though 4B.3 has a minister leaving, and a ruler who obstructs the leaving. Ask whether the difference is about what is owed or only about how the obligation arose and how it ends. Note that Fried and 13.18 both find moral weight in a relation, and resist the conclusion that they are therefore allies: one is a profession bounded by rules he did not write, the other a family answering to nobody.
 
 
 ### Questions to carry
@@ -359,7 +364,7 @@ Keep it alongside whatever you concluded in the first module, whichever way you 
 
 ## What this module did not settle
 
-Whether putting on an office lays down the relations you were already in, or whether both sets of claims stay in force and simply have to be weighed. Cicero gives the first answer at III.43. Confucius gives the second at 13.18. Fried gives a third on which the professional role is itself a relation of the kind Cicero lays down, so the question does not arise in that form. Montaigne separates the office from the man and never says what either owes the other. Nothing here decides between them, and the weighing that the second answer requires is not described by anyone who recommends it.
+How far a relation may move someone who owes an account to other people. Cicero holds one position clear of it and does not say how far that reaches; Confucius puts uprightness inside a family relation and does not say whether anything but kinship qualifies; Fried makes a bounded relation the whole content of a profession. Montaigne gives real standards — what duty actually required as against what ambition adds, the public good as against reputation, a limit on what may be demanded of a person for others — but no procedure for applying them to a case like yours, and none of these writers supplies the weighing that all of them need. That the readings leave you with partial guidance rather than a rule is not a failure of the readings.
 
 Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Where the border runs between wrongs an arrangement works through its rules and wrongs a person commits. Fried gives the distinction content and examples but holds that no rule settles every borderline case, and your case may be one of those.
 
