@@ -2,9 +2,9 @@
 
 *What does a role make you owe — and is there a you apart from the roles?*
 
-Five readings disagree about what a role is. Cicero holds that whatever office you occupy you are a human being first, and tests that on a merchant who knows something his buyers do not. The *Analects* and Mencius describe a world in which there is no person standing behind the minister or the son for such a claim to be about. Montaigne, who governed a city during a civil war, says that the mayor and the man were always two. The *Bhagavad Gita* opens with a soldier who will not do what his station requires, and answers him. Fried argues that a lawyer may do things for a client that he would not do for himself, and that this is a moral position rather than an exception to one.
+Five readings disagree about what a role is. Cicero holds that whatever office you occupy you are a human being first, and tests that on a merchant who knows something his buyers do not. The *Analects* and Mencius ask instead what makes someone a good minister or a good son, and reach their standards without opening from a conflict between conscience and office. Montaigne, who governed a city during a civil war, says that the mayor and the man were always two. The *Bhagavad Gita* opens with a soldier who will not do what his station requires, and answers him. Fried argues that a lawyer may do things for a client that he would not do for himself, and that this is a moral position rather than an exception to one.
 
-By the end you should be able to state the strongest case for thinking a role genuinely changes what you owe, the strongest case for thinking it cannot, and the case for thinking the question has been badly put. You are not expected to choose between them.
+By the end you should be able to state the strongest case for thinking a role genuinely changes what you owe, the strongest case for thinking it cannot, and the case for thinking the question is better approached from a different direction. You are not expected to choose between them.
 
 This is the defence that does most of the real work in institutional life — *this is my role, these are my people, this is not my call* — and it is frequently correct. A judge sentences someone they would personally forgive. A defence lawyer works for a client they believe guilty. A civil servant implements a policy they voted against. None of these people is doing something shabby. Working out what separates them from the person who says *I just work here* is the whole of the problem.
 
@@ -107,78 +107,82 @@ Its difficulty is in the test's two conditions, which Cicero joins without askin
 
 Freely available. Robert Eno's translations are quoted below — [*Analects*](https://hdl.handle.net/2022/23420) and [*Mencius*](https://hdl.handle.net/2022/23421) — and [ctext.org](https://ctext.org/analects) prints James Legge's older versions beside the Chinese. Passage numbers are the same. Mencius is cited by book, part and chapter, so 4A.17 is Book IV, Part I, chapter 17, printed in some editions as IV.A.17.
 
-Four words are better left in Chinese: *ren*, roughly humaneness, the central virtue; *li*, the whole body of ritual and propriety governing conduct; *dao*, the way; and *junzi*, the exemplary person, which Legge gives as "the superior man." Translations of these diverge, and at 4.18 below the divergence decides what the passage says.
+Four words are better left in Chinese: *ren*, roughly humaneness, the central virtue; *li*, the whole body of ritual and propriety governing conduct; *dao*, the way; and *junzi*, the exemplary person, which Legge gives as "the superior man." Translations diverge, and at 4.18 below the divergence decides what the passage says.
 
 ### Why it's here
 
-Cicero got to his test by way of an account of the person — universal nature setting the bounds, character and circumstance differentiating inside them. These texts arrive at questions about roles and obligations without travelling that road. No argument here runs from what a human being as such owes to what this particular officeholder owes. The reasoning goes through what the relation is, what the role is for, and the *dao*.
+Cicero reached his test by way of an account of the person: universal nature setting bounds, character and circumstance differentiating inside them. These texts get to their standards along a different road. They characteristically ask what makes someone a good ruler, a good minister, a good father or son — and do not begin from a conflict between what a person privately judges and what an office demands.
 
-That is not yet the claim that there is no standard here. It is a claim about where a standard is found and how you reach it, and whether that difference is deep or only a difference of route is among the things you will have to settle.
-
-What it changes immediately is the question. *Does what my role demands differ from what I otherwise owe* assumes you can state what you otherwise owe without mentioning the role. In these texts you cannot state it that way, so the question becomes: what is a manager, is this what one does, and on whose say-so?
+That changes where an inquiry starts, and it is worth seeing what the change does before deciding how deep it goes. The question you have been carrying asks whether what a role demands differs from what you otherwise owe. These texts more often ask what the role is, whether this is what one does, and on whose authority that is settled. Those are not the same investigation even when they end in the same place.
 
 ### What to watch for
 
-**Names, 13.3 and 12.11.** Asked what he would do first in government, Confucius says he would rectify names, and gives a chain of consequences running from language that does not fit things all the way down to people with nowhere to put hand or foot. At 12.11 the same in four words — "Let the ruler be ruler, ministers ministers, fathers fathers, sons sons" — and Duke Jing, who is thinking about his grain supply, agrees.
+**Names, 13.3 and 12.11.** Asked what he would do first in government, Confucius says he would rectify names, and defends it with a chain of consequences running from language that does not fit things down to people with nowhere to put hand or foot. At 12.11 the same in four words — "Let the ruler be ruler, ministers ministers, fathers fathers, sons sons" — and Duke Jing, thinking about his grain supply, agrees.
 
 Role words carry standards, and "manager" can fail to apply. Notice what this leaves unsettled: where the standards come from, and whether language of this kind also props up the hierarchy it describes.
 
-**13.13, and how much it establishes.** Personal uprightness is made a condition of governing well. Ask whether it is more than that — whether the person and the office become one thing, or only the second depends on the first. The difference matters when you reach Montaigne.
+**13.13.** Personal uprightness is made a condition of governing others. That is a strong claim and a limited one — it does not follow that the person and the office are one thing, and someone who distinguishes them can still hold that a corrupt man makes a bad official.
 
-**13.18, the sheep.** The Duke of She reports an upright man who testified against his father for stealing a sheep. Confucius: "The upright men in my district are different. Fathers cover up for their sons and sons cover up for their fathers. Uprightness lies therein."
+**13.18, the sheep.** The Duke of She reports an upright man in his district who testified against his father for stealing a sheep. Confucius: "The upright men in my district are different. Fathers cover up for their sons and sons cover up for their fathers. Uprightness lies therein."
 
-What is claimed is that partiality toward kin belongs to uprightness rather than compromising it. What is not claimed, and would each be a further step, is that this reaches past kin, or that concealing a theft in particular is what the relation requires.
+Do not soften this. The case is a theft, the response is concealment, and Confucius does not treat the concealment as a regrettable cost of family feeling. He puts uprightness in it. That is the claim, and the reader who wants these texts to be congenial has to get past it rather than around it.
 
-You will want to take those steps, because the institutional version is obvious: my department covers for my department, my force for my force. Before deciding it follows, notice it needs two things — a reason nothing stops the extension, and a reason a professional membership is the same kind of thing as a family. Neither is here. Supply both or neither.
+What it does not settle is how far it reaches — whether past kin, or to graver things than a sheep.
+
+You will want to take it further, because the institutional version writes itself: my department covers for my department, my force for my force. An analogy does not need the two to be the same kind of thing, only relevantly alike, so do the work properly. A family is not chosen and a department is. A family answers to no one for its internal arrangements and a department answers to the institution paying for it. The sheep's owner is a neighbour; the audience for your report commissioned it. Decide which of those differences bear on the case for concealment and which do not.
 
 **Disagreement inside the relation: 4.18, 13.23, 13.15, 13.25, 4.5.**
 
-4.18 is where translations part, and the parting is the point. A son who thinks his parents wrong remonstrates gently; when they will not listen he keeps his respect and 不違 — which Eno gives as "do not disobey" and Legge as "does not abandon his purpose" — and labours without complaint. Whether the passage licenses continued resistance or requires compliance once the objection is made is not settled by the text, and it is what your analyst is doing, one way or the other.
+4.18 is where translations part. A son who thinks his parents wrong remonstrates gently; when they will not listen he keeps his respect and 不違 — Eno gives "do not disobey," Legge "does not abandon his purpose" — and labours without complaint.
 
-The other four give you leverage against what a superior happens to want: harmony as against mere agreement, a ruler ruined by having no one oppose him, a *junzi* who cannot be pleased by what departs from the *dao*, rank not worth holding if it came that way. Work out what the leverage is anchored to.
+Read that divergence carefully, because it is narrower than it looks. On neither rendering does the son disobey. What is at issue is whether he goes on pressing the point after it has been refused, or lets it drop while continuing to serve. That is a real difference and it matters, but neither reading licenses the analyst's position, and you should notice that before you reach for this passage.
 
-**The question all of that raises.** What makes conducting a relation *well* different from meeting what it customarily expects? If *ren* and the *dao* carry content of their own, they can be turned against the expectations, and there is something here Cicero would recognise as a standard, differently reached. If they carry no content beyond the expectations, the account closes on itself and criticism has nowhere to stand. The passages bear on this both ways, and the module does not answer it for you.
+The other four give leverage against what a superior happens to want: harmony as against mere agreement, a ruler ruined by having no one oppose him, a *junzi* who cannot be pleased by what departs from the *dao*, rank not worth holding if it came that way.
 
-**Mencius 2A.6.** Anyone seeing a child about to fall into a well feels alarm — and not, Mencius insists, to gain the parents' favour or the neighbours' praise. The feeling is the beginning of *ren*, and we have these beginnings "just as they have their four limbs." Read it against everything above: here a moral response is grounded in something every person has, and the text goes out of its way to detach it from the relationships in play.
+**The question all of that raises.** These passages plainly supply standards that can be turned against a particular superior's wishes. The harder question is how far the standards reach. They are developed through the relations — what a ruler is for, what a minister owes, what a name requires — which gives you a great deal of purchase on an officeholder who is failing at his role. It is less clear what purchase they give on a practice that everyone is performing correctly and that is itself rotten. Your case is partly of that kind. Work out what these texts give you against the practice, not just against a person.
+
+**Mencius 2A.6.** Anyone who suddenly sees a child about to fall into a well feels alarm, and not — Mencius insists — to win the parents' favour or the neighbours' praise. That response is the seed of humaneness, and everyone possesses these seeds as they possess their four limbs. The argument then runs from that capacity to how rulers should govern.
+
+Read it against everything above, because it moves in the opposite direction from the rest: from something every person has, before any relation in play, out to the conduct of office.
 
 **Mencius 4A.17.** Men and women do not let their hands touch in giving and receiving; a man who would not pull his drowning sister-in-law out is a wolf. The rule is *li*, the rescue is *quan*, weighing. Then Chunyu Kun presses — the whole world is drowning — and Mencius answers by distinguishing what each rescue requires. Decide whether that is a real distinction or a way of declining the demand.
 
 **Mencius 4B.3.** Ministers treated as hands and feet respond as belly and heart; as dogs and horses, as to any ordinary man; as the ground or grass, as to a robber and an enemy.
 
-The passage is about whether a departing minister mourns a former ruler, and its continuation is about leaving. The ruler worth mourning sends him out with an escort and waits three years before reclaiming his lands; the robber and enemy seizes him, pursues him into the state he has fled to, and takes his fields on the day he goes. What marks the worst relation here is that it obstructs departure. Keep that — it is the condition this whole program is about.
+The concrete question is whether a departing minister mourns a former ruler, and the continuation is about departure: the ruler worth mourning sends him off with an escort and waits three years before reclaiming his lands, while the robber and enemy seizes him, pursues him into the state he has fled to, and strips him the day he goes.
+
+Note the shape of that and also its distance from you. A ruler actively preventing departure is not the same predicament as a person who stays because of a mortgage and a thin market. Whether the second inherits anything from the first is a question worth putting.
 
 ### What it pulls against
 
-Cicero, though not where it first appears. Both accounts constrain what a role can demand, and I.112 already lets duty differ from person to person, so this is not universal standards against particular ones. The disagreement is about where the bounds are found: for Cicero in what all rational beings share, here in what a relation is for and in the *dao*. Whether 2A.6 narrows that gap is worth deciding as you go.
-
-Montaigne, next, on the strength of 13.13 — but only if 13.13 says as much as it might.
+Cicero, though not where it first appears. Both accounts constrain what a role can demand, and I.112 already lets duty differ from person to person, so this is not universal standards against particular ones. Nor is it that one side can state obligations without reference to roles and the other cannot — 2A.6 does exactly that. What differs is where each begins and what each treats as needing explanation.
 
 ### Questions to carry
 
-- Take the dilemma above and answer it. Does *ren* have content that could be used against what a relation customarily expects? Point at the passage you are relying on.
-- 13.18 and the escalation need two arguments, not one: that nothing stops it, and that a department is the same kind of thing as a family. Make both, and then decide whether you believe either.
-- What is your actual objection to the son who testified — that he was disloyal, or that he was right?
-- 2A.6 detaches a moral response from the relationships around it. Does it sit with the rest of what you read, or against it? If against, which do you take to be the more central?
-- 4B.3 runs in your direction now. Which of the three does your analyst take you to be, and what would they have to see to move you a grade? Then the part that matters here: is there anything in how you are behaving that makes it harder for them to leave?
-- 13.25 says the *junzi* employs people according to what they can manage. You asked an analyst to put their name to something they think misleads. Which were you doing?
+- Confucius puts uprightness in concealing the theft. State the strongest case for him in your own words before you object, and then say what your objection actually rests on.
+- Take the institutional analogy seriously and then take it apart. Which differences between a family and a department bear on concealment, and which are beside the point?
+- These texts are strong against an officeholder who is failing. What do they give you against a practice that everyone performs correctly and that is rotten anyway? Point at the passage.
+- 4.18 has the son keeping his respect and not disobeying, on either reading. Your analyst is refusing. Does any passage here support them, and if not, what do you make of that?
+- 2A.6 runs from a capacity everyone has to how rulers should govern. Does that sit with the rest of what you read, or against it? Which do you take to be more central, and why?
+- 4B.3 grades what a ruler is owed by how he has behaved. Which grade are you, on the analyst's evidence rather than your own?
 
 ### What kind of argument this is *(read after the text)*
 
-Mostly not argument. These are claims about persons, relations and roles that are shown, applied and illustrated rather than derived, and the ethics comes out of the account of the person rather than the other way round. That makes the disagreement with Cicero hard to adjudicate, because the two are not obviously answering one question in two ways.
+Less derivation than Cicero, but not the absence of argument. 13.3 runs a chain of consequences; 2A.6 builds a thought experiment, rules out three self-interested explanations of the response, and infers from it. What is largely missing is the move Cicero makes constantly — from a general account of what a person is to a particular duty — and its absence is a fact about method rather than a doctrine being asserted.
 
-The critical resources here are largely internal: what a role is for, what a name requires, what the *dao* is. 2A.6 is the passage that most disturbs that description, which is why it is assigned.
+The standards here are mostly developed inside the relations they govern. That is a real strength against an officeholder who is not doing what the office is for, and it is the reason 12.11 has teeth. Whether it reaches a whole practice that is functioning smoothly and badly is the thing to keep testing, and your own case is the test.
 
-The limitation to carry out is that *quan* names the work of weighing without saying how it is done, and 13.18 hands you a case where the weighing is the whole difficulty. Whether that is an incomplete ethics or an honest one is a real question, and it lands on most of the other readings here too.
+The limitation to carry out is that *quan* names the work of weighing without saying how it is done, and 13.18 hands you a case where the weighing is the whole difficulty. That charge lands on most of the other readings here too.
 
 ### An argument we do not assign
 
 **Bradley on station.** In "My Station and Its Duties," the fifth essay of *Ethical Studies* (1876), F. H. Bradley argues that the individual considered apart from family, class, profession and country is not a person but a leftover abstraction, and that moral life is carried on through the position one occupies and the duties attached to it. The ordinary man doing his work properly is not falling short of philosophical morality; he is inside it.
 
-We mention it because a reader meeting the *Analects* for the first time may file what they found there under *interesting, but not how we think*. It is how a good deal of European philosophy thought. The claim was argued in English, from Hegel and against Kant and the utilitarians, and reached conclusions a reader of 12.11 will recognise.
+We mention him because he states plainly a claim you may have thought you were reading a moment ago. That a person is constituted by station, so that there is nothing left when you subtract the relations, is a real position, argued in English, from Hegel and against Kant and the utilitarians. Set it beside the passages you have just read and see whether they assert it or only proceed without needing to. The difference decides a good deal about what follows from them.
 
-Bradley does not think station is the whole of morality. Within the same essay he faces the case of a community that is itself rotten, and the essay after it is called "Ideal Morality." That is the question this reading has just left with you, arrived at from another direction.
+Bradley also does not think station is the whole of morality. Within the same essay he faces the case of a community that is itself rotten, and the essay after it is called "Ideal Morality" — which is the question these passages left you with, reached from the other direction.
 
-We do not assign it because one essay cannot be detached from the idealist account of the self that runs through the book, and because the module already has more than it can carry. The position states in a paragraph; the argument behind it does not.
+We do not assign it because the essay cannot be detached from the idealist account of the self running through the book, and because the module already carries as much as it can. The position states in a paragraph; what holds it up does not.
 
 ---
 
