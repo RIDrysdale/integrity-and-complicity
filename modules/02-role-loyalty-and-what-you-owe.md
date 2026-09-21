@@ -400,56 +400,58 @@ It bears on this module because it places the reckoning with consequences on the
 
 Recall the position you settled on before you read. Before revising it, put the case to each reading in turn.
 
-- **Cicero** asks which of the four things you are is doing the talking, and whether the difference between concealing and not revealing survives the fact that you commissioned the document.
-- **Confucius** asks whether the word *manager* applies to you, and Mencius asks how you have been treating the people who report to you — because on his account that settles what they owe you, not what you owe them.
+- **Cicero** hands you a test: are you keeping from leadership something it is in their interest to know, and are you doing it for your own profit? He also thinks the answer does not depend on what the rules require of you.
+- **Confucius** asks whether the word *manager* applies to what you are doing, and Mencius asks how you have been treating the people who report to you — because on his account that bears on what they owe you.
 - **Montaigne** asks how much of what you are calling duty is ambition wearing duty's name, and whether you can still see this office from anywhere outside it.
-- **Krishna** asks whose dharma you are performing, and tells you there is no version of the job with the smoke taken out.
-- **Fried** asks whether this is a wrong a reasonably just arrangement works through its rules, or one you would be committing yourself — and whether the arrangement is reasonably just.
+- **Krishna** asks whose dharma you are performing, tells you there is no version of the job with the smoke taken out — and then, having taught, leaves the decision to you.
+- **Fried** asks who your client is, whether this is a wrong a reasonably just arrangement works through its rules or one you would commit yourself, and whether the arrangement is reasonably just.
 
 ### The person who said no
 
 There is someone else in this case, and you have met them before. They were you.
 
-The analyst is doing what you did, or what you wish you had done, or what you told yourself you would have done. They are refusing politely and not moving, and they are junior, and their contract may be one of the two.
+The analyst is doing what you did, or what you wish you had done, or what you told yourself you would have done. They are refusing politely, they are not moving, and they are junior.
 
 So: what do you owe the person who refuses you? Not what may you do about them — what do you owe them?
 
-Work through what each reading gives you on that question, and notice how much of the module goes quiet. Then ask whether the ones with something to say have something to say because they are better, or only because that was the question they happened to be built to answer.
+Put the question to each of the five in turn and write down what you get. Some of them will have more to say about it than others, and that is worth noticing, but do not conclude anything from it until you have actually tried them all. A reading that seems to have nothing to offer may be one you have only asked the wrong way.
 
 ### Before you decide anything
 
 Thursday is coming. If you do nothing, the analyst's version goes up unchanged, over your name.
 
-Sit with that. Doing nothing now produces the outcome that the person you used to be would have wanted. It costs you no argument, no overruling, and no moment where you say the thing out loud. You may even get to feel that you did the right thing.
+That may well be the right outcome. It is what you would have wanted three years ago and it may be what you should want now. Leaving a defensible report alone can be a decision, and a good one — it does not become better by costing you an argument, and it does not become worse by costing you nothing.
 
-Ask whether that is a decision or a way of not making one, and whether you would be able to tell.
+The question is not whether the choice felt hard enough. It is whether you made it. Two things tell you: can you say what you expect to follow from it, and would you have chosen the same thing if the default had run the other way and inaction meant the softened version went up?
 
 ### Two questions about yourself
 
-Both of them, not whichever is more comfortable.
+Both of them, not whichever is more comfortable. And notice as you go that suspicion pointed in every direction at once is not the same as judgment — each of these comes with something that would actually discriminate.
 
-**How might I be laundering a preference through the role?** You want the budget, the reorganisation is coming, and the role supplies a vocabulary in which wanting the budget sounds like discharging a duty. Every reading here handed you a tool for this. Use one of them properly: separate what this job actually requires from what your position merely makes it easy to say, and do it on paper, item by item, in plain words that name who benefits.
+**How might I be laundering a preference through the role?** You want the budget, the reorganisation is coming, and the role supplies a vocabulary in which wanting the budget sounds like discharging a duty. Separate what this job requires from what your position merely makes it easy to say, going item by item and naming who benefits from each.
 
-Then the harder half. If you find nothing — if every item comes out as genuine duty — ask whether that is because there is nothing, or because you were the one auditing.
+The test that discriminates: take each item and ask whether it would still be a requirement if the benefit ran to someone you dislike. What survives that is duty. What does not was preference.
 
-**How might refusing the role's demands be a way of keeping my hands clean?** This is the opposite failure and it is not the less common one. You may be declining to make a hard managerial call because you would rather remain the sort of person who does not make them. Krishna's charge is that this is performing someone else's duty well instead of your own badly; Fried's is that roles which actually work should not be undermined so that a better world may arrive sooner. Montaigne watched his father wreck his health for the city of Bordeaux, praised him, and would not do it — and left it genuinely unclear whether that was honesty or evasion.
+And if every item survives, ask whether that is because there was nothing, or because you were the one auditing.
 
-The job has real demands. Name the ones you are tempted to duck, and say what you are protecting by ducking them.
+**How might refusing the role's demands be a way of keeping my hands clean?** This is the opposite failure and not the rarer one. You may be declining a hard managerial call because you would rather remain the sort of person who does not make them. Krishna's charge is that this is doing someone else's work well instead of your own badly. Fried's is that roles which function should not be undermined so a better arrangement may arrive sooner. Montaigne watched his father wreck his health for Bordeaux, praised him, declined to imitate him, and offered a reason — which you have to weigh rather than accept.
+
+The test that discriminates: would you make the same call if no one would ever learn you had made it? Clean hands need an audience, even an imagined one. Duty does not.
 
 ### What you would actually do on Thursday
 
 Not your position. Your action. The next concrete thing, in order: what you say, to whom, in what room, and what you expect to happen afterwards. Include what you will say to the analyst either way, because you will have to say something.
 
-Writing a paragraph helps and is not required.
+Writing a paragraph helps and is not required. Nothing in this module is.
 
-Keep it alongside what you wrote in the first module. You have now answered the same case from both ends of it, and the gap between the two answers is a fact about you that you will not get another clean look at.
+Keep it alongside whatever you concluded in the first module, whichever way you came down there. You have now met the same case from both ends of it, and the distance between the two answers is a fact about you that you will not get another clean look at.
 
 ## What this module did not settle
 
 Whether there is a you apart from the roles, and whether the question needs settling before the practical one can be. Cicero and Fried both argue from something owed to everyone; the *Analects* and Mencius reach their standards another way, and Mencius 2A.6 may or may not close the distance; Montaigne insists on a person apart from the office without saying what secures it. Whether these are rival answers or different routes is left where the readings leave it.
 
-Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Whether the *Gita*'s answer is available at all to someone who has no Krishna. Where Fried's border runs between wrongs an arrangement works through its rules and wrongs a person commits — he brings it into focus and then declines to draw it.
+Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Whether the *Gita*'s answer is available at all to someone who has no Krishna. Where the border runs between wrongs an arrangement works through its rules and wrongs a person commits. Fried brings it into focus and then holds that no formulation will place a particular case on one side of it, which is either an evasion or an accurate report about judgment.
 
 And one that has been accumulating rather than arriving. The people on the receiving end of a role are mostly present here as examples: the Rhodians, the man who bought the unsound house, the nervous witness, the men across the field at Kurukshetra. Fried is the one who does not leave it there, and his answer — that intentional harm particularises its victim — is the module's furthest reach in that direction. Whether an adequate account of roles could be built from that side is not a question this module settled.
 
-The next module takes up the distinctions this one kept running into and could not use: doing, ordering, enabling, facilitating, benefiting, saying nothing, staying. Fried's border is where it begins.
+The next module takes up the distinctions this one kept running into and could not use: doing, ordering, enabling, facilitating, benefiting, saying nothing, staying.
