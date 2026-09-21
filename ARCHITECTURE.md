@@ -30,11 +30,11 @@ Two things deliberately do **not** appear as modules:
 The entry point. A demand arrives that you believe is wrong but that is not illegal and not obviously outrageous. The module establishes the two poles the rest of the program works between: grounds for refusal, and obligations that survive being wronged.
 
 ### 2. Role, Loyalty, and What You Owe
-*What does a role make you owe — and is there a you apart from the roles?*
+*Do the obligations of a job, a profession, or a membership differ in kind from ordinary moral obligations?*
 
 The defense that does most of the real work in institutional life: *this is my role, these are my people, this is not my call.* The module has to take that seriously before it can be examined, because it is frequently correct.
 
-The question originally read: *do the obligations of a job, a profession, or a membership differ in kind from ordinary moral obligations?* It was restated when the module's readings were chosen, on the ground that the Confucian material denies there are two separable things to compare. That ground did not survive critique: the claim overstated what the assigned passages support, and the original wording did not in any case presuppose two separate selves, since *they are inseparable* was already an available answer to it. The present wording is retained as the better question, not as a demonstrated conclusion, and reverting it remains open.
+This question was once restated as *what does a role make you owe — and is there a you apart from the roles?*, on the ground that the Confucian material denies there are two separable things to compare. It has been reverted. The ground was overstated, and the original wording never presupposed two selves in the first place — *they are inseparable* was always an available answer to it. The replacement also invited a question about personal identity that the module's readings cannot develop.
 
 ### 3. Complicity and Participation
 *What counts as taking part in wrongdoing someone else is doing?*
@@ -86,7 +86,7 @@ Responsibility looking outward rather than inward: what is owed to the people ha
 ## What is not yet decided
 
 - No readings are assigned in this document, including for Module 1.
-- The eight problems are Western-analytic in their carving: discrete problems, rival positions, an individual agent deciding. Design principle 8 does not require every module to test that carving, but it does require that somewhere in the program a tradition be allowed to reject it rather than supply another position within it. Module 2 tested this and the result is partial: the Confucian readings change how its question is best posed, but the stronger claim that they reject the framing outright was withdrawn as unsupported. Nothing in the program yet counts as a clear instance.
+- The eight problems are Western-analytic in their carving: discrete problems, rival positions, an individual agent deciding. Design principle 8 does not require every module to test that carving, but it does require that somewhere in the program a tradition be allowed to reject it rather than supply another position within it. Module 2 tested this and the claim did not hold. Its Confucian readings change where inquiry starts — they ask what makes someone a good minister or parent rather than opening from a conflict between conscience and office — but that is a difference of emphasis and method, not a rejection of the framing, and the module's question has been reverted accordingly. Nothing in the program yet counts as an instance.
 - Anchor cases and their escalation across modules are drafted in `CASES.md`.
 
 ## Coverage of the charter's concerns

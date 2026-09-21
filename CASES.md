@@ -41,7 +41,7 @@ The analyst says no. They say it politely, and they are not going to move.
 - Take it to your own manager and put the decision there.
 - I don't know yet. *(Then: Thursday comes regardless. What happens on Thursday?)*
 
-Then the question the case exists for: **is what you now know a fact about how these reports are read, or a fact about where you are sitting?** You cannot answer that by consulting your own confidence, because it would feel the same either way.
+Then the question the case exists for: **is what you now know a fact about how these reports are read, or a fact about where you are sitting?** It can be both, and if it is, the question becomes which of them is doing the work. You cannot answer that by consulting your own confidence, because it would feel the same either way.
 
 And note what you are assuming about the analyst. You may be taking them to have less information than you. They may have the same information and a different view of what follows from it. Those are different conversations, and only one of them is about facts.
 

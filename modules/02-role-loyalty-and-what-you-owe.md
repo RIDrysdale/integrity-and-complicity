@@ -45,7 +45,7 @@ The analyst says no. They say it politely, and they are not going to move.
 - Take it to your own manager and put the decision there.
 - I don't know yet. *(Then: Thursday comes regardless. What happens on Thursday?)*
 
-Then the question the case exists for: **is what you now know a fact about how these reports are read, or a fact about where you are sitting?** You cannot settle that by consulting your own confidence, because it would feel the same either way.
+Then the question the case exists for: **is what you now know a fact about how these reports are read, or a fact about where you are sitting?** It can be both, and if it is, the question becomes which of them is doing the work. You cannot settle that by consulting your own confidence, because it would feel the same either way.
 
 Note also what you are assuming about the analyst. You may be taking them to have less information than you. They may have the same information and a different view of what follows from it. Those are different conversations, and only one of them is about facts.
 
@@ -379,37 +379,35 @@ Recall the position you settled on before you read. Before revising it, put the 
 
 ### The person who said no
 
-There is someone else in this case, and you have met them before. They were you.
+There is someone else in this case, and you have met them before. Whatever you decided when the argument was made to you, you were on that side of the desk and are now on this one.
 
-The analyst is doing what you did, or what you wish you had done, or what you told yourself you would have done. They are refusing politely, they are not moving, and they are junior.
+The analyst is refusing politely, is not moving, and is junior.
 
 So: what do you owe the person who refuses you? Not what may you do about them — what do you owe them?
 
-Put the question to each of the five in turn and write down what you get. Some of them will have more to say about it than others, and that is worth noticing, but do not conclude anything from it until you have actually tried them all. A reading that seems to have nothing to offer may be one you have only asked the wrong way.
+Put the question to each of the five in turn and write down what you get. Some will have more to say about it than others. Do not conclude anything from that until you have tried them all, because a reading that seems to offer nothing may be one you have asked the wrong way.
 
 ### Before you decide anything
 
 Thursday is coming. If you do nothing, the analyst's version goes up unchanged, over your name.
 
-That may well be the right outcome. It is what you would have wanted three years ago and it may be what you should want now. Leaving a defensible report alone can be a decision, and a good one — it does not become better by costing you an argument, and it does not become worse by costing you nothing.
+That may well be the right outcome. Leaving a defensible report alone can be a decision, and a good one — it does not become better by costing you an argument, and it does not become worse by costing you nothing.
 
-The question is not whether the choice felt hard enough. It is whether you made it. Two things tell you: can you say what you expect to follow from it, and would you have chosen the same thing if the default had run the other way and inaction meant the softened version went up?
-
-And if you mean to pull it for reworking, settle now what has to be different before it goes and when it goes instead. A delay you cannot describe in a sentence is not a delay.
+The question is not whether the choice felt hard enough. It is whether you made it. Can you say what you expect to follow from it? And if you mean to pull the report for reworking, can you say now what has to be different before it goes, and when it goes instead? A delay whose terms you cannot state is one you have not yet decided on, whatever else it may turn out to be.
 
 ### Two questions about yourself
 
-Both of them, not whichever is more comfortable. And notice as you go that suspicion pointed in every direction at once is not the same as judgment — each of these comes with something that would actually discriminate.
+Both of them, not whichever is more comfortable.
 
-**How might I be laundering a preference through the role?** You want the budget, the reorganisation is coming, and the role supplies a vocabulary in which wanting the budget sounds like discharging a duty. Separate what this job requires from what your position merely makes it easy to say, going item by item and naming who benefits from each.
+And a warning about both. You are going to want a test — something you can apply to your own reasoning that sorts duty from self-interest and returns an answer. There isn't one. Any test simple enough to apply to yourself is simple enough to pass while doing the wrong thing, and this module is not going to hand you one dressed up as a conclusion. What these questions can do is send you after evidence. What the evidence means is still yours to judge.
 
-The test that discriminates: take each item and ask whether it would still be a requirement if the benefit ran to someone you dislike. What survives that is duty. What does not was preference.
+**How might I be laundering a preference through the role?** You want the budget, the reorganisation is coming, and the role supplies a vocabulary in which wanting the budget sounds like discharging a duty. Go through what you take this job to require, item by item, and name who benefits from each.
 
-And if every item survives, ask whether that is because there was nothing, or because you were the one auditing.
+Then go looking. What would the analyst say this job requires? What would your opposite number in another department say, who is not exposed by this report? What would you have said about a manager in your position three years ago, before you knew what you know now? You will not be able to ask all of them, but you can predict the answers, and the predictions are evidence — including about the ones you would rather not predict.
 
-**How might refusing the role's demands be a way of keeping my hands clean?** This is the opposite failure and not the rarer one. You may be declining a hard managerial call because you would rather remain the sort of person who does not make them. Krishna's charge is that this is doing someone else's work well instead of your own badly. Fried's is that roles which function should not be undermined so a better arrangement may arrive sooner. Montaigne watched his father wreck his health for Bordeaux, praised him, declined to imitate him, and offered a reason — which you have to weigh rather than accept.
+**How might refusing the role's demands be a way of keeping my hands clean?** This is the opposite failure, and common enough that it deserves the same suspicion. You may be declining a hard managerial call because you would rather remain the sort of person who does not make them. Krishna's charge is that this is doing someone else's work well instead of your own badly. Fried's is that roles which function should not be undermined so a better arrangement may arrive sooner. Montaigne watched his father wreck his health for Bordeaux, praised him, declined to imitate him, and gave reasons — which you have to weigh rather than accept.
 
-The test that discriminates: would you make the same call if no one would ever learn you had made it? Clean hands need an audience, even an imagined one. Duty does not.
+Go looking here too. Who bears the cost if you do nothing? Name them, not the abstraction. Then ask what you would need to believe about them for your choice to be the right one, and whether you believe it.
 
 ### What you would actually do on Thursday
 
@@ -425,6 +423,6 @@ Whether there is a you apart from the roles, and whether the question needs sett
 
 Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Whether the *Gita*'s answer is available at all to someone who has no Krishna. Where the border runs between wrongs an arrangement works through its rules and wrongs a person commits. Fried brings it into focus and then holds that no formulation will place a particular case on one side of it, which is either an evasion or an accurate report about judgment.
 
-And one that has been accumulating rather than arriving. The people on the receiving end of a role are mostly present here as examples: the Rhodians, the man who bought the unsound house, the nervous witness, the men across the field at Kurukshetra. Fried is the one who does not leave it there, and his answer — that intentional harm particularises its victim — is the module's furthest reach in that direction. Whether an adequate account of roles could be built from that side is not a question this module settled.
+And one that has been accumulating rather than arriving. The people on the receiving end of a role are mostly present here as examples: the Rhodians, the man who bought the unsound house, the nervous witness, the men across the field at Kurukshetra. Some of the readings do more than that — Mencius on the child at the well and on a minister treated as grass, Fried on intentional harm particularising its victim — and you should judge for yourself how far any of them gets. Whether an adequate account of roles could be built from that side is not a question this module settled.
 
 The next module takes up the distinctions this one kept running into and could not use: doing, ordering, enabling, facilitating, benefiting, saying nothing, staying.
