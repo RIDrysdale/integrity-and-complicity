@@ -20,13 +20,15 @@ You are not being asked to break a law or falsify a number. What do you do?
 
 Some years on. You hold the budget now, and the people whose jobs depended on it report to you.
 
-An analyst on your team has prepared a report. It is accurate and it is damaging. The findings are not wrong; they are worse than anyone expected, and set out plainly they will read to senior leadership as a failure of management, which means yours. It goes into the quarterly pack on Thursday, under the analyst's name and yours, unless you pull it. There is a reorganisation coming. Two of the six people who work for you are on contracts you will have to argue to renew.
+An analyst on your team has prepared a report. It is accurate and it is damaging. The findings are not wrong; they are worse than anyone expected, and set out plainly they will read to senior leadership as a failure of management, which means yours. It goes into the quarterly pack on Thursday, under the analyst's name and yours, unless you pull it. There is a reorganisation coming. Two of the six people who work for you are on contracts you will have to argue to renew, and it is a small sector: the people who would hire you next are the people who will be in the room on Thursday.
 
 You ask the analyst to soften it.
 
 You hear yourself making the argument, and it is your old manager's argument. Every department presents its work favourably. Leadership knows how these documents are produced and discounts them accordingly, so a report that does not discount itself will be discounted twice and land harder than the facts warrant. The findings cover a period you have already taken action on. And there are the two contracts.
 
-What you did not expect is how much better the argument sounds from this chair. From where you used to sit it looked like cowardice with a business case attached. From here it looks like what a responsible person does — and you now know several things about how these reports are actually read that you had no access to before.
+What you did not expect is how different the argument sounds from this chair. Whatever you concluded when it was made to you, you were not the one who had to make it. From here it looks like what a responsible person does — and you now know several things about how these reports are actually read that you had no access to before.
+
+You have a covering note half-drafted in your head. It says the remediation is under way and the findings describe a period now closed. The analyst's second finding is that the remediation has not worked.
 
 The analyst says no. They say it politely, and they are not going to move.
 
@@ -35,6 +37,7 @@ The analyst says no. They say it politely, and they are not going to move.
 - Send the analyst's version up unchanged.
 - Overrule them and soften it yourself.
 - Send it up unchanged with your own covering note supplying the context you think it lacks.
+- Pull it from this cycle and ask for it to be reworked.
 - Take it to your own manager and put the decision there.
 - I don't know yet. *(Then: Thursday comes regardless. What happens on Thursday?)*
 
