@@ -272,6 +272,10 @@ The difference is that the second has a particular person at the other end. Deci
 
 **The soldier, and the line.** A soldier of a just state whose foreign policy is decided democratically may hold that judging the war is not his to do — note both conditions, since the second is part of why the judgment might belong elsewhere — while being personally bound not to attack civilians or abuse prisoners — wrongs done by his person to the person of a victim. So: wrongs a reasonably just system works through its rules, against wrongs the role-holder commits. He says the border is where competing principles rub together and no rule will spare you judgment there.
 
+**The machinery the argument runs on.** Keep a list as you read of what has to be in place for any of this to work. There is an adversary with a lawyer of their own. There are rules of advocacy setting the outer limits. There is a tribunal that decides. There is a client who chose this lawyer and can dismiss him, whose autonomy is the good being served. And there is a professional code that in some circumstances requires him to withdraw, which footnote 35 sets out.
+
+None of that is scenery. Fried's permission is issued by that structure, and he says as much at III.B.1 when he sends the correction back to whoever writes the rules.
+
 **The conclusion.** Before the end he turns on lawyers who identify with their clients beyond the professional task — the defence lawyer speaking publicly against regulation, often because it is good for business. He has a name for capture by the role. Then the last word: he will not have the integrity of these roles undermined so the millennium may come sooner, since it may never come.
 
 ### What it pulls against
@@ -284,7 +288,8 @@ The *Analects* and Mencius, where a relation is not entered by contract — thou
 ### Questions to carry
 
 - Ask his question in his words about your own job. If you answer yes, say what it is about the job that makes it so, not what it is about you.
-- The lawyer has one client. You do not. You owe something to the analyst, to the team, to senior leadership, and to whoever is affected by what the budget does. Before using this argument, say who your client is — and notice that naming the team settles the question rather than answering it.
+- Before borrowing this argument, check whether you have what it runs on. Who is your client? Who is on the other side, and who is acting for them? What rules say what you may and may not do for your side? Who decides? If most of those come back empty, work out what is left of the permission.
+- And the hardest one: Fried's lawyer is never the person the case is about. You are. The report concerns your management, so in his terms you are closer to a man acting for himself, which the profession treats as a hazard rather than a licence. Does anything in the argument survive that?
 - Which criticism is your case: misallocation, or advantage taken at the expense of someone identifiable? Name them if you can.
 - If correction belongs to the system rather than the role-holder, what follows for you on Thursday? Is *work to change how these reports are commissioned* an answer or a deferral? It can be either.
 - His argument runs inside a reasonably just system. Is yours? An institution can be compromised and still clear that bar — say what you would accept as evidence either way.
@@ -297,6 +302,8 @@ A rights-based argument and deliberately not a consequentialist one. Role obliga
 Notice what it needs. It needs the background system to be reasonably just, because the licence the role confers is drawn from the justice of the system issuing it; Fried says so, and points at Rawls, whom you have read. That is a condition, not a trapdoor — an institution can be compromised in the ways this program is about and still clear it. But the further it falls short, the less of his argument is available, and he does not say what replaces it.
 
 Its second difficulty is the border. Wrongs a system works through its rules, and wrongs you commit yourself: your case turns on which side it falls. Fried gives the distinction real content and worked examples, and says only that no rule will resolve every borderline case without judgment. Whether that leaves you enough is worth settling.
+
+The third is not a difficulty in his argument but in taking it out of the building. What licenses the lawyer's partiality is not that he has a client; it is that an institution has specified in advance what he may do for that client, who opposes him, who decides between them, and when he must stop. Some jobs have that structure — an auditor, a union representative, a public defender, an inspector — and if yours does, Fried transfers and you should use him. A manager deciding what leadership gets told has an interest, not a brief. The difference is not that partiality is unavailable to you; it is that nothing has authorised yours or set its limits, so you are supplying both. Saying *this department is my client* borrows the vocabulary without the machinery.
 
 ### An argument we do not assign
 
