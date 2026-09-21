@@ -2,7 +2,7 @@
 
 Cases recur across modules and escalate (design principle 7). The reader takes a position before reading and returns to it afterwards, so they can watch their own judgment move.
 
-**Status:** Case A.1 is assigned in Module 1 and A.4 in Module 2. The remaining escalations are drafted and not yet placed. Cases B and C are placeholders.
+**Status:** Case A.1 is assigned in Module 1, A.4 in Module 2, and A.6 in Module 3. The remaining escalations are drafted and not yet placed. Cases B and C are placeholders.
 
 ## Case A — The internal report
 
@@ -45,10 +45,48 @@ Then the question the case exists for: **is what you now know a fact about how t
 
 And note what you are assuming about the analyst. You may be taking them to have less information than you. They may have the same information and a different view of what follows from it. Those are different conversations, and only one of them is about facts.
 
+### A.6 — The numbers they need (Module 3)
+
+About a year after Thursday. You are still in the same job, and so is the analyst.
+
+The department next to yours files a funding return at the end of each quarter, claiming against activity that meets a published definition. For three quarters now the head of that department has been returning activity that does not meet it. You are not inferring this. You were in the room in June when they said, in terms, that the definition had never survived contact with the targets and that nobody had pretended otherwise for years.
+
+This is not a hard call and you are not in any doubt about it. It is a false claim for money. It is theirs, and you did not make it.
+
+What you do is this. Every quarter your team produces the activity extract that the return is built on. Your analyst runs it, you ask for it, it goes across on the 12th. The extract is accurate. Nothing in it is categorised; the categories go on at the other end.
+
+Four things to hold in front of you while you decide.
+
+The funding comes back pooled. About a fifth of it lands in your budget, and it is the fifth that renews one of the two contracts you were worrying about last year.
+
+If you stop producing the extract, the central data team will produce it instead. They are quicker than your analyst and they will not check it.
+
+You said nothing in June. Afterwards, in the corridor, you said something. You have gone back over it more than once and you cannot settle whether it was a joke, a warning, or an agreement — and you have noticed that the version you remember has been improving.
+
+Your analyst has worked out what the extract is for. They have not made a complaint. They asked you what it gets used for, and you have not answered yet.
+
+The extract goes across on the 12th. The return goes in on the 30th.
+
+**Take a position before you read.** Fix it clearly enough that you would notice it changing.
+
+- Produce the extract as usual and say nothing.
+- Produce it, and tell the head of that department that you know.
+- Stop producing it, and let central data supply it instead.
+- Take it to your own manager.
+- Report it outside the line, to whoever the process names.
+- Refuse your department's share of the funding and produce the extract anyway.
+- I don't know yet. *(Then: the 12th comes first. What goes across on the 12th?)*
+
+Then the question the case exists for. You are about to acquire a vocabulary for this — ordering, enabling, benefiting, keeping quiet, staying — and some of those words will fit your position better than others. **Are you drawing the distinctions because they are true, or because you need them to be?** You will not be able to tell from the inside, and the finer a distinction is, the better it serves either purpose.
+
+Then the same suspicion the other way round. If you decide that all of it is participation and the words do not matter much, notice what that buys you. If everything you do here is complicity, then nothing you do in particular is, and there is no longer anything specific to stop doing.
+
+**Note what you are taking for granted.** The load-bearing fact in your defence is that central data would produce the extract anyway. You have not checked it. You do not know whether they have the access, whether anyone has asked them, or what the head of that department would do if your extract simply stopped arriving. Before you lean on it, say whether it is something you know or something you have found it comfortable to assume.
+
 ### Escalations (drafted, unplaced)
 
 - **A.2 — It worked.** The softened report went up. Nothing bad happened, the budget held, and your manager thanked you. You are asked again, for the next quarter. Does the first compliance change the second question? Candidate: Module 8, habituation.
-- **A.3 — It was used.** A decision was taken partly on the strength of your report, and someone outside your team was harmed by it. You learn this a year later. What, if anything, do you now owe? Candidate: Module 3 or E3.
+- **A.3 — It was used.** A decision was taken partly on the strength of your report, and someone outside your team was harmed by it. You learn this a year later. What, if anything, do you now owe? Candidate: E3. Module 3 was considered and does not fit: the case supplies no second wrongdoer, so there is nothing to take part in, and the question it does ask — what is owed to the person harmed — is E3's.
 - **A.5 — The soft version is the norm.** Every department does it. Yours is the only honest report in the cycle, and it reads as incompetence rather than candour. Candidate: Module 5, systems.
 
 ## Case B — placeholder
