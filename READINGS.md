@@ -12,7 +12,7 @@ Status is **checked** (text opened, locators exist, attributed argument actually
 | Arendt, "Personal Responsibility Under Dictatorship" | none | In copyright; no reliable free text | unchecked, argument located, wording unconfirmed | assigned, 1 |
 | Rawls, "Legal Obligation and the Duty of Fair Play" (1964) | none | In-copyright anthology, hard to obtain | pointer | 1 |
 | Nozick, *Anarchy, State, and Utopia* (1974), ch. 5 | chapter section | In copyright | pointer | 1 |
-| Cicero, *De Officiis*, I.107–115 and III.49–57 | book and section | Free (LacusCurtius, Perseus) | checked | assigned, 2 |
+| Cicero, *De Officiis*, I.107–115 and III.49–58 | book and section | Free (LacusCurtius, Perseus) | checked | assigned, 2 |
 | Confucius, *Analects*, 4.5, 4.18, 12.11, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25 | book and chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
 | Mencius, 2A.6, 4A.17 and 4B.3 | book, part, chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
 | Montaigne, *Essays*, III.10 | book and essay | Free (Cotton translation, Project Gutenberg) | checked | assigned, 2 |

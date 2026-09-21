@@ -10,7 +10,7 @@ This is the defence that does most of the real work in institutional life — *t
 
 ## What is assigned
 
-- **Cicero, *De Officiis*, I.107–115 and III.49–57** — two short stretches, not the whole work. Half an hour.
+- **Cicero, *De Officiis*, I.107–115 and III.49–58** — two short stretches, not the whole work. Half an hour or a little more.
 - **Confucius, *Analects*: 4.5, 4.18, 12.11, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25; and Mencius 2A.6, 4A.17 and 4B.3** — twelve short passages. Longer than it looks, because they need re-reading.
 - **Montaigne, *Essays*, III.10, "Of Managing the Will"** — one essay, whole. Three quarters of an hour, and it wanders.
 - **Fried, "The Lawyer as Friend" (1976)** — the whole article. The longest and densest of the four.
@@ -50,7 +50,7 @@ Note also what you are assuming about the analyst. You may be taking them to hav
 
 ---
 
-## Reading 1: Cicero, *De Officiis*, I.107–115 and III.49–57
+## Reading 1: Cicero, *De Officiis*, I.107–115 and III.49–58
 
 Freely available, and the book and section numbers are standard in every edition. Miller's translation at LacusCurtius: [Book I](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/1E*.html) and [Book III](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/3B*.html), which is where the quotations below come from. Only the two stretches named are assigned.
 
@@ -197,13 +197,15 @@ Montaigne was twice elected mayor of Bordeaux in the 1580s, while France tore it
 
 **The theatre, and one Latin word.** "Most of our business is farce." We must play our part "as a part of a borrowed personage," and not "make real essence of a mask and outward appearance" — it is enough "to meal the face, without mealing the breast."
 
-He has seen the alternative: men who "transform and transubstantiate themselves into as many new shapes and new beings as they undertake new employments," who "strut and fume even to the heart and liver," and who "cannot distinguish the salutations made to themselves from those made to their commission, their train, or their mule."
+He has seen the alternative: men who "transform and transubstantiate themselves into as many new shapes and new beings as they undertake new employments," who "strut and fume even to the heart and liver," and of whom he says: "I cannot make them distinguish the salutations made to themselves from those made to their commission, their train, or their mule."
 
 *Persona* is Latin for an actor's mask, and it is Cicero's word for the four things you are — the third being your office. Montaigne's "borrowed personage" is the same word in different service. Before deciding they contradict, work out whether an office could impose real obligations without exhausting its holder, and whether either writer denies it.
 
-**The mayor, and the sentence after.** "The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation… an honest man is not accountable for the vice or absurdity of his employment." Then: "the judgment of an emperor ought to be above his empire, and see and consider it as a foreign accident."
+**The mayor, and what surrounds it.** "The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation." The sentence continues into a reason that is easy to miss: a man who is an advocate or a financier "must not ignore the knavery there is in such callings," yet "an honest man is not accountable for the vice or absurdity of his employment, and ought not on that account refuse to take the calling upon him: 'tis the usage of his country, and there is money to be got by it; a man must live by the world."
 
-The first is about accountability and the second about judgment. They are different claims and the essay does not separate them. He puts the second to work at once on the civil war, refusing to let his own side's interest hide what is admirable in his adversaries.
+Note what that last clause is doing. The separation is not only a discipline for a gentleman with a château; it is offered as what makes it possible to hold a compromised job at all when you have to earn a living. That is closer to your situation than the mayoralty is.
+
+Then: "the judgment of an emperor ought to be above his empire, and see and consider it as a foreign accident." The first passage is about accountability and this one about judgment. They are different claims and the essay does not separate them. He puts the second to work at once on the civil war, refusing to let his own side's interest hide what is admirable in his adversaries.
 
 **Lending, and what it does not withhold.** "A man should lend himself to others, and only give himself to himself." The line falls elsewhere than you would put it: he would have men give their employments "attention, pains, eloquence, sweat, and blood if need be," all of it "only borrowed." He withholds identification, not effort, and thinks the withholding improves the work.
 
@@ -244,7 +246,7 @@ Its difficulty is how little it offers anyone else. There are standards in it �
 
 ## Reading 4: Charles Fried, "The Lawyer as Friend: The Moral Foundations of the Lawyer-Client Relation"
 
-*Yale Law Journal* 85 (1976). Open access, with the full text, at [Harvard's DASH repository](https://dash.harvard.edu/entities/publication/73120379-2de8-6bd4-e053-0100007fdf3b). Cited below by section and subsection — I, II and III, with lettered parts and numbered ones inside III.B — which work in any reprint. It is a law review article and reads like one; the footnotes can be left alone.
+*Yale Law Journal* 85 (1976). Open access, with the full text, at [Harvard's DASH repository](https://dash.harvard.edu/entities/publication/73120379-2de8-6bd4-e053-0100007fdf3b). Cited below by section and subsection — I, II and III, with lettered parts and numbered ones inside III.B — which work in any reprint. It is a law review article and reads like one. Most of the footnotes are citations, but a few qualify the argument — footnote 35 in particular, which sets out when a lawyer may withdraw.
 
 ### Why it's here
 
@@ -254,7 +256,7 @@ He is also the only writer here defending a role that is entered by agreement, b
 
 ### What to watch for
 
-**The two criticisms, both at I.A.** The first concerns allocation: professional loyalty sends effort where it is wanted rather than where it is needed. The second concerns means and is specific to lawyers — discrediting a nervous but probably truthful witness, exploiting an adversary's ignorance in a negotiation. I.B gives examples of the first.
+**The two criticisms, both at I.A.** The first concerns allocation: professional loyalty sends effort where it is wanted rather than where it is needed. The second concerns means and is specific to lawyers — discrediting a nervous but probably truthful witness, exploiting an adversary's ignorance in a negotiation. I.B illustrates both, the second with a negotiation in which the buyer is allowed to keep a mistaken belief, and with a technical defence raised against a debt the client admits he owes.
 
 The difference is that the second has a particular person at the other end. Decide which kind your case is; it matters by the end.
 
@@ -264,19 +266,19 @@ The difference is that the second has a particular person at the other end. Deci
 
 **The thesis, II.D.** The lawyer is a limited-purpose friend, adopting the client's interests as his own, narrow in range and complete inside it; what he serves is the client's autonomy within the law. He raises the objections to his own analogy first — the relation starts from the client's need, it is one-sided, the usual reason for taking the work is money, and a grocer is not a limited-purpose friend. Judge his answers.
 
-**Where the moral work is done, III.A and III.B.1.** The lawyer stays inside the law and the rules of advocacy. Then the claim to carry out of here: social policy is made by controlling what the law permits, not by deforming the role and asking the lawyer to curb his advocacy within it. Corrections belong to the system, not to whoever fills the role. The condition is attached without emphasis — this holds in a reasonably just system.
+**Where the moral work is done, III.A and III.B.1.** The lawyer stays inside the law and the rules of advocacy. Then the claim to carry out of here: social policy is made by controlling what the law permits, not by deforming the role and asking the lawyer to curb his advocacy within it. For that class of wrong — the ones a system produces by permitting them — the correction belongs to the system rather than to whoever fills the role. The condition is attached without emphasis: this holds in a reasonably just system.
 
 **Where he concedes, III.B.2.** Asked to press an unfair claim or humiliate a witness, all of it legal, the lawyer is differently placed: the personal relation is now one of harm. Intentional harm, Fried says, particularises its victim — *who is my neighbour* is a legitimate question about whom to help and out of order about whom not to harm. So the principle licensing his devotion forbids what that devotion urges. He considers the escape that the lawyer may decline such cases and calls it "not wrong but somewhat lame."
 
-**The soldier, and the line.** A soldier of a reasonably just state may hold that judging the war is not his to do, while being personally bound not to attack civilians or abuse prisoners — wrongs done by his person to the person of a victim. So: wrongs a reasonably just system works through its rules, against wrongs the role-holder commits. He says the border is where competing principles rub together and no rule will spare you judgment there.
+**The soldier, and the line.** A soldier of a just state whose foreign policy is decided democratically may hold that judging the war is not his to do — note both conditions, since the second is part of why the judgment might belong elsewhere — while being personally bound not to attack civilians or abuse prisoners — wrongs done by his person to the person of a victim. So: wrongs a reasonably just system works through its rules, against wrongs the role-holder commits. He says the border is where competing principles rub together and no rule will spare you judgment there.
 
-**The conclusion.** He will not have the integrity of these roles undermined so the millennium may come sooner, since it may never come. But read on to what he says about lawyers who identify with clients beyond the professional task — the defence lawyer speaking publicly against regulation, often because it is good for business. He has a name for capture by the role.
+**The conclusion.** Before the end he turns on lawyers who identify with their clients beyond the professional task — the defence lawyer speaking publicly against regulation, often because it is good for business. He has a name for capture by the role. Then the last word: he will not have the integrity of these roles undermined so the millennium may come sooner, since it may never come.
 
 ### What it pulls against
 
 Cicero, on the merchant. Fried protects some of the space Diogenes claimed, and III.57's criterion would not obviously permit it — but both reason from something everyone is owed, and Fried's line at personal wrongs is not far from where Cicero drew his. Work out whether they disagree about the principle or about which side a silence falls.
 
-The *Analects* and Mencius, where nothing is entered by agreement or left on notice. Does that change what is owed, or only how the obligation arose?
+The *Analects* and Mencius, where a relation is not entered by contract — though 4B.3 has a minister leaving, and a ruler who obstructs the leaving. Ask whether the difference is about what is owed or only about how the obligation arose and how it ends.
 
 
 ### Questions to carry
@@ -294,7 +296,7 @@ A rights-based argument and deliberately not a consequentialist one. Role obliga
 
 Notice what it needs. It needs the background system to be reasonably just, because the licence the role confers is drawn from the justice of the system issuing it; Fried says so, and points at Rawls, whom you have read. That is a condition, not a trapdoor — an institution can be compromised in the ways this program is about and still clear it. But the further it falls short, the less of his argument is available, and he does not say what replaces it.
 
-Its second difficulty is the border. Wrongs a system works through its rules, and wrongs you commit yourself: your case turns on which side it falls, and Fried holds that no formulation will decide it for you. Whether that is an evasion or an accurate report of what moral judgment is like is worth settling.
+Its second difficulty is the border. Wrongs a system works through its rules, and wrongs you commit yourself: your case turns on which side it falls. Fried gives the distinction real content and worked examples, and says only that no rule will resolve every borderline case without judgment. Whether that leaves you enough is worth settling.
 
 ### An argument we do not assign
 
@@ -355,7 +357,7 @@ Keep it alongside whatever you concluded in the first module, whichever way you 
 
 Whether there is a you apart from the roles, and whether the question needs settling before the practical one can be. Cicero and Fried both argue from something owed to everyone; the *Analects* and Mencius reach their standards another way, and Mencius 2A.6 may or may not close the distance; Montaigne insists on a person apart from the office without saying what secures it. Whether these are rival answers or different routes is left where the readings leave it.
 
-Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Where the border runs between wrongs an arrangement works through its rules and wrongs a person commits. Fried brings it into focus and then holds that no formulation will place a particular case on one side of it, which is either an evasion or an accurate report about judgment.
+Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Where the border runs between wrongs an arrangement works through its rules and wrongs a person commits. Fried gives the distinction content and examples but holds that no rule settles every borderline case, and your case may be one of those.
 
 And one that has been accumulating rather than arriving. The people on the receiving end of a role are mostly present here as examples: the Rhodians, the man who bought the unsound house, and the nervous witness. Some of the readings do more than that — Mencius on the child at the well and on a minister treated as grass, Fried on intentional harm particularising its victim — and you should judge for yourself how far any of them gets. Whether an adequate account of roles could be built from that side is not a question this module settled.
 
