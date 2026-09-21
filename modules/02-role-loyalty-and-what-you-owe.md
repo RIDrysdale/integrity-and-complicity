@@ -62,25 +62,19 @@ Cicero held office in a republic he watched being dismantled, and wrote this to 
 
 **The four *personae*, I.107–115.** Two characters at I.107: one universal, "arising from the fact of our being all alike endowed with reason," and one particular to each of us. At I.115 two more — "a third, which some chance or some circumstance imposes, and a fourth also, which we assume by our own deliberate choice." Office belongs to the third, alongside birth, wealth and influence; the career you picked to the fourth.
 
-They are not four equals. At I.110 the universal sets bounds and your own nature directs you inside them. Then see how far Cicero takes that: at I.112 the same circumstances make an act a duty for one man and a crime for another — Cato against those who surrendered to Caesar — and at I.113 Ulysses endures what Ajax would have died rather than suffer.
-
-So Cicero already grants that what you must do depends on who you are. Work out what he thinks does not vary, and whether the text supports the line he draws there.
+They are not four equals. At I.110 the universal sets bounds and your own nature directs you inside them — and he takes that a long way. At I.112 the same circumstances make an act a duty for one man and a crime for another, Cato against those who surrendered to Caesar; at I.113 Ulysses endures what Ajax would have died rather than suffer. So Cicero already grants that what you must do depends on who you are.
 
 **The judge in a friend's case, III.43.** Duty is most confused in friendships, Cicero says, because it is a breach either to fail a friend in what you may rightly do for him or to do for him what is not right. Then the rule: an upright man will do nothing against his country's interests, his oath or his good faith for a friend's sake — not even if he sits as judge in that friend's case, "for he lays aside the rôle of friend when he assumes that of judge." The Latin is *ponit enim personam amici, cum induit iudicis*: the same word you have just met four times over. What friendship is still allowed is exact and small. He may prefer his friend's side to be the juster one, and may set the time of the hearing to suit him so far as the laws permit.
 
 Read III.44–46 for what holds it up. The verdict is sworn, and the witness Cicero names is the judge's own mind. If everything a friend wanted had to be done, these would not be friendships but conspiracies. And where friendship asks for what is not honourable, good faith comes first.
 
-This is the module's hinge, so take the trouble to state it exactly. Cicero is not saying the relation counts for nothing. He is saying that when you put the office on, the relation stops being the thing you act from. Whether that is right is the question the rest of the module is about.
+This is the module's hinge, so state it exactly. Not that the relation counts for nothing — that when you put the office on, the relation stops being the thing you act from.
 
-**III.49–50.** Nothing morally wrong is ever expedient. But read III.50 before deciding that settles anything by assertion: cases arise where the two seem to clash, and the work is to find whether the conflict is real. He is announcing a method.
-
-**The merchant at Rhodes, III.50–57.** Famine, a fabulous price for grain, a trader who alone knows more ships are close behind. Antipater says disclose; Diogenes says declare what the law requires and otherwise sell to advantage, misrepresenting nothing — because concealing and merely not revealing are different things. At III.54 the same question is put about a house the seller knows to be unsound, and Diogenes asks what would be more stupid than a vendor reciting every fault of what he is selling.
+**The merchant at Rhodes, III.49–57.** Nothing morally wrong is ever expedient — but III.50 says cases arise where the two seem to clash and the work is to find whether the conflict is real, so this is a method and not an assertion. Then the case. Famine, a fabulous price for grain, a trader who alone knows more ships are close behind. Antipater says disclose; Diogenes says declare what the law requires and otherwise sell to advantage, misrepresenting nothing — because concealing and merely not revealing are different things. At III.54 the same question is put about a house the seller knows to be unsound, and Diogenes asks what would be more stupid than a vendor reciting every fault of what he is selling.
 
 **The criterion, III.57 — read to the end of the section.** Cicero decides against Diogenes, and then says why, in the sentence after the verdict. Holding one's peace is not concealment; concealment is trying, *for your own profit*, to keep others from finding out something you know *when it is for their interest to know it*.
 
-That is a test with two conditions, and it grants Diogenes his distinction rather than brushing it aside. Run it on your own case, and notice whether the conditions come apart.
-
-Notice what the first condition excludes. The Latin is *emolumenti tui causa* — for the sake of your own gain — so a silence kept for somebody else's benefit does not obviously fall inside it. Hold that beside III.43, where acting for another's sake is precisely what the judge may not do. Two passages, two different tests, and most real cases sit between them.
+A test with two conditions, and it grants Diogenes his distinction rather than brushing it aside. Note what the first condition excludes: the Latin is *emolumenti tui causa*, for the sake of your own gain, so a silence kept for somebody else's benefit does not obviously fall inside it. At III.43 acting for another's sake is precisely what the judge may not do. Two passages, two tests, and most real cases sit between them.
 
 **III.58.** Suppressing the truth and stating what is false are kept distinct, and both are blamed. Nothing in your analyst's report is false. The story of Canius and the borrowed fishing boats begins here and runs on past the end of the assignment; read it if you like, but the sentence before it is the one that bears.
 
@@ -130,43 +124,35 @@ That changes where an inquiry starts, and it is worth seeing what the change doe
 
 **Names, 13.3 and 12.11.** Asked what he would do first in government, Confucius says he would rectify names, and defends it with a chain of consequences running from language that does not fit things down to people with nowhere to put hand or foot. At 12.11 the same in four words — "Let the ruler be ruler, ministers ministers, fathers fathers, sons sons" — and Duke Jing, thinking about his grain supply, agrees.
 
-Role words carry standards, and "manager" can fail to apply. Notice what this leaves unsettled: where the standards come from, and whether language of this kind also props up the hierarchy it describes.
+Role words carry standards, and "manager" can fail to apply. What this leaves unsettled is where the standards come from, and whether language of this kind also props up the hierarchy it describes.
 
 **13.13.** Personal uprightness is made a condition of governing others. That is a strong claim and a limited one — it does not follow that the person and the office are one thing, and someone who distinguishes them can still hold that a corrupt man makes a bad official.
 
 **13.18, the sheep.** The Duke of She reports an upright man in his district who testified against his father for stealing a sheep. Confucius: "The upright men in my district are different. Fathers cover up for their sons and sons cover up for their fathers. Uprightness lies therein."
 
-Do not soften this. The case is a theft, the response is concealment, and Confucius does not treat the concealment as a regrettable cost of family feeling. He puts uprightness in it. That is the claim, and the reader who wants these texts to be congenial has to get past it rather than around it.
+Do not soften this. The case is a theft and the response is concealment, and Confucius does not treat it as a regrettable cost of family feeling. He puts uprightness in it.
 
-Now set it against III.43. The Duke of She's district holds Cicero's position exactly: the upright man testifies, because taking up the office of witness lays down the relation of son. Confucius answers it by name — the upright men here are different — and locates uprightness in the thing Cicero lays down. The two texts are addressing the same question from opposite ends, and neither has to be stretched to produce the disagreement.
+Set that against III.43. The Duke of She's district holds Cicero's position exactly — the upright man testifies, because taking up the office of witness lays down the relation of son — and Confucius answers it by name, locating uprightness in the thing Cicero lays down. Neither text has to be stretched to produce the disagreement.
 
-Then something that makes it harder rather than easier. Cicero's other test may acquit the son. Concealment at III.57 is wanting people ignorant *for your own gain*, and the son gains nothing; on that test his silence is holding his peace, which Cicero expressly permits. So the two writers may agree about the sheep and disagree about the rule. Work out which of Cicero's two passages you think governs his own case, because the answer decides a good deal about Thursday.
+Then something that makes it harder. Cicero's other test may acquit the son: concealment at III.57 is wanting people ignorant *for your own gain*, and the son gains nothing, so his silence may be the holding of peace that III.57 expressly permits. The two writers may agree about the sheep and disagree about the rule. Decide which of Cicero's passages you think governs his own case.
 
-What 13.18 does not settle is how far it reaches — whether past kin, or to graver things than a sheep.
-
-You will want to take it further, because the institutional version writes itself: my department covers for my department, my force for my force. An analogy does not need the two to be the same kind of thing, only relevantly alike, so do the work properly. A family is not chosen and a department is. A family answers to no one for its internal arrangements and a department answers to the institution paying for it. The sheep's owner is a neighbour; the audience for your report commissioned it. Decide which of those differences bear on the case for concealment and which do not.
+You will want to take 13.18 further, because the institutional version writes itself: my department covers for my department, my force for my force. An analogy needs the two to be relevantly alike, not identical, so do the work. A family is not chosen and a department is. A family answers to no one for its internal arrangements; a department answers to whoever pays for it. The sheep's owner is a neighbour; the audience for your report commissioned it.
 
 **Disagreement inside the relation: 4.18, 13.23, 13.15, 13.25, 4.5.**
 
 4.18 is where translations part. A son who thinks his parents wrong remonstrates gently; when they will not listen he keeps his respect and 不違 — Eno gives "do not disobey," Legge "does not abandon his purpose" — and labours without complaint.
 
-Read that divergence carefully, because it is narrower than it looks. On neither rendering does the son disobey. What is at issue is whether he goes on pressing the point after it has been refused, or lets it drop while continuing to serve. That is a real difference and it matters, but neither reading licenses the analyst's position, and you should notice that before you reach for this passage.
+The divergence is narrower than it looks: on neither rendering does the son disobey. What is at issue is whether he keeps pressing after being refused or lets it drop and goes on serving. Real, and worth having — but neither reading licenses the analyst's position.
 
-The other four give leverage against what a superior happens to want: harmony as against mere agreement, a ruler ruined by having no one oppose him, a *junzi* who cannot be pleased by what departs from the *dao*, rank not worth holding if it came that way.
+The other four give leverage against what a superior happens to want: harmony as against mere agreement, a ruler ruined by having no one oppose him, a *junzi* who cannot be pleased by what departs from the *dao*, rank not worth holding if it came that way. All of it bites on an officeholder failing at his role. Whether any of it bites on a practice everyone performs correctly that is rotten anyway is the open question, and your case is partly of that kind.
 
-**The question all of that raises.** These passages plainly supply standards that can be turned against a particular superior's wishes. The harder question is how far the standards reach. They are developed through the relations — what a ruler is for, what a minister owes, what a name requires — which gives you a great deal of purchase on an officeholder who is failing at his role. It is less clear what purchase they give on a practice that everyone is performing correctly and that is itself rotten. Your case is partly of that kind. Work out what these texts give you against the practice, not just against a person.
-
-**Mencius 2A.6.** Anyone who suddenly sees a child about to fall into a well feels alarm, and not — Mencius insists — to win the parents' favour or the neighbours' praise. That response is the seed of humaneness, and everyone possesses these seeds as they possess their four limbs. The argument then runs from that capacity to how rulers should govern.
-
-Read it against everything above, because it moves in the opposite direction from the rest: from something every person has, before any relation in play, out to the conduct of office.
+**Mencius 2A.6.** Anyone who suddenly sees a child about to fall into a well feels alarm, and not — Mencius insists — to win the parents' favour or the neighbours' praise. That response is the seed of humaneness, and everyone possesses these seeds as they possess their four limbs. The argument then runs from that capacity to how rulers should govern — the opposite direction from everything above, out from something every person has before any relation is in play.
 
 **Mencius 4A.17.** Men and women do not let their hands touch in giving and receiving; a man who would not pull his drowning sister-in-law out is a wolf. The rule is *li*, the rescue is *quan*, weighing. Then Chunyu Kun presses — the whole world is drowning — and Mencius answers by distinguishing what each rescue requires. Decide whether that is a real distinction or a way of declining the demand.
 
 **Mencius 4B.3.** Ministers treated as hands and feet respond as belly and heart; as dogs and horses, as to any ordinary man; as the ground or grass, as to a robber and an enemy.
 
-The concrete question is whether a departing minister mourns a former ruler, and the continuation is about departure: the ruler worth mourning sends him off with an escort and waits three years before reclaiming his lands, while the robber and enemy seizes him, pursues him into the state he has fled to, and strips him the day he goes.
-
-Note the shape of that and also its distance from you. A ruler actively preventing departure is not the same predicament as a person who stays because of a mortgage and a thin market. Whether the second inherits anything from the first is a question worth putting.
+The concrete question is whether a departing minister mourns a former ruler, and the continuation is about departure: the ruler worth mourning sends him off with an escort and waits three years before reclaiming his lands, while the robber and enemy seizes him, pursues him into the state he has fled to, and strips him the day he goes. Note the distance from you — a ruler preventing departure is not the predicament of a person who stays because of a mortgage and a thin market.
 
 ### What it pulls against
 
@@ -216,19 +202,19 @@ He has seen the alternative: men who "transform and transubstantiate themselves 
 
 **The mayor, and what surrounds it.** "The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation." The sentence continues into a reason that is easy to miss: a man who is an advocate or a financier "must not ignore the knavery there is in such callings," yet "an honest man is not accountable for the vice or absurdity of his employment, and ought not on that account refuse to take the calling upon him: 'tis the usage of his country, and there is money to be got by it; a man must live by the world."
 
-Note what that last clause is doing. The separation is not only a discipline for a gentleman with a château; it is offered as what makes it possible to hold a compromised job at all when you have to earn a living. That is closer to your situation than the mayoralty is.
+Note the last clause. The separation is not only a discipline for a gentleman with a château; it is what makes a compromised job holdable when you have to earn a living, which is closer to your situation than the mayoralty is.
 
-Then: "the judgment of an emperor ought to be above his empire, and see and consider it as a foreign accident." The first passage is about accountability and this one about judgment. They are different claims and the essay does not separate them. He puts the second to work at once on the civil war, refusing to let his own side's interest hide what is admirable in his adversaries.
+Then: "the judgment of an emperor ought to be above his empire, and see and consider it as a foreign accident." One passage is about accountability, the other about judgment; the essay does not separate them. He puts the second to work at once on the civil war, refusing to let his own side's interest hide what is admirable in his adversaries.
 
 **Lending, and what it does not withhold.** "A man should lend himself to others, and only give himself to himself." The line falls elsewhere than you would put it: he would have men give their employments "attention, pains, eloquence, sweat, and blood if need be," all of it "only borrowed." He withholds identification, not effort, and thinks the withholding improves the work.
 
 **His father, and his defence of himself.** Montaigne's father wrecked his health for Bordeaux out of "a marvellous good nature." Then: "Yet this proceeding which I commend in others, I do not love to follow myself, and am not without excuse."
 
-Read the excuse, because it is an argument. Moral teaching drives us out of ourselves for the public benefit, and "'tis no new thing for the sages to preach things as they serve, not as they are"; it aims deliberately high, as archers aim above the target and as a crooked stick is bent the contrary way. It is not to be taken at face value. And the duty to oneself is not selfishness, since "he who does not in some sort live for others, does not live much for himself." Decide whether that answers his father's example or changes the subject.
+Read the excuse, because it is an argument. Moral teaching drives us out of ourselves for the public benefit, and "'tis no new thing for the sages to preach things as they serve, not as they are" — it aims high on purpose, as archers aim above the target and a crooked stick is bent the contrary way, so it is not to be taken at face value. Nor is the duty to oneself selfishness, since "he who does not in some sort live for others, does not live much for himself."
 
 **Duty, and what ambition adds to it.** "I did not, to my knowledge, omit anything that my duty really required. I easily forgot those offices that ambition mixes with duty and palliates with its title." Two things are separated there that your case runs together. He also thinks it acts for reputation rather than the public good "to refer that to be done in the public squares which one may do in the council chamber."
 
-**The sleeping magistrate.** "I do not condemn a magistrate who sleeps, provided the people under his charge sleep as well as he." And: "To forbear doing is often as generous as to do; but 'tis less in the light." Ask what this permits when the quiet is itself the problem, and whether anything in the essay rules it out.
+**The sleeping magistrate.** "I do not condemn a magistrate who sleeps, provided the people under his charge sleep as well as he." And: "To forbear doing is often as generous as to do; but 'tis less in the light." Ask what that permits when the quiet is itself the problem.
 
 **The last line.** He finishes praising the calm of his administration, then closes on a line from the *Aeneid* about a man asked to trust a sea that only looks placid. Work out what it is doing there.
 
@@ -269,9 +255,7 @@ He is also the only writer here who never lays the relation aside. Cicero's judg
 
 ### What to watch for
 
-**The two criticisms, both at I.A.** The first concerns allocation: professional loyalty sends effort where it is wanted rather than where it is needed. The second concerns means and is specific to lawyers — discrediting a nervous but probably truthful witness, exploiting an adversary's ignorance in a negotiation. I.B illustrates both, the second with a negotiation in which the buyer is allowed to keep a mistaken belief, and with a technical defence raised against a debt the client admits he owes.
-
-The difference is that the second has a particular person at the other end. Decide which kind your case is; it matters by the end.
+**The two criticisms, both at I.A.** The first concerns allocation: professional loyalty sends effort where it is wanted rather than where it is needed. The second concerns means — discrediting a nervous but probably truthful witness, exploiting an adversary's ignorance in a negotiation. I.B illustrates both, the second with a buyer allowed to keep a mistaken belief and with a technical defence raised against a debt the client admits he owes. The difference is that the second has a particular person at the other end.
 
 **Why he refuses the utilitarian defence, II.B.** Mill and Sidgwick explain partiality by efficiency — you help those near you because you know them. Fried says that will not do, because on that footing he would have to keep checking whether his effort would do more good elsewhere, and that is an inquiry he says we are not required, and sometimes not authorised, to make. Follow the step: it separates a role that is a rule of thumb from one that changes what you may take into account.
 
@@ -283,11 +267,11 @@ The difference is that the second has a particular person at the other end. Deci
 
 **Where he concedes, III.B.2.** Asked to press an unfair claim or humiliate a witness, all of it legal, the lawyer is differently placed: the personal relation is now one of harm. Intentional harm, Fried says, particularises its victim — *who is my neighbour* is a legitimate question about whom to help and out of order about whom not to harm. So the principle licensing his devotion forbids what that devotion urges. He considers the escape that the lawyer may decline such cases and calls it "not wrong but somewhat lame."
 
-**The soldier, and the line.** A soldier of a just state whose foreign policy is decided democratically may hold that judging the war is not his to do — note both conditions, since the second is part of why the judgment might belong elsewhere — while being personally bound not to attack civilians or abuse prisoners — wrongs done by his person to the person of a victim. So: wrongs a reasonably just system works through its rules, against wrongs the role-holder commits. He says the border is where competing principles rub together and no rule will spare you judgment there.
+His soldier draws the same border in its clearest form: one serving a just state whose foreign policy is decided democratically may hold that judging the war is not his to do — note both conditions — while remaining personally bound not to attack civilians or abuse prisoners. Fried says only that this is where competing principles rub together and no rule will spare you judgment.
 
 **What the argument needs, and what it does not.** It is tempting to read this as a defence of courtroom advocacy and then to rule yourself out for having no opponent and no tribunal. Fried blocks that himself. A doctor, he says, is a friend though a special purpose friend. His lawyers include one who arranges the estate of a disagreeable dowager and one who advises a client how lawfully to avoid a tax. None of those has an adversary with counsel or a court to decide between them. The friendship is meant to cover professional partiality as such.
 
-What it does need is worth listing as you read, because it is shorter and more demanding than the courtroom furniture. The law and the rules of advocacy set outer limits he did not choose. A client's autonomy within those limits is the good being served. Footnote 35 adds circumstances in which the rules oblige him to withdraw. And the system has to be reasonably just, because the licence is drawn from the justice of whatever issues it — which is why, at III.B.1, he sends the correction back to the people who write the rules rather than to the man doing the job.
+What it does need is shorter and more demanding than the courtroom furniture. Outer limits he did not set. A client whose autonomy within them is the good being served. Circumstances in which the rules oblige him to withdraw, which footnote 35 supplies. And a system just enough to be worth drawing a licence from, which is why the correction goes back to the people who write the rules.
 
 **The conclusion.** Before the end he turns on lawyers who identify with their clients beyond the professional task — the defence lawyer speaking publicly against regulation, often because it is good for business. He has a name for capture by the role. Then the last word: he will not have the integrity of these roles undermined so the millennium may come sooner, since it may never come.
 
