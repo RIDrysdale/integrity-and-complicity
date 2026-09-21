@@ -13,10 +13,10 @@ This is the defence that does most of the real work in institutional life — *t
 - **Cicero, *De Officiis*, I.107–115 and III.49–57** — two short stretches, not the whole work. Half an hour.
 - **Confucius, *Analects*: 4.5, 4.18, 12.11, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25; and Mencius 2A.6, 4A.17 and 4B.3** — twelve short passages. Longer than it looks, because they need re-reading.
 - **Montaigne, *Essays*, III.10, "Of Managing the Will"** — one essay, whole. Three quarters of an hour, and it wanders.
-- **Bhagavad Gita, 1; 2.1–10; 2.31–38; 3.33–35; 18.41–49** — the first chapter whole, then four short passages.
+- **Bhagavad Gita, 1; 2.1–38; 3.20–35; 18.41–49; 18.63–66** — the first two chapters, then three short stretches.
 - **Fried, "The Lawyer as Friend" (1976)** — the whole article. The longest and densest of the five.
 
-All five are free. Cicero is at [LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html) and on Perseus; Montaigne is at [Project Gutenberg](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm); the *Analects* and Mencius are in [Robert Eno's translations](https://hdl.handle.net/2022/23420) and at [ctext.org](https://ctext.org/analects), which prints the Chinese alongside; the *Gita* is at [Wikisource](https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)) in Besant's translation, which prints the Sanskrit; Fried is open access in [Yale Law School's repository](https://openyls.law.yale.edu).
+All five are free. Cicero is at [LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/home.html) and on Perseus; Montaigne is at [Project Gutenberg](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm); the *Analects* and Mencius are in Robert Eno's translations ([one](https://hdl.handle.net/2022/23420), [the other](https://hdl.handle.net/2022/23421)) and at [ctext.org](https://ctext.org/analects), which prints the Chinese alongside; the *Gita* is at [Wikisource](https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)) in Besant's translation, which prints the Sanskrit; Fried is open access at [Harvard's DASH repository](https://dash.harvard.edu/entities/publication/73120379-2de8-6bd4-e053-0100007fdf3b).
 
 A reasonable pace is one reading per sitting, in the order given. The case comes first.
 
@@ -195,238 +195,206 @@ We do not assign it because one essay cannot be detached from the idealist accou
 
 ## Reading 3: Montaigne, *Essays*, III.10, "Of Managing the Will"
 
-Freely available. [Cotton's translation at Project Gutenberg](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm), which is where the quotations below come from; translators title the essay variously, and Book III, essay 10 will find it in any edition. One essay, whole. It wanders, which is the form and not a defect — *essai* means an attempt.
+Freely available. [Cotton's translation at Project Gutenberg](https://www.gutenberg.org/files/3600/3600-h/3600-h.htm), which is where the quotations below come from; translators title the essay variously, and Book III, essay 10 finds it in any edition. One essay, whole, and it moves by association rather than by argument order.
 
 ### Why it's here
 
-Montaigne was twice elected mayor of Bordeaux, in the 1580s, while France was tearing itself apart in the wars of religion. He is the only writer assigned here describing an office he actually held while he held it, and he says the thing this module exists to examine, flatly and without embarrassment: an honest man is not accountable for the vice or absurdity of his employment.
-
-The reason he gives for it is not the one you would expect.
+Montaigne was twice elected mayor of Bordeaux in the 1580s, while France tore itself apart in the wars of religion. He is the only writer here who held an office of the kind this module is about, and he is writing after the fact — the essay names the man he handed the office to. He also says the thing the module exists to examine, flatly: an honest man is not accountable for the vice or absurdity of his employment.
 
 ### What to watch for
 
-**The theatre, and one Latin word.** "Most of our business is farce," he says. "We must play our part properly, but withal as a part of a borrowed personage; we must not make real essence of a mask and outward appearance." Then the image that carries it: it is enough "to meal the face, without mealing the breast" — the flour goes on the actor's face, not on what is under it.
+**The theatre, and one Latin word.** "Most of our business is farce," he says. "We must play our part properly, but withal as a part of a borrowed personage; we must not make real essence of a mask and outward appearance." It is enough "to meal the face, without mealing the breast" — the flour goes on the actor's face, not on what is under it.
 
-He has seen the alternative. There are men who "transform and transubstantiate themselves into as many new shapes and new beings as they undertake new employments," who "strut and fume even to the heart and liver," and who — this is the sentence to carry away — "cannot distinguish the salutations made to themselves from those made to their commission, their train, or their mule."
+He has seen the alternative: men who "transform and transubstantiate themselves into as many new shapes and new beings as they undertake new employments," who "strut and fume even to the heart and liver," and who "cannot distinguish the salutations made to themselves from those made to their commission, their train, or their mule."
 
-Now the word. *Persona* is Latin for an actor's mask, and it is Cicero's word for the four things you are. Cicero's third *persona* is your office, and it is genuinely yours. Montaigne's "borrowed personage" is the same word doing the opposite work: the office is a costume, and taking it for your face is the occupational disease of people who hold offices.
-
-You noticed, in the case, that the argument sounds better from this chair. Montaigne has a name for that and it is not a flattering one.
+*Persona* is Latin for an actor's mask, and it is Cicero's word for the four things you are. Cicero's third *persona* is your office. Montaigne's "borrowed personage" is the same word in a different service. Before deciding they contradict each other, work out whether an office could impose real obligations without exhausting the person who holds it — and whether either writer denies that.
 
 **The mayor, and the sentence after.** "The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation. Because one is an advocate or a financier, he must not ignore the knavery there is in such callings; an honest man is not accountable for the vice or absurdity of his employment, and ought not on that account refuse to take the calling upon him."
 
-Read on before you decide what that means, because the next sentence turns it over: "the judgment of an emperor ought to be above his empire, and see and consider it as a foreign accident; and he ought to know how to enjoy himself apart from it." The separation is not being offered as relief. It is what leaves a judgment capable of seeing the office from outside it.
+Then: "the judgment of an emperor ought to be above his empire, and see and consider it as a foreign accident; and he ought to know how to enjoy himself apart from it." He puts it to work at once on the civil war, refusing to let his own side's interest hide what is admirable in his adversaries or contemptible in his own party — "a good work has never the worst grace with me for being made against me."
 
-He then puts it to work on the civil war. His own side's interest has not blinded him to what is admirable in his adversaries nor to what is contemptible in his own party; "a good work has never the worst grace with me for being made against me." Whatever the separation is for, it is not for comfort.
+Notice that the first quotation is about accountability and the second is about judgment. They are not the same claim, and the essay does not separate them.
 
-**Lending, and what it does not withhold.** "A man should lend himself to others, and only give himself to himself." Watch where the line actually falls, because it is not where you would put it. He would not have men refuse the employments they take on "their attention, pains, eloquence, sweat, and blood if need be" — everything, up to and including dying — but all of it "only borrowed," the mind staying "not without action, but without vexation, without passion."
+**Lending, and what it does not withhold.** "A man should lend himself to others, and only give himself to himself." The line falls somewhere other than where you would put it: he would not have men refuse their employments "their attention, pains, eloquence, sweat, and blood if need be" — up to dying — but all of it "only borrowed," the mind staying "not without action, but without vexation, without passion." He is withholding identification, not effort, and he thinks the withholding makes the work better rather than worse.
 
-He is not holding back effort. He is holding back identification. Decide whether those come apart as cleanly as he needs them to.
+**His father, and his defence of himself.** Montaigne's father wrecked his health and neglected his own affairs for Bordeaux, out of "a marvellous good nature; never was there a more charitable and popular soul." Then: "Yet this proceeding which I commend in others, I do not love to follow myself, and am not without excuse."
 
-**His father.** Montaigne's father wrecked his health and neglected his own affairs for the city of Bordeaux, out of what his son calls "a marvellous good nature; never was there a more charitable and popular soul." And then: "Yet this proceeding which I commend in others, I do not love to follow myself."
+Read the excuse, because it is an argument and the module would be misrepresenting him without it. Most moral teaching, he says, drives us out of ourselves into the street for the public benefit, and "'tis no new thing for the sages to preach things as they serve, not as they are." Such teaching aims deliberately high, "like archers, who, to hit the white, take their aim a great deal higher than the butt; to make a crooked stick straight, we bend it the contrary way." It is not to be taken at face value. And the duty to oneself is not selfishness, because "he who does not in some sort live for others, does not live much for himself."
 
-That is the most exposed sentence in the essay. He does not argue that his father was mistaken. He praises him and declines to be him.
+Decide whether that answers the case of his father or changes the subject.
 
-**Duty, and what ambition adds to it.** "I did not, to my knowledge, omit anything that my duty really required. I easily forgot those offices that ambition mixes with duty and palliates with its title." Two things are being pulled apart there that your case runs together.
+**Duty, and what ambition adds to it.** "I did not, to my knowledge, omit anything that my duty really required. I easily forgot those offices that ambition mixes with duty and palliates with its title." Two things are pulled apart there that your case runs together. He also thinks a magistrate should work quietly: it is acting for reputation rather than the public good "to refer that to be done in the public squares which one may do in the council chamber."
 
-Note also how he thinks a magistrate should work: it is acting for reputation rather than the public good "to refer that to be done in the public squares which one may do in the council chamber." There is a reading of your case in that sentence.
+**The sleeping magistrate.** "I do not condemn a magistrate who sleeps, provided the people under his charge sleep as well as he." And of his own term: "To forbear doing is often as generous as to do; but 'tis less in the light." Ask what this permits when the quiet is itself the problem, and whether anything in the essay rules that out.
 
-**The sleeping magistrate.** "I do not condemn a magistrate who sleeps, provided the people under his charge sleep as well as he." And, of his own administration: "To forbear doing is often as generous as to do; but 'tis less in the light."
-
-This is the softest ground in the essay and you should stand on it hard.
-
-**The last line.** He finishes praising the sweet and silent calm of his term, and then closes the essay on a line from the *Aeneid* about a man asked to trust a sea that only looks placid. Work out what it is doing there. He may be defending himself; he may be doing something else.
+**The last line.** He finishes praising the sweet and silent calm of his administration, then closes on a line from the *Aeneid* about a man asked to trust a sea that only looks placid. Work out what it is doing there.
 
 ### What it pulls against
 
-*Analects* 13.13, which you were told to carry in. If a man who cannot make his own person upright has nothing to do with making others upright, then the Mayor and Montaigne cannot be two, and the whole practice of this essay is unavailable. Montaigne is not answering that objection. He has not heard it.
+*Analects* 13.13, which you carried in. If personal uprightness and the conduct of office are bound as tightly as that passage may mean, the practice of this essay is harder to hold. How much harder depends on how much 13.13 was claiming, which you were asked to decide.
 
-Cicero, on the same Latin word. The four *personae* and the borrowed personage cannot both be right about what an office is.
-
-Fried, whom you read last, and who will give the separation an institutional warrant rather than a personal one. Montaigne's version depends entirely on the officeholder being the sort of person who keeps it up.
-
-The *Gita*, next, which also puts distance between the actor and the act. Hold Montaigne's version beside it and mark where they come apart.
+Cicero, on one word and perhaps on nothing else. Both men think an officeholder is more than the office. Whether they disagree about what follows is a question, not a result.
 
 ### Questions to carry
 
-- An honest man is not accountable for the vice or absurdity of his employment. Name an employment for which you think that is plainly false. Then say what distinguishes yours from it, or concede that nothing does.
-- He gives the office his blood and keeps his mind. In the case, which of the two were you asking the analyst for? Which were you giving your own manager?
-- The men who cannot tell the salutations made to themselves from those made to their commission do not know that about themselves. How would you find out? Name something you could actually observe.
-- Is there someone you commend and will not imitate? Montaigne says so about his father in one sentence and moves on. What is the honest name for that, in your case?
-- Which of your obligations here is duty, and which is what ambition mixes with duty and palliates with its title? Do them one at a time and in writing if you can.
-- A magistrate may sleep provided those in his charge sleep too. What if the quiet is the thing that is wrong? Does the essay have an answer, or is it relying on the times being survivable?
+- An honest man is not accountable for the vice or absurdity of his employment. Name an employment where you think that is plainly false, then say what distinguishes yours from it — or concede that nothing does.
+- He keeps accountability and judgment in the same sentence without separating them. Separate them. Can you have the judgment-preserving version without the accountability-shedding one, and what would hold them apart?
+- He gives the office his blood and keeps his mind. In the case, which were you asking the analyst for?
+- The men who cannot tell the salutations made to themselves from those made to their commission do not know it about themselves. Name something you could observe that would tell you.
+- Which of your obligations here is duty, and which is what ambition mixes with duty and palliates with its title?
+- His defence against his father's example is that moral teaching overshoots on purpose. Is that true of the teaching you were given about your job? How would you check?
 
 ### What kind of argument this is *(read after the text)*
 
-It is not an argument, and it does not want to be. It is a description of a practice, given in the first person by a man with no interest in turning it into a rule for anyone else, in a form built for trying things out rather than establishing them.
+An essay in the older sense — a trial, proceeding by example, quotation and second thought rather than in order. But it does argue. Excessive attachment to an office damages the work; public good is not the same as personal reputation; what we owe ourselves sets a limit on what can be demanded for others; moral exhortation is pitched high on purpose and should be read accordingly. These are claims with reasons attached.
 
-Its strength is that it is the only account here written from inside an office, and it identifies something the principled accounts do not even name: not the officeholder who does wrong, but the officeholder who has become the office, and can no longer find the place from which the office would look questionable. Cicero has no vocabulary for that. Neither does Fried.
+Its strength is that it comes from inside an office, and that it names something the principled accounts here do not: not the officeholder who does wrong, but the one who has become the office and can no longer locate the place from which it would look questionable.
 
-Its difficulty is that there is no standard in it outside the man's own temperament. Montaigne can tell whether Montaigne has kept the separation. He offers nothing by which anyone else could tell, and nothing that would prevent the same words — *the mayor and I are two, I lend myself and do not give myself* — from being spoken with complete sincerity by someone who has simply stopped caring what the office does. The essay's defence is that it never claimed to be a rule. Whether that is its honesty or its failure is what you have to settle, and settling it will decide how much of the sleeping magistrate you are prepared to accept.
+Its difficulty is how little it offers anyone else. There are standards in it — duty as against ambition, the public good as against reputation, the governed sleeping soundly — but each is applied by Montaigne to Montaigne, and the essay is a retrospective account of an administration he is defending. Nothing in it prevents the same sentences being spoken in good faith by someone who has simply stopped minding what the office does. The essay never claimed to be a rule. Whether that is its honesty or its limit is what you have to settle.
 
 ---
 
-## Reading 4: *Bhagavad Gita*, 1; 2.1–10; 2.31–38; 3.33–35; 18.41–49
+## Reading 4: *Bhagavad Gita*, 1; 2.1–38; 3.20–35; 18.41–49; 18.63–66
 
-Freely available in many translations. [Besant's at Wikisource](https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)) is quoted below and prints the Sanskrit beside the English with every verse numbered; chapter and verse work in any edition, though chapters are often called discourses.
+Freely available in many translations. [Besant's at Wikisource](https://en.wikisource.org/wiki/Bhagavad-Gita_(Besant_4th)) is quoted below, prints the Sanskrit beside the English, and numbers every verse; chapter and verse work in any edition, though chapters are often called discourses.
 
-One warning about the English. Where the translation says "duty" the word is *dharma*, and *dharma* is much wider — law, order, what holds things up, what is right for you given what you are. Besant footnotes this each time, which is worth following. *Svadharma* is your own dharma, the one indexed to you.
+Where the English says "duty" the word is *dharma* — law, order, what holds things up, what is right for you given what you are. Besant footnotes this each time and it is worth following. *Svadharma* is your own dharma, the one indexed to you.
 
 ### Why it's here
 
-Every role in this module so far has been one you walked into. Cicero's fourth *persona* is a career you picked. Montaigne accepted the mayoralty, reluctantly, but accepted it. The lawyer you read next signed something.
+The roles in this module mostly arrive by some act of yours. But Cicero already files office under the third *persona*, imposed by chance, and the relations in the *Analects* are not chosen either — so unchosen obligation is not new here.
 
-Here a man's station was settled before he could be consulted about it, he cannot put it down, and he is told that what is right for him is not what is right for anyone else — and that this is not a limitation on morality but the shape of it.
+What is new is the grounding. Arjuna's station is fixed by an order of things he did not make and cannot appeal, his duty follows from it, and the answer he is given is religious rather than prudential. The module has not yet had a role-obligation whose warrant lies outside human arrangements altogether.
 
-It also opens with a refusal, and the refusal is a good one.
+It also opens with a refusal, argued at length.
 
 ### What to watch for
 
-**Chapter 1, and how strong Arjuna's case is.** He looks across at the opposing army and sees his teachers, his uncles, his cousins, his grandfathers. His limbs fail, his mouth dries, his bow slips from his hand.
+**Chapter 1, and what Arjuna actually says.** He looks across at the opposing army and sees his teachers, uncles, cousins and grandfathers. His limbs fail, his mouth dries, his bow slips.
 
-But do not mistake this for squeamishness, because the text does not. He argues that killing these men will destroy the families and the order the families hold up; that it is a great sin undertaken out of greed for a kingdom; and that he would rather be killed unarmed and unresisting than do it. Then 1.47: he sits down on the seat of the chariot and casts away his bow and arrow.
+Then read his reasons, because he gives them: that killing these men destroys the families and the order the families hold up; that it is a great sin undertaken out of greed for a kingdom; that he would rather be killed unarmed and unresisting. At 1.47 he sits down on the seat of the chariot and casts away his bow and arrow.
 
-Someone in your case also said no and would not move.
+**2.7 and 2.9.** "My mind is confused as to duty. I ask thee which may be the better — that tell me decisively. I am thy disciple, suppliant to Thee; teach me." Then: "I will not fight!"
 
-**2.7 and 2.9.** "My mind is confused as to duty. I ask thee which may be the better — that tell me decisively. I am thy disciple, suppliant to Thee; teach me." And then, without elaboration: "I will not fight!"
+He is not asking for permission or for help thinking. He asks to be told. Decide what you make of that, and whether you have wanted it.
 
-Notice exactly what he asks for. Not permission, and not help thinking it through. He asks to be told. Decide whether you find that admirable, and whether you have wanted it this week.
+**Who is answering.** The reply comes from Krishna, and the text's claim is not that he is a wise adviser but that he is God; by chapter 11 Arjuna is shown a form of him that terrifies him. You need not accept it to follow the argument, but you cannot quietly subtract it either.
 
-**Who is answering, and on what authority.** The reply comes from Krishna, and the text's claim is not that Krishna is a wise adviser. From 2.11 onward the speaker is God, and by chapter 11 Arjuna is shown a form of him that terrifies him.
+**The teaching at 2.11–30.** Before any word about duty, Krishna argues that the dweller in the body is never destroyed, that the wise grieve neither for the living nor the dead, and at 2.30 that "this dweller in the body of everyone is ever invulnerable." What Arjuna thinks he is about to do is not quite what is happening. Notice how much of what follows would survive denying this.
 
-You need not accept that to follow the argument, but you cannot quietly subtract it either. Arjuna's answer arrives with a backing that nothing in your situation has. Keep a running account of how much of the force comes from the reasoning and how much from the speaker.
+**Svadharma, at 2.31–38, 3.35 and 18.47.** The formula twice, almost word for word: better your own duty badly done than another's done well; better to die in your own duty; another's duty is dangerous.
 
-**The premise underneath everything, 2.30.** "This dweller in the body of everyone is ever invulnerable, O Bhârata; therefore thou shouldst not grieve for any creature." Before a word about duty, Krishna has established that what Arjuna thinks he is about to do is not quite what is happening. Much of what follows rests here. Notice how much of it you would lose if you denied it.
+But read 2.31 and 2.33 exactly. What there is nothing better than, for a *kshatriya*, is a *righteous* war, and it is *this righteous warfare* that he would incur sin by refusing. The argument is conditional on the war being of that kind, which Arjuna has just spent a chapter denying. Whether the condition is established anywhere, or assumed, is worth tracking.
 
-**Svadharma, at 2.31–38, 3.35 and 18.47.** The formula arrives twice, in almost the same words: better your own duty badly done than another's done well; better to die in your own duty; another's duty is dangerous. At 2.31 there is nothing better for a *kshatriya* — the warrior order — than a righteous war. At 2.33, refusing means casting away both your dharma and your honour, and incurring sin.
+Then watch the register change at 2.35–37: they will say you fled in fear, your enemies will speak of you contemptuously, slain you gain heaven and victorious the earth, so stand up. Krishna has been arguing from the indestructibility of the self and is now arguing from reputation and reward.
 
-Then watch 2.35–37, because the kind of argument changes. They will say you fled in fear; your enemies will speak of you contemptuously; slain you gain heaven and victorious you gain the earth, so stand up. Krishna has just reasoned from the indestructibility of the self, and is now reasoning from reputation and reward. Decide whether those fit together.
+**3.20–25, which complicates the detachment.** Acting without attachment is not indifference to what happens. Janaka and others reached perfection by action, and you should act "having an eye to the welfare of the world"; the wise should act unattached but "desiring the welfare of the world"; Krishna himself says that were he to stop acting, these worlds would fall to ruin. The word carrying this is *lokasamgraha*, holding the world together. Detachment is from the fruits accruing to you, not from consequences as such.
 
-**Where the duties come from, 18.41–48.** Duties are assigned by *varna*, the four orders, each "born of his own nature" — down to 18.44, where service is the duty of the *shudra*. This is ascribed status, not a chosen profession, and the text does not offer it as an unfortunate feature of its time.
+**Where the duties come from, 18.41–48.** Duties assigned by *varna*, the four orders, each "born of his own nature," down to 18.44 where service is the *shudra*'s. This is ascribed status and the text does not present it as regrettable.
 
-You will very likely reject this, and you should be precise about what you are rejecting. The social content is one thing. The structure is another: that what you owe follows from a position you did not select. Your own case is full of that. You did not choose the team you inherited, or the two people whose contracts now depend on what you decide.
+You will probably reject it, and you should be exact about what you are rejecting. The social content is one thing. The structure — that what you owe follows from a position you did not select — is another, and your own case contains some of that.
 
-**18.48, which is the line to carry out of here.** "Congenital duty, O son of Kunti, though defective, ought not to be abandoned. All undertakings indeed are clouded by defects as fire by smoke."
+**18.48.** "Congenital duty, O son of Kunti, though defective, ought not to be abandoned. All undertakings indeed are clouded by defects as fire by smoke." No role comes clean. Decide whether that is a description or a permission.
 
-No role comes clean. There is no version of your job with the smoke taken out. Work out whether that is a description or a permission, because it can be read as either.
+**18.63 and 18.66, which are the last words on the subject.** Having taught, Krishna says: "having reflected on it fully, then act thou as thou listest." And at 18.66: "Abandoning all duties come unto Me alone for shelter."
 
-**How literally to take the battlefield.** The *Gita* sits inside an enormous epic, and the battle it opens goes on to happen. Readers have divided for a very long time over whether this is counsel to a soldier or a figure for a struggle of a different kind. This module does not settle it. Notice which reading you are using, and whether you picked it because it is better supported or because it is easier to live with.
+The decision is handed back, and then every *dharma* is set aside in favour of one thing. Hold these against the svadharma verses and work out what has happened between them.
+
+**How literally to take the battlefield.** The *Gita* sits inside an enormous epic and the battle goes on to happen. Readers have divided for a very long time over whether this is counsel to a soldier or a figure for a struggle of another kind. Notice which reading you are using and why.
 
 ### What it pulls against
 
-**Montaigne, immediately, and this is the one to be careful about.** He has just taught you to lend yourself and not give yourself. Then 2.38 tells Arjuna to hold pleasure and pain, gain and loss, victory and defeat as equal and gird himself for battle, and it will look like the same counsel in other dress.
+Montaigne, whom you have just read, in a way that repays care rather than assumption. Both hold that acting well requires some distance between the actor and the act. Montaigne's distance is a discipline of temperament that he thinks improves the work; Krishna's is grounded in a claim about what the self is, and it arrives after Arjuna's own judgment has been answered rather than accepted. Whether these are two versions of one posture or two different things with a family resemblance is a real question, and 18.63 bears on it.
 
-It is not the same counsel. Montaigne's separation leaves a man able to serve and still find the office questionable from outside it; it exists to protect his judgment. Krishna's leaves Arjuna's judgment overruled and sends him to kill his teachers. One of them detaches you so that you can see what you are doing. The other detaches you so that you can do it. If you find the *Gita* comfortable at this point, you have probably converted it into Montaigne without noticing.
+Cicero, whose I.112 already allows the same circumstances to yield different duties for different people. The disagreement is not that one text makes duty person-relative and the other does not. It is about what fixes the person: character, for Cicero, and station in an order of things, here.
 
-**Cicero**, whose whole argument needs one standard resting on what every human shares. Here what is right differs by who you are, and doing someone else's right thing well is worse than doing yours badly.
-
-**The *Analects* and Mencius.** Ascribed position matters in both, but there the duties grow out of the relations themselves, and Mencius 4B.3 makes what a minister owes conditional on how he is treated. Nothing here is conditional on the conduct of the men across the field. And Mencius will bend a rule of *li* to pull a drowning woman from a river. Ask whether anything in these chapters bends, and if not, what has replaced *quan*.
-
-**Fried**, next, who also holds that your position changes what you may do, but grounds it in a system you can inspect and an arrangement you could have declined.
+The *Analects* and Mencius, where what a superior is owed turns on how he behaves — 4B.3 grades it, and the worst ruler is the one who will not let you leave. Nothing here is conditional on the conduct of the men across the field.
 
 ### Questions to carry
 
-- Arjuna's objections in chapter 1 are never shown to be false. Are they answered, or are they superseded? If superseded, by what — and would you accept that move from anyone who was not God?
-- Better your own duty ill done than another's well performed. You are the manager. Writing the honest report yourself may be performing the analyst's dharma well instead of your own badly. Is that a real distinction in your case, or an excuse wearing a foreign word?
-- Arjuna asks to be told decisively. Have you wanted that? What would you have accepted as decisive, and from whom? Write down the name.
-- Remove 2.30 — suppose the people really are destroyed. How much of chapters 2 and 18 is left standing?
-- Everything here binds a man who did not choose his station. List the obligations in your case that you did not choose. Do they bind you less than the ones you did?
-- All undertakings are clouded as fire by smoke. Name the smoke in yours, precisely. Then say whether naming it changed what you are going to do — and if it did not, say what the naming was for.
+- Arjuna's objections in chapter 1 are never shown to be false. Are they answered, or set aside? If set aside, by what — and would you take that from anyone who was not God?
+- 2.31 and 2.33 turn on the war being righteous. Is that established, or assumed? Does your case have an equivalent condition, and has anyone established it?
+- Better your own duty ill done than another's well performed. You are the manager. Writing the honest report yourself may be doing the analyst's work well instead of your own badly. Is that a real distinction in your case, or an excuse in a foreign word?
+- 18.63 returns the decision to Arjuna after the teaching. What does that do to the claim that his judgment was overruled?
+- Remove 2.30 and suppose the dead are simply dead. How much of chapter 2 is left?
+- All undertakings are clouded as fire by smoke. Name the smoke in yours, precisely. Then say whether naming it changed what you are going to do, and if not, what the naming was for.
 
 ### What kind of argument this is *(read after the text)*
 
-A teaching rather than a demonstration. Its form is that a man in an impossible position asks an authority for instruction and is given it, and how much the answer is worth depends on who is giving it. This is the first reading here in which a role may require what the person filling it believes monstrous, and the reply is *yes, and do it anyway*.
+A teaching rather than a demonstration. A man in an impossible position asks an authority for instruction and receives it, and how much the answer is worth depends on the authority. This is the first reading here in which a role may require what the person filling it believes monstrous and the reply is that he should do it anyway.
 
-Two features are worth registering after the fact. It severs the tie between right action and good outcome that most of your own reasoning in the case depended on — every argument for softening the report was built out of consequences. And it makes the content of what you owe depend on who you are rather than on a rule holding for everyone, which is a move every other reading here except the *Analects* resists.
+Two things to register afterwards. It decouples right action from the results that accrue to you — though 3.20–25 shows it does not decouple action from results as such, which is a distinction your own case needs. And it makes what you owe follow from your position in an order you did not make, where Cicero makes it follow from the character you turned out to have.
 
-Its difficulty is the one Arjuna's own question opens up. He asks which course is better and is told to do what his station requires. A reader who wants to know how to tell what a station genuinely requires from what merely gets demanded in a station's name will not find that test here, and the *Gita* does not obviously think one is needed. Krishna is available to Arjuna. Nothing is available to you on those terms, and what you have in place of it is your own judgment about what a manager is — which is precisely the faculty this reading has just told you not to rely on.
+Its difficulty is the one Arjuna's question opens. He asks which course is better and is told what his station requires. Someone who wants a way to tell what a station genuinely requires from what merely gets demanded in a station's name will not find a test here, and 18.63 may be the text conceding as much — the reflection is left to the person who has to act.
 
 ---
 
 ## Reading 5: Charles Fried, "The Lawyer as Friend: The Moral Foundations of the Lawyer-Client Relation"
 
-*Yale Law Journal* 85 (1976). Open access in [Yale Law School's repository](https://openyls.law.yale.edu). Cited below by section and subsection — I, II and III, with lettered parts and, inside III.B, numbered ones — which work in any reprint. It is a law review article and reads like one. The footnotes can be left alone.
+*Yale Law Journal* 85 (1976). Open access, with the full text, at [Harvard's DASH repository](https://dash.harvard.edu/entities/publication/73120379-2de8-6bd4-e053-0100007fdf3b). Cited below by section and subsection — I, II and III, with lettered parts and numbered ones inside III.B — which work in any reprint. It is a law review article and reads like one; the footnotes can be left alone.
 
 ### Why it's here
 
-Fried asks a version of your question in the hardest form available. Not how a decent lawyer ought to behave, but "whether a decent, ethical person can ever be a lawyer" — whether the assurances you give by taking up the role are ones an honourable person could give at all.
+Fried asks whether a decent, ethical person can ever be a lawyer — not how a decent lawyer should behave, but whether the assurances you give by taking up the role are ones an honourable person could give at all. Your version is whether a decent person can be a manager.
 
-Your version is not *how should a manager behave*. It is whether a decent person can be one.
-
-This is also the reading in which the role defence is not an evasion but a position, argued for at length by someone who thinks the alternative would be worse.
+He is also the only writer here defending a role that is entered by agreement, bounded in advance, and backed by an institution you can inspect.
 
 ### What to watch for
 
-**The two criticisms, I.A and I.B.** The first is about allocation: professional loyalty makes the lawyer spend his energy where it is wanted rather than where it is needed, and the doctor tend the hearts of the sedentary managerial classes. The second is specific to lawyers and concerns means rather than ends — discrediting a nervous but probably truthful witness, exploiting an adversary's ignorance or need in a negotiation.
+**The two criticisms, both stated at I.A.** The first concerns allocation: professional loyalty sends the lawyer's effort where it is wanted rather than where it is needed, and the doctor's to the hearts of the sedentary managerial classes. The second concerns means, and is specific to lawyers — discrediting a nervous but probably truthful witness, exploiting an adversary's ignorance or need in a negotiation. I.B then gives examples of the first.
 
-The difference is that the first names a social harm and the second has a particular person at the other end of it. Decide which kind your case is. It matters enormously by the end of the article.
+The difference is that the second has a particular person at the other end. Decide which kind your case is; it matters by the end.
 
-**Why he refuses the easy defence, II.B.** Mill and Sidgwick explain partiality by efficiency: you help those near you because you know them and can do it well. Fried says that is not enough, and his reason is the one to follow. If efficiency were the ground, he would be obliged to keep checking whether his effort would do more good elsewhere — and that is an inquiry he says we are not required, and sometimes not even authorised, to make.
+**Why he refuses the utilitarian defence, II.B.** Mill and Sidgwick explain partiality by efficiency: you help those near you because you know them and can do it well. Fried says that will not do, because if efficiency were the ground he would be obliged to keep checking whether his effort would do more good elsewhere — and that is an inquiry he says we are not required, and sometimes not even authorised, to make. Follow that step; it separates a role that is a rule of thumb from one that changes what you may take into account.
 
-Watch that distinction. It separates a role that is a convenient rule of thumb from a role that changes what you are permitted to take into account.
+**The foundation, II.C.** Before there is morality there must be a person, and a valuing agent must first of all be dear to himself. From there: a right to weight your own interests, and then your friends'.
 
-**The foundation, II.C.** Before there is morality, he argues, there must be a person, and a valuing agent must first of all be dear to himself. Out of that comes a right to weight your own interests, and then your friends' — stated in the language of rights rather than of maximising good.
+Note the shape of this. It is not an exception to universal morality — it is a universal claim, that everyone has this right. Whether that puts him closer to Cicero than the conclusion suggests is worth asking.
 
-**The thesis, II.D.** The lawyer is a limited-purpose friend: a friend with respect to the legal system, who adopts the client's interests as his own, the range narrow but the identification inside it complete. What he serves is the client's autonomy within the law.
+**The thesis, II.D.** The lawyer is a limited-purpose friend: a friend with respect to the legal system, who adopts the client's interests as his own, narrow in range and complete inside it. What he serves is the client's autonomy within the law.
 
-Note that Fried puts the objections to his own analogy before you can. The relation begins from the client's need rather than the lawyer's gift; it is one-sided, with no devotion running back; the usual reason for taking or declining the work is money. He also asks why a grocer, a tailor or a landlord is not a limited-purpose friend on the same reasoning. Judge the answers he gives.
+He puts the objections to his own analogy before you can. The relation starts from the client's need rather than the lawyer's gift; it is one-sided; the usual reason for taking or refusing the work is money. He asks why a grocer or a landlord is not a limited-purpose friend on the same reasoning. Judge his answers.
 
-**Where the moral work is done, III.A and III.B.1.** He holds the lawyer strictly inside the law and the rules of advocacy: no counselling a crime, no destroying evidence, no perjury. Then the structural claim, which is the one to carry out of here — social policy is to be made by controlling what the law is and which interests clients may lawfully pursue, not by deforming the lawyer's role and asking him to curb his advocacy within it.
+**Where the moral work is done, III.A and III.B.1.** He holds the lawyer inside the law and the rules of advocacy — no counselling a crime, destroying evidence or perjury — and then makes the claim to carry out of here: social policy is to be made by controlling what the law is and which interests clients may lawfully pursue, not by deforming the lawyer's role and asking him to curb his advocacy within it. Corrections belong to the system, not to whoever is filling the role. He attaches a condition without emphasis: this holds in a reasonably just system.
 
-Corrections belong to the system, not to the conscience of whoever happens to be filling the role. And note the condition he attaches without emphasis: this holds in a reasonably just system, one that properly commands the lawyer's loyalty.
+**Where he concedes, III.B.2.** The lawyer asked to press an unfair claim or humiliate a witness — nothing illegal, nothing against the canons — is differently placed, because the personal relation is now one of harm rather than benefit. Intentional harm, he says, reaches out and particularises its victim: asking *who is my neighbour* is legitimate about whom to help and out of order about whom not to harm. The pinch is that the principle licensing his devotion to the client forbids doing to the adversary what that devotion urges. He considers the reply that the lawyer may decline such cases and calls it "not wrong but somewhat lame."
 
-**Where he concedes, III.B.2.** This is the most valuable passage in the article. The lawyer asked to press an unfair claim or humiliate a witness — nothing illegal, nothing against the canons — is in a different position, because now the personal relation is one of harm rather than benefit. Intentional harm, he says, reaches out and particularises its victim. Asking *who is my neighbour* is legitimate when the question is whom to help; it is out of order when the injunction is not to harm.
+**The soldier, and the line.** A soldier of a reasonably just state, whose wars are decided democratically, may hold that judging the war is not his to do — but is personally bound not to use forbidden ammunition, attack civilians or abuse prisoners: wrongs done by his person to the person of a victim. So the lawyer distinguishes wrongs a reasonably just system works through its rules from wrongs he commits himself. He says the border is where competing principles rub together and that no rule will spare you judgment there.
 
-So the pinch is this: the very principle of personal engagement that licenses the lawyer's devotion to his client forbids him to do to the adversary what that devotion is urging. Fried considers the reply that the lawyer may simply decline such cases, and calls it "not wrong but somewhat lame" — the question is not whether he may refuse but whether he is bound to.
+You met a soldier in the last reading, answered differently. Set the two beside each other.
 
-**The soldier, and the line he finally draws.** A soldier of a reasonably just state, whose wars are decided democratically, may hold that judging the justice of the war is not his to do — but he is personally bound not to use forbidden ammunition, not to attack civilians, not to abuse prisoners. Those are wrongs done by his person to the person of a victim. So the lawyer distinguishes wrongs a reasonably just system works through its rules from wrongs he personally commits.
-
-You met this soldier in the last reading, and he was told something else entirely. Set the two answers beside each other, and notice which of them attaches a condition that could fail.
-
-Fried does not pretend the line is clean. He says the border is exactly where competing moral principles rub against each other, and that no rule will spare you prudence and judgment there.
-
-**The last paragraph.** He will not see the integrity of these roles undermined so that the millennium may come sooner — because it may never come, and then where would we be?
+**The conclusion.** He will not see the integrity of these roles undermined so the millennium may come sooner, because it may never come. But read on to what he says about lawyers who identify with their clients beyond the professional task — the defence lawyer who writes articles and gives speeches against regulation, often because it is good for business. He has a name for capture by the role, and it is not a compliment.
 
 ### What it pulls against
 
-**Cicero, head-on.** The merchant at Rhodes was ordered to disclose. Fried's argument is built to protect the space Diogenes was asking for, and II.C is designed to dislodge exactly the shared universal standard that III.57's verdict rests on. But look again before concluding they are opposites: Fried draws his own line at personal wrongs, which is not far from where Cicero drew his. Work out whether the disagreement is about the principle, or only about which side of it a silence falls on.
+Cicero, on the merchant. Fried's argument protects some of the space Diogenes was claiming, and III.57's criterion would not obviously permit it. But both men reason from something everyone is owed, and Fried's line at personal wrongs is not far from where Cicero drew his. Work out whether they disagree about the principle or about which side a silence falls on.
 
-**The *Analects* and Mencius.** Fried's role is chosen, bounded, terminable, and issued by an institution you can inspect. None of those words applies to being a son. And his foundation — that the valuing agent must first of all be dear to himself — is precisely what a constitutive account has no room for.
+The *Analects* and Mencius, where nothing is entered by agreement or left on notice. Ask whether that difference changes what is owed, or only how the obligation arose.
 
-**Montaigne.** Both hold the person apart from the office. Montaigne does it as a private discipline resting on nothing but his own character; Fried does it with a justification and a stated limit. Ask which of the two has actually told you when the separation stops.
-
-**The *Gita*.** The same soldier, answered from opposite directions, and only one of the answers can fail a test.
+The *Gita*, where the soldier is answered without any condition that could fail.
 
 ### Questions to carry
 
-- Ask his question in his words about your own job: can a decent, ethical person be a manager? If you answer yes, say what it is about the job that makes it so — not what it is about you.
-- Which of the two criticisms is your case? Is softening the report a misallocation, or is it an advantage procured at the expense of someone identifiable? Name them if you can. If you cannot, ask whether that settles anything or only makes it more comfortable.
-- If the correction belongs to the system rather than the role-holder, what follows for you on Thursday? Is *work to change how these reports are commissioned* an answer or a deferral? It could be either.
-- His argument runs inside a reasonably just system. You have been asked a version of this before and were not made to answer it. Answer it now: is the arrangement you work inside reasonably just — and what would you accept as evidence either way?
-- Take his line between wrongs a system works through its rules and wrongs you personally commit, and put your case on one side of it. Then put the analyst's refusal on the same line. Do they land where you expected?
-- He will not have the roles undermined for a millennium that may never arrive. Is that a reason, or is it the sentence every defender of every arrangement eventually reaches for? Say what would tell the two apart.
+- Ask his question in his words about your own job. If you answer yes, say what it is about the job that makes it so, not what it is about you.
+- The lawyer has one client. You do not. You owe something to the analyst, to the team, to senior leadership, and to whoever is affected by what the budget does. Before using this argument, say who your client is — and notice that naming the team settles the question rather than answering it.
+- Which criticism is your case: misallocation, or advantage taken at the expense of someone identifiable? Name them if you can.
+- If correction belongs to the system rather than the role-holder, what follows for you on Thursday? Is *work to change how these reports are commissioned* an answer or a deferral? It can be either.
+- His argument runs inside a reasonably just system. Is yours? An institution can be compromised and still clear that bar — say what you would accept as evidence either way.
+- Put your case on his line between wrongs a system works through its rules and wrongs you commit yourself. Then put the analyst's refusal on the same line.
 
 ### What kind of argument this is *(read after the text)*
 
-A rights-based argument, and deliberately not a consequentialist one. It holds that role obligations are not efficient shortcuts to general duty but genuinely different in kind, resting on the same ground as your right to prefer your own children — that there must be a person before there can be a morality.
+A rights-based argument and deliberately not a consequentialist one. Role obligations are not efficient shortcuts to general duty but different in kind, resting on the same ground as your right to prefer your own children: that there must be a person before there can be a morality.
 
-Notice what it needs in order to work. It needs a background system that is reasonably just, because the licence the role confers is drawn from the justice of the system that issues it; Fried says so, and points at Rawls, whom you have already read. If the system is not reasonably just, his argument does not become false. It becomes unavailable, and it says nothing about what to do then. For a reader of this program that is the largest hole in it, because the question this program asks begins where the institution is already compromised.
+Notice what it needs. It needs the background system to be reasonably just, because the licence the role confers is drawn from the justice of the system issuing it; Fried says so, and points at Rawls, whom you have read. That is a condition, not a trapdoor — an institution can be compromised in the ways this program is about and still clear it. But the further it falls short, the less of his argument is available, and he does not say what replaces it.
 
-Its second difficulty is the border he names and declines to draw. Wrongs the system works through its rules, and wrongs you commit yourself: everything in your case turns on which side it falls, and the article brings the distinction into focus and then hands the decision back to you.
-
-A third, which he does not raise. The whole argument is conducted from the lawyer's side. The nervous and probably truthful witness appears once, as an illustration, and is not heard from again. Whether any account of roles can be adequate while the people on the receiving end of them appear only as examples is a question none of these five readings has pressed, and it is worth carrying forward.
-
-Finally: this is the last of the five, and final position lends an authority that has nothing to do with being right. Fried has not heard Confucius or Mencius, has not read Montaigne on the Mayor of Bordeaux, and is not answering Krishna. He is answering critics of his own profession in 1976. Before you go on, take the sharpest objection each of the other four could put to him, and put it.
+Its second difficulty is the border. Wrongs a system works through its rules, and wrongs you commit yourself: your case turns on which side it falls, and Fried holds that no formulation will decide it for you. Whether that is an evasion or an accurate report of what moral judgment is like is worth settling.
 
 ### An argument we do not assign
 
-**Weber on responsibility.** In "Politics as a Vocation," a lecture given in 1919, Max Weber set out a distinction that has been in the language ever since. An ethic of conviction — *Gesinnungsethik* — answers for the rightness of the act and leaves the consequences to God, or to the world, or to whoever caused the circumstances. An ethic of responsibility — *Verantwortungsethik* — answers for the foreseeable results of what one does. Weber's claim is that anyone who takes up power cannot be governed by conviction alone, because the results of a refusal belong to the person who refuses just as the results of compliance belong to the person who complies. He did not think the two could be reconciled, and did not think the second was the comfortable one: his account of the person who takes up office is that they contract with means that will implicate them, and that this is the condition of the work rather than a failure of it.
+**Weber on responsibility.** In "Politics as a Vocation," a lecture of 1919, Max Weber distinguished an ethic of conviction — *Gesinnungsethik* — which answers for the rightness of the act and leaves the consequences to God or the world, from an ethic of responsibility — *Verantwortungsethik* — which answers for the foreseeable results of what one does, including the results of a refusal. He thought anyone taking up power contracts with means that will implicate them, and that this is a condition of the work rather than a failure of it. He did not treat the two ethics as simple opposites: the lecture ends by saying they supplement each other, and that a person who has both has the calling for politics.
 
-It is worth knowing about here because it is your manager's argument from three years ago, and now yours, at its full strength and stated by someone with no interest in making it easy to live with. Fried sends the moral correction to the system and leaves the role-holder's conscience out of it. Weber leaves it exactly where you are standing, and says you will be marked by it. Nothing else assigned in this module holds both of those at once.
-
-We do not assign it for reasons that have nothing to do with its quality. It carries no locators that survive a change of edition, and there is no English translation of it that is both reliable and freely available — the standard one is in copyright, and the copies circulating without charge do not have a clear right to be there. A reading the reader cannot obtain is not a reading. If you have library access, the lecture is short and worth the trip.
-
----
+It bears on this module because it places the reckoning with consequences on the officeholder rather than on the system, which is where Fried declines to put it. We do not assign it because it carries no locators that survive a change of edition and has no English translation that is both reliable and freely available — the standard one is in copyright and the free copies have no clear right to be there. If you have library access, the lecture is short.
 
 ## Returning to the case
 
@@ -478,10 +446,10 @@ Keep it alongside what you wrote in the first module. You have now answered the 
 
 ## What this module did not settle
 
-Whether there is a you apart from the roles. That is the module's question and five readings divide on it, and the division is not one that argument settled — Cicero and Fried need a person underneath, the *Analects* and Mencius do not supply one, Montaigne insists on one without being able to say what secures it.
+Whether there is a you apart from the roles, and whether the question needs settling before the practical one can be. Cicero and Fried both argue from something owed to everyone; the *Analects* and Mencius reach their standards another way, and Mencius 2A.6 may or may not close the distance; Montaigne insists on a person apart from the office without saying what secures it. Whether these are rival answers or different routes is left where the readings leave it.
 
 Whether the merchant at Rhodes and your report are the same case. Whether Montaigne's separation is a discipline or a permission, given that the words are identical either way. Whether the *Gita*'s answer is available at all to someone who has no Krishna. Where Fried's border runs between wrongs an arrangement works through its rules and wrongs a person commits — he brings it into focus and then declines to draw it.
 
-And one that has been accumulating rather than arriving. In all five readings the people on the receiving end of a role appear as examples: the Rhodians, the man who bought the unsound house, the nervous witness, the men across the field at Kurukshetra. None of these accounts was built from their side. Whether an adequate account of roles could be is not a question this module raised, and it is not going to go away.
+And one that has been accumulating rather than arriving. The people on the receiving end of a role are mostly present here as examples: the Rhodians, the man who bought the unsound house, the nervous witness, the men across the field at Kurukshetra. Fried is the one who does not leave it there, and his answer — that intentional harm particularises its victim — is the module's furthest reach in that direction. Whether an adequate account of roles could be built from that side is not a question this module settled.
 
 The next module takes up the distinctions this one kept running into and could not use: doing, ordering, enabling, facilitating, benefiting, saying nothing, staying. Fried's border is where it begins.

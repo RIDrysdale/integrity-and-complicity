@@ -15,9 +15,9 @@ Status is **checked** (text opened, locators exist, attributed argument actually
 | Cicero, *De Officiis*, I.107–115 and III.49–57 | book and section | Free (LacusCurtius, Perseus) | checked | assigned, 2 |
 | Confucius, *Analects*, 4.5, 4.18, 12.11, 13.3, 13.13, 13.15, 13.18, 13.23, 13.25 | book and chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
 | Mencius, 2A.6, 4A.17 and 4B.3 | book, part, chapter | Free (Eno, Indiana University; ctext.org) | checked | assigned, 2 |
-| *Bhagavad Gita*, 1; 2.1–10; 2.31–38; 3.33–35; 18.41–49 | chapter and verse | Free, many translations (Besant, Wikisource) | checked | assigned, 2 |
+| *Bhagavad Gita*, 1; 2.1–38; 3.20–35; 18.41–49; 18.63–66 | chapter and verse | Free, many translations (Besant, Wikisource) | checked | assigned, 2 |
 | Montaigne, *Essays*, III.10 | book and essay | Free (Cotton translation, Project Gutenberg) | checked | assigned, 2 |
-| Fried, "The Lawyer as Friend" (1976) | section and subsection | Free (open access, Yale Law School repository) | checked | assigned, 2 |
+| Fried, "The Lawyer as Friend" (1976) | section and subsection | Free (open access, Harvard DASH; also Yale) | checked | assigned, 2 |
 | Weber, "Politics as a Vocation" (1919) | none | No reliable free English text; the standard translation is in copyright | pointer | 2 |
 | Bradley, "My Station and Its Duties", *Ethical Studies* (1876), Essay V | essay | Free (Wikisource) | pointer | 2 |
 | Xenophon, *Apology of Socrates* | section | Free (Perseus) | checked | not assigned |
@@ -47,4 +47,4 @@ No candidates yet for Modules 3 through 8.
 
 Two of Module 1's four assigned readings are in copyright and require a library. That is acceptable for readings with no adequate free substitute, but a program in which it is the norm would fail design principle 9. Later modules should do better, not worse. Module 2 does: all six of its readings are free.
 
-Weber's "Politics as a Vocation" is the clearest case so far of an argument the program wants and cannot assign. It states the ethic of responsibility — that the officeholder answers for what follows from their choices, including from their refusals — which is exactly the argument Case A.4 turns on. It carries no edition-independent locators, and the only freely circulating English translation is one whose copyright status does not survive inspection. It is a pointer in Module 2 for both reasons. If a sound free translation appears, it should be reconsidered as an assigned reading.
+Weber's "Politics as a Vocation" is an argument the program would like and cannot assign: no edition-independent locators, and no English translation that is both reliable and freely available. It is a pointer in Module 2 for those reasons. An earlier draft of this file called it exactly the argument Case A.4 turns on, which would make it load-bearing and so disqualify it as a pointer under WORKFLOW; that claim is withdrawn, since the case and the module's closing carry the reckoning with consequences without it. If a sound free translation appears it should be reconsidered as an assigned reading.
