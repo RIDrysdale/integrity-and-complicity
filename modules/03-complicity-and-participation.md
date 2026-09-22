@@ -67,3 +67,67 @@ The frame. This is an argument about a debt to the person robbed, measured by th
 Casuistry, in the old and non-pejorative sense: principles worked out by running them against particular cases until the exceptions show where they bend. Its strength is that it yields rules with their conditions stated rather than left to judgment. Its claim is not that these nine acts are wrong to nine different degrees, but that they become liabilities for different reasons — so that one person can head the queue under one item and be absent from it under another, which no single scale would show.
 
 Its difficulty is the size of what it sets aside. The question is restitution, a debt owed to a person for a thing. That is why the failed command owes nothing, and why you may point robbers at your own goods. Aquinas says in his first reply that whoever is in any way a cause of the sin is bound as well as the one who commits it, so he is not denying there is more to say. But this article measures the debt, and a reader who wants to know what they have become rather than what they owe will find the instrument silent. That is a limit on how far it carries, and it is an easy one to walk past.
+
+---
+
+## Reading 2: Babylonian Talmud, *Avodah Zarah* 6a–6b
+
+Free at [Sefaria](https://www.sefaria.org/Avodah_Zarah.6a), in the William Davidson translation, with the Aramaic alongside. Cited by tractate, folio and side, which is how every edition of the Talmud is numbered. A page and a half, and slower going than its length suggests.
+
+Two things before you start. In this translation the **bold** words are the text and the plain words are an editor's expansion, supplied to make a very compressed original readable. You can see at a glance what was said and what has been added, and it is worth keeping the difference in view.
+
+And the discussion has a setting you will need. The tractate is about avoiding participation in idolatry, and it opens with a rule that for three days before a gentile festival one may not do business with gentiles. The assigned passage asks why that rule exists. The earlier part of 6a concerns Noah's ark and then how the three days are counted; begin where the Gemara asks what the reason for the prohibition is.
+
+### Why it's here
+
+A man sells an animal to someone who is going to sacrifice it to an idol. He has done nothing to the animal that would be wrong if the buyer meant to plough with it. Everything wrong about the sale is supplied by what the buyer does next.
+
+That is the module's question with everything else stripped away, and the passage does something specific with it: it takes one prohibition, asks which of two reasons grounds it, and then constructs the case where the two reasons come apart. The case it constructs is the one you are in.
+
+You do not have to hold that idolatry is a wrong to follow any of this. What is being worked out is the shape of a liability, and the shape is what travels.
+
+### What to watch for
+
+**The dilemma, on 6a.** Two candidate reasons for the rule. Either the gentile will profit, "which will bring him joy, and he will subsequently give thanks to his idol on his festival." Or the sale breaks "And you shall not put a stumbling block before the blind" (Leviticus 19:14), because "one who sells an animal to a gentile thereby aids him in engaging in prohibited idol worship."
+
+These are offered as rivals, not as a pair. The question is which reason is *the* reason.
+
+**The case that separates them.** What if the buyer already has an animal of his own? On the profit reason, the sale is still forbidden — "here too the Jew causes him to profit." On the stumbling-block reason it is not: "since the gentile has his own animal, the Jew is not helping him sin."
+
+One act; two rationales that agree about the ordinary case and disagree about this one. Hold that shape. It is the whole reading.
+
+**The challenge.** A baraita of Rabbi Natan says a person may not extend a cup of wine to a nazirite, who is forbidden wine, nor extend a severed limb to descendants of Noah — both from the same verse. "But here, in both cases, if one does not give it to him, he can take it himself, and yet the one who provides it to him transgresses." If that holds, the stumbling-block reason does not require you to have been necessary, and the case above separates nothing.
+
+Notice what the two examples have in common. The wine and the limb are forbidden to the one receiving them and not to the one handing them over. Nothing the giver does would be wrong on its own.
+
+**The resolution, on 6b.** "Here we are dealing with a case where they are standing on the two sides of a river, and therefore the recipient could not have taken it himself. Since his help was instrumental, the one who conveyed the item has violated the prohibition." Then a second argument, from a single verb: the baraita says a person may not *extend*, and does not say one may not *give*. You extend something to someone you cannot simply hand it to.
+
+So the requirement stands. Putting a stumbling block before the blind requires that you were the stumbling block — that without you it would not have been in the way.
+
+**What is not settled.** The Gemara never goes back and rules which of the two reasons grounds the original prohibition. It moves on to a different question and does not return. You are left holding a test that works and no ruling on when it is the test that applies.
+
+### What it pulls against
+
+Aquinas, and the resemblance is close enough to be a trap.
+
+He also has a necessity test, twice over: the consent without which the robbery cannot take place, and the usurer who has other means. But it is doing different work. For Aquinas the question is who owes the robbed man his property, and necessity sorts who stands in that queue. Here there is no third party who has lost anything — the wrong is helping someone to a transgression of their own, and the person in view is the one who would transgress. Whether a test that settles a debt and a test that settles a transgression are the same test is worth deciding before you lean on either.
+
+The second condition differs in the same way. Aquinas pairs necessity with your own intention to profit. The rival reason here is the other party's profit and what he will do with it. The same shape pointing in opposite directions, and one case put to both will show whether that matters.
+
+And a question this passage does not answer: whether the man who extends the cup has transgressed if the nazirite does not drink it. Aquinas answers the equivalent flatly — a command not carried out owes nothing. Look for the answer here, and note it if you cannot find one.
+
+### Questions to carry
+
+- Central data would produce the extract if you stopped. On the stumbling-block reason you are standing on the same bank as the man with his own animal, and the test clears you. Does anything follow from that, or have you answered only one of the two questions the passage raises?
+- Now the other reason. Your extract is what the return is built on, and the money comes back. Is that causing him to profit? The test that cleared you does not reach this, and the Gemara never chose between them — so on what basis would you?
+- Say who the blind man is in your case. The people worse off for the return, or the person you helped?
+- Your liability here turns on what another department could manage without you, and you have not looked into it. Not looking is the cheapest way to keep the question open. Say what you intend to do about that.
+- The resolution rests on one verb, *extend* rather than *give*. Decide what you make of an argument that turns on that — and then ask separately whether the distinction it reaches is sound regardless of how it was reached.
+
+### What kind of argument this is *(read after the text)*
+
+Legal reasoning of a particular kind. It does not weigh how bad an act is. It asks which prohibition the act falls under, where that prohibition comes from, and therefore how far it reaches — so the reason behind a rule is worth an argument of its own, because the reason fixes the scope.
+
+Its strength is that it turns a vague question, *am I mixed up in this*, into one with a procedure: state what the rule is for, build the case where the candidate answers diverge, then test the construction against a source that appears to contradict it. The procedure returns a result, and the result is not what either intuition would have produced on its own.
+
+Its difficulty is where the procedure stops. The test tells you something only once you know which rationale is operative, and this passage declines to say. It also assesses one act at a time — this sale, this cup — and says nothing about the standing arrangement that produces such acts every quarter. A person can pass the test on each occasion and stay exactly where they are.
