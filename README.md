@@ -2,7 +2,7 @@
 
 *An applied ethics reading program on moral agency inside compromised systems.*
 
-> **Status: Modules 1 and 2 drafted, six to go.** Both can be worked through now. Neither has yet been tested on a reader.
+> **Status: Modules 1 to 3 drafted, five to go.** All three can be worked through now. None has yet been tested on a reader.
 
 ## The question
 
@@ -22,11 +22,16 @@ It opens with a case — a report you are asked to soften — and asks you to se
 
 The same case returns with you on the other side of it. Some years have passed, you hold the budget now, an analyst who works for you has written a report that is accurate and damaging, and you find yourself making your old manager's argument — better than you remembered it. Four readings give different accounts of how far a relation may move someone who owes an account to other people: Cicero's *De Officiis*, where a judge may not let friendship decide a friend's case; the *Analects* with Mencius, where a son conceals for his father and uprightness is said to lie there; Montaigne on having been mayor of Bordeaux during a civil war; and a 1976 essay by Charles Fried asking whether a decent person can be a lawyer. All four are free to obtain.
 
+**[Module 3: Complicity and Participation](modules/03-complicity-and-participation.md)**, the third of eight.
+*What counts as taking part in wrongdoing someone else is doing?*
+
+A year on, and this time the wrong is not yours and not in any doubt. The department next to yours is making a false claim for money. Your team produces the data extract their claim is built on, about a fifth of the money lands in your budget, you said nothing in the meeting where it was agreed, and if you stopped producing the extract another team would produce it instead. Three readings sort the ways of being in a wrong somebody else is doing, and sort them by unrelated measures: two articles of Aquinas on who owes restitution for a theft they did not carry out, and on what you may do with a sin already under way; a page of the Talmud on whether it matters that the other party could have managed without you; and four discourses from the Pali Canon that count doing, encouraging, approving and praising as four deeds and never ask what any of them caused. All three are free.
+
 The modules are meant to be taken in order. The anchor case recurs and escalates, and part of the point is to be able to compare what you said the first time with what you say later.
 
-Both modules can be done by reading and thinking alone. Writing is offered and optional.
+All three modules can be done by reading and thinking alone. Writing is offered and optional.
 
-`ARCHITECTURE.md` sets out the remaining six modules and the problems they address.
+`ARCHITECTURE.md` sets out the remaining five modules and the problems they address.
 
 ## Files
 
@@ -39,7 +44,7 @@ Both modules can be done by reading and thinking alone. Writing is offered and o
 | `READINGS.md` | Assigned readings and candidates, with access and verification status |
 | `WORKFLOW.md` | How the work is done, sourced, and reviewed |
 | `OPEN-QUESTIONS.md` | What is still unresolved |
-| `modules/` | The modules. Modules 1 and 2 are drafted |
+| `modules/` | The modules. Modules 1 to 3 are drafted |
 | `notes/` | `tensions.md`, with others added as they are earned |
 
 ## A note on accuracy
