@@ -131,3 +131,65 @@ Legal reasoning of a particular kind. It does not weigh how bad an act is. It as
 Its strength is that it turns a vague question, *am I mixed up in this*, into one with a procedure: state what the rule is for, build the case where the candidate answers diverge, then test the construction against a source that appears to contradict it. The procedure returns a result, and the result is not what either intuition would have produced on its own.
 
 Its difficulty is where the procedure stops. The test tells you something only once you know which rationale is operative, and this passage declines to say. It also assesses one act at a time — this sale, this cup — and says nothing about the standing arrangement that produces such acts every quarter. A person can pass the test on each occasion and stay exactly where they are.
+
+---
+
+## Reading 3: *Aṅguttara Nikāya* 4.201, 4.264, 5.177 and 6.63
+
+Free at [SuttaCentral](https://suttacentral.net/an4.264/en/sujato) in Bhikkhu Sujato's translations, published free of copyright, which are the source of the quotations below. Four short discourses from the Pali Canon, cited by collection and number — numbering that holds across every translation. Twenty minutes for all four, and most of that will be re-reading.
+
+One word is better left in Pali. *Kamma* is the *karma* of ordinary English and is not what ordinary English means by it. Sujato renders it "deeds." It is defined at AN 6.63, and the definition governs everything else here.
+
+### Why it's here
+
+You have now read two accounts of how to sort the ways of being in a wrong someone else is doing, and both sort by what the act did — what it caused, whom it left worse off, whether it was needed at all. These discourses run a list across much the same ground and sort it by none of that.
+
+They are also the only texts in this module that ask about a livelihood rather than an act.
+
+### What to watch for
+
+**The four qualities, AN 4.264.** "Someone with four qualities is placed in hell as if delivered there. What four? They themselves kill living creatures; they encourage others to kill living creatures; they approve of killing living creatures; and they praise killing living creatures." Then the same in reverse, for heaven.
+
+Set the four beside Aquinas's nine. Doing it yourself is his participation, encouraging is his command and counsel, approving sits near his consent, praising near his flattery. Much the same ground.
+
+Now look for what is not there. No victim appears. Nothing is apportioned among the four. It is not asked whether the killing came off, whether your encouragement made any difference, or whether the other person could have managed without you. Every question that decided the two previous readings is absent, and the list still has four items on it.
+
+**That this is a template rather than a ruling about killing.** AN 4.264 is the first of ten. The same four qualities run through stealing, sexual misconduct, the kinds of wrong speech, covetousness and malice, and at AN 4.273 through wrong view. Watch what the series does by the end of it: applied to a view, "they themselves have wrong view" is holding an opinion, and encouraging, approving and praising still attach to it.
+
+**The increment, AN 4.201.** Someone who kills, steals, commits sexual misconduct, lies and drinks is "an untrue person." Someone who does all that *and* encourages others to do these things is "an even more untrue person." Then the mirror: one who refrains is "a true person," and one who refrains and encourages others to refrain is "an even truer person."
+
+Encouragement is a separate step in both directions. Note the second direction especially. Talking someone out of a theft counts for something here, and there is no corresponding credit anywhere in the two readings before this one.
+
+**The definition, AN 6.63.** "It is intention that I call deeds" — *Cetanāhaṁ, bhikkhave, kammaṁ vadāmi* — "For after making a choice one acts by way of body, speech, and mind." Deeds differ by where they lead, "rebirth in hell, the animal realm, the ghost realm, the human world, and the world of the gods," and their result is "threefold: in this very life, on rebirth in the next life, or at some later time."
+
+Take those premises as they stand; you are not required to hold them in order to see what they do to the question. What they do is give a deed a consequence that does not run through the injured party at all, which is why none of these lists needs a victim in order to work.
+
+Then put the definition next to the four qualities. A deed is a choice expressed through body, speech or mind, and the four are one of body, two of speech, one of mind. Decide whether that accounts for the shape of the list, or whether you are the one supplying the connection.
+
+**The five trades, AN 5.177.** "A lay follower should not engage in these five trades. What five? Trade in weapons, living creatures, meat, intoxicants, and poisons." That is the entire discourse.
+
+Two things about it. It concerns lay followers — people with jobs — rather than monastics, and it is the only thing in this module that assesses a standing occupation instead of an act. And it gives no reason. None is stated here or anywhere in the discourse. If you find yourself explaining the list by the harm those trades do, notice that the explanation is yours and then test it: the list has meat on it and does not have fraud, or lending at interest, or anything else a harm-based rule would be expected to catch. Work out what it is a list of before you make use of it.
+
+### What it pulls against
+
+Aquinas, over the same ground and by an unrelated measure. His nine and these four overlap substantially and their sorting principles do not overlap at all. Praise a killing you did nothing to bring about and you are on the hell list here; for Aquinas, flattery binds to restitution only where the taking probably followed from it. One of them is measuring a debt and the other is not measuring a debt at all. Before deciding which has it right, decide whether they are answering the same question.
+
+The Talmud, by plain absence. Two sides of a river has no counterpart here. Nothing in these texts asks whether the other party could have managed without you, and *Avodah Zarah* 6b was an argument that this is precisely what the prohibition requires. If the two are talking about one thing, that is a flat disagreement about what matters.
+
+And a question none of the three settles. Aquinas rules that a command not carried out owes nothing. The Talmud does not say whether the man extending the cup transgresses if the nazirite declines it. These texts do not say whether encouragement has to succeed. Two silences and one answer are not a consensus, and it is worth asking what each of them was in a position to say.
+
+### Questions to carry
+
+- Run the four over your own position. Did you do it, encourage it, approve of it, praise it? The corridor remark falls somewhere among them. Does it matter here which one — and if it does not, what has that cost you?
+- Approving requires no outward act at all. On this list you can be caught by something nobody witnessed and nothing recorded. Say whether that is a strength or a defect, and give a reason that is not about which answer suits you.
+- Two readings have now had you asking whether the extract was necessary. Nothing here asks it. Name what is lost by dropping that question, and name what is gained.
+- Could your job appear on a list like AN 5.177? Before answering, settle what that list is a list of. If you cannot, you have found out how much weight it will bear.
+- The sharp one. An account that measures deeds by where they take the person doing them can tell you a great deal about yourself and nothing at all about what is owed to the people on the wrong end of that return. They do not appear in these texts. Decide whether that is a limit on the account or a limit on the question you brought to it.
+
+### What kind of argument this is *(read after the text)*
+
+Less derivation than either reading before it, and not the absence of argument. What does the work is a doctrine of action: a deed is a volition, volitions ripen, and the lists follow from that rather than from any analysis of who caused what. Once deeds are individuated by what was willed rather than by what resulted, doing, encouraging, approving and praising are four volitions, and there is nothing to apportion among them.
+
+Its strength is reach. It catches acts that leave no trace, change no outcome and injure no identifiable person, and it does so without having to claim that they secretly caused something. Both earlier readings have to strain at that point. This one does not have the problem, because it never took on the burden.
+
+Its difficulties are three and none is small. The five trades arrive with no reason attached, so a reader who wants the list to reach past its five items has to supply one, and will then be applying a rule of their own under someone else's authority. No victim appears anywhere in the frame, so the account says nothing about restitution or repair or what is owed to whom — and Aquinas, whatever else is wrong with him, could say who should be paid. And the deed has been located exactly where the agent alone can see it. These texts do prescribe a training aimed at seeing it, so this is not a difficulty they overlook; whether a discipline of self-observation is an answer to it, for someone whose account of his own corridor remark keeps improving, you are better placed to judge than they are.
