@@ -2,6 +2,64 @@
 
 *What counts as taking part in wrongdoing someone else is doing?*
 
+Three readings sort the same acts and do not sort them the same way. Aquinas asks who has to give back what somebody else took, and answers by dividing up the ways of being the cause of a taking you did not carry out. A passage of the Talmud asks why it should be forbidden to sell an animal to a man who will sacrifice it to an idol, finds two possible reasons, and builds the case where the two come apart. Discourses from the Pali Canon name four ways of being in a killing — doing it, encouraging it, approving of it, praising it — and sort them by something other than what they brought about.
+
+By the end you should be able to say, of each of the three, what it is actually measuring, what that makes it catch and what it lets pass, and what it would make of your own position. You are not expected to choose between them, and the module does not conclude that one of them wins.
+
+The words that come to hand here are doing, ordering, enabling, facilitating, benefiting, saying nothing, and staying. Settle early what you think they are. Do they form a scale, running from worst to least bad with the same thing being measured the whole way down? Or do they differ in kind, and only look like a sequence because we happen to say them in that order? A good deal turns on the answer, including what to do about the fact that most real positions occupy several of them at once.
+
+Be careful with whatever you decide. Distinctions between modes of participation are the best instrument anyone has for working out what they have actually done. They are also what a person reaches for when they are looking for the way out. Those are not two kinds of distinction; they are the same ones doing different work, and a distinction being convenient is no evidence that it is false. Refusing to draw them is not an escape either. If everything here is participation, then nothing in particular is, and there is nothing specific left to stop doing.
+
+One thing has changed since the first two modules. In those, what was wrong was itself in dispute — whether the report misled, whether softening it was a failure of candour or a piece of ordinary management. Here it is not. Somebody is making a false claim for money and you know it. Everything uncertain in this case is about your own relation to it.
+
+## What is assigned
+
+- **Aquinas, *Summa Theologiae* II-II, q. 62 a. 7 and q. 78 a. 4** — two articles. Half an hour.
+- **Babylonian Talmud, *Avodah Zarah* 6a–6b** — a page and a half, and slower than that sounds.
+- ***Aṅguttara Nikāya* 4.201, 4.264, 5.177 and 6.63** — four short discourses. Twenty minutes, most of it re-reading.
+
+All three are free and none of them needs a library. Aquinas is at [New Advent](https://www.newadvent.org/summa/3062.htm); the Talmud is at [Sefaria](https://www.sefaria.org/Avodah_Zarah.6a), in the William Davidson translation with the Aramaic alongside; the discourses are at [SuttaCentral](https://suttacentral.net/an4.264/en/sujato) in Bhikkhu Sujato's translations.
+
+A reasonable pace is one reading per sitting, in the order given. The case comes first.
+
+## The case: the numbers they need
+
+About a year after Thursday. You are still in the same job, and so is the analyst.
+
+The department next to yours files a funding return at the end of each quarter, claiming against activity that meets a published definition. For three quarters now the head of that department has been returning activity that does not meet it. You are not inferring this. You were in the room in June when they said, in terms, that the definition had never survived contact with the targets and that nobody had pretended otherwise for years.
+
+This is not a hard call and you are not in any doubt about it. It is a false claim for money. It is theirs, and you did not make it.
+
+What you do is this. Every quarter your team produces the activity extract that the return is built on. Your analyst runs it, you ask for it, it goes across on the 12th. The extract is accurate. Nothing in it is categorised; the categories go on at the other end.
+
+Four things to hold in front of you while you decide.
+
+The funding comes back pooled. About a fifth of it lands in your budget, and it is the fifth that renews one of the two contracts you were worrying about last year.
+
+If you stop producing the extract, the central data team will produce it instead. They are quicker than your analyst and they will not check it.
+
+You said nothing in June. Afterwards, in the corridor, you said something. You have gone back over it more than once and you cannot settle whether it was a joke, a warning, or an agreement — and you have noticed that the version you remember has been improving.
+
+Your analyst has worked out what the extract is for. They have not made a complaint. They asked you what it gets used for, and you have not answered yet.
+
+The extract goes across on the 12th. The return goes in on the 30th.
+
+**Settle on a position before you read.** Fix it clearly enough that you would notice it changing. Writing it down makes that easier, and you can do this module without writing anything.
+
+- Produce the extract as usual and say nothing.
+- Produce it, and tell the head of that department that you know.
+- Stop producing it, and let central data supply it instead.
+- Take it to your own manager.
+- Report it outside the line, to whoever the process names.
+- Refuse your department's share of the funding and produce the extract anyway.
+- I don't know yet. *(Then: the 12th comes first. What goes across on the 12th?)*
+
+Then the question the case exists for. You are about to acquire a vocabulary for this — ordering, enabling, benefiting, keeping quiet, staying — and some of those words will fit your position better than others. **Are you drawing the distinctions because they are true, or because you need them to be?** You will not be able to tell from the inside, and the finer a distinction is, the better it serves either purpose.
+
+Then the same suspicion the other way round. If you decide that all of it is participation and the words do not matter much, notice what that buys you. If everything you do here is complicity, then nothing you do in particular is, and there is no longer anything specific to stop doing.
+
+**Note what you are taking for granted.** The load-bearing fact in your defence is that central data would produce the extract anyway. You have not checked it. You do not know whether they have the access, whether anyone has asked them, or what the head of that department would do if your extract simply stopped arriving. Before you lean on it, say whether it is something you know or something you have found it comfortable to assume.
+
 ---
 
 ## Reading 1: Thomas Aquinas, *Summa Theologiae* II-II, q. 62 a. 7 and q. 78 a. 4
