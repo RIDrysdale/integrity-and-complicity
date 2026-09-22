@@ -54,6 +54,26 @@ The Duke of She reports an upright man of his district who testified against his
 
 **Left open.** Whether 13.18 reaches past kin, and what a reader may do with it if it does not. Whether anything in Cicero's judge carries to an office that adjudicates nothing. And what governs an act that escapes both of his descriptions — a silence kept for someone else, breaching no oath — which is where a good deal of institutional life happens, the manager's Thursday among it.
 
+## T-004 — Why the sale is forbidden
+
+**Between:** the two reasons offered for one prohibition at *Avodah Zarah* 6a. Module 3.
+
+This entry falls inside a single reading rather than between two, and it carries a qualification to be stated first. The two positions are not attributed to named disputants, as Antipater and Diogenes are in T-002. They are the two horns of a dilemma the Gemara raises and does not resolve.
+
+The mishnah forbids doing business with gentiles in the three days before their festival. The Gemara asks why. Either because the gentile will profit, "which will bring him joy, and he will subsequently give thanks to his idol on his festival" — or because the sale breaks "And you shall not put a stumbling block before the blind" (Leviticus 19:14), "as one who sells an animal to a gentile thereby aids him in engaging in prohibited idol worship."
+
+The text then builds the case that separates them, and states the practical difference itself: what if the buyer already owns an animal? On the profit reason the sale is still forbidden, since "here too the Jew causes him to profit." On the stumbling-block reason it is not, since "the gentile has his own animal, the Jew is not helping him sin."
+
+**What the pair establishes.** That one act can be forbidden for two unlike reasons which agree everywhere except at a single margin, and that the margin is exactly where a person who supplies something obtainable elsewhere is standing. The stumbling-block reason makes liability turn on your having been necessary; Rabbi Natan's baraita is raised against that, and the two-sides-of-the-river answer at 6b restores it. The profit reason makes liability turn on the other party's advantage and what he does with it, and necessity never enters.
+
+**Why it is not settled.** The Gemara moves to a different dilemma on 6b and does not return to this one. Neither 6b nor 7a takes the question up again.
+
+**Why it matters in the funding case.** The reader's extract is obtainable elsewhere, since the central data team would produce it. That clears the stumbling-block test and leaves the profit test untouched — and the department next door does profit, and so does the reader's own budget. Whichever reason governs decides the case, and the source that raises both declines to choose between them.
+
+**A reconciliation worth testing, not the entry's answer.** Perhaps the two are not rivals but a wide rule and a narrow one, the profit reason covering everything the stumbling-block reason covers and more, so that nothing turns on the choice. The difficulty is that the Gemara treats them as alternatives and constructs a case to separate them, which it would have no reason to do if one simply contained the other.
+
+**Left open.** Which reason governs. Whether a reader may use a test whose scope its own source left open. And whether a rationale nobody has adopted can be relied on against oneself, which is a different question from whether it can be relied on against somebody else.
+
 ---
 
 Two further Module 2 entries were drafted and withdrawn.
