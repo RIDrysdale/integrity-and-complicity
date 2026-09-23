@@ -154,7 +154,7 @@ One act; two rationales that agree about the ordinary case and disagree about th
 
 **The challenge.** A baraita of Rabbi Natan says a person may not extend a cup of wine to a nazirite, who is forbidden wine, nor extend a severed limb to descendants of Noah — both from the same verse. "But here, in both cases, if one does not give it to him, he can take it himself, and yet the one who provides it to him transgresses." If that holds, the stumbling-block reason does not require you to have been necessary, and the case above separates nothing.
 
-Notice what the two examples have in common. The wine and the limb are forbidden to the one receiving them and not to the one handing them over. Nothing the giver does would be wrong on its own.
+Notice what the two examples have in common. In each the recipient is under a prohibition, and in each the giver is charged under the stumbling-block verse — not for what the thing is, but for having put it within reach of someone who may not have it.
 
 **The resolution, on 6b.** "Here we are dealing with a case where they are standing on the two sides of a river, and therefore the recipient could not have taken it himself. Since his help was instrumental, the one who conveyed the item has violated the prohibition." Then a second argument, from a single verb: the baraita says a person may not *extend*, and does not say one may not *give*. You extend something to someone you cannot simply hand it to.
 
@@ -205,7 +205,7 @@ They are also the only texts in this module that ask about a livelihood rather t
 
 **The four qualities, AN 4.264.** "Someone with four qualities is placed in hell as if delivered there. What four? They themselves kill living creatures; they encourage others to kill living creatures; they approve of killing living creatures; and they praise killing living creatures." Then the same in reverse, for heaven.
 
-Set the four beside Aquinas's nine. Doing it yourself is his participation, encouraging is his command and counsel, approving sits near his consent, praising near his flattery. Much the same ground.
+Set the four beside Aquinas's nine. Encouraging is his command and counsel, approving is near his consent, praising near his flattery. Five of his have nothing answering to them here — receiving, participation, silence, not preventing, not denouncing. And the first of the four has no place on his list at all, for a structural reason: his article asks who owes restitution among those who have *not* taken, so the person who does it himself is a separate question, handled elsewhere. These discourses put the principal and the rest into one list and do not mark the join. Aquinas's list exists because of the join.
 
 Now look for what is not there. No victim appears. Nothing is apportioned among the four. It is not asked whether the killing came off, whether your encouragement made any difference, or whether the other person could have managed without you. Every question that decided the two previous readings is absent, and the list still has four items on it.
 
@@ -291,7 +291,7 @@ The 12th comes whether or not you have settled any of this. If you do nothing, t
 
 Writing a paragraph helps and is not required. Nothing in this module is.
 
-Keep it with what you wrote in the first two modules. You have now been the person who was asked, the person who asked, and the person who was neither.
+Keep it alongside whatever you concluded in the first two modules. You have now been the person who was asked, the person who asked, and the person who was neither.
 
 ## What this module did not settle
 
