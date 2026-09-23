@@ -88,6 +88,12 @@ Count what is deciding those. Whether you were necessary. Whether your words in 
 
 Note also what the list is a list of. It sorts causes. Receiving is harbouring the thief; participation is sharing in the deed and in the booty. Someone who simply ends up better off is not on it.
 
+**Three of the nine are silences, and they do not behave alike.** Silence, not preventing, not denouncing. Not preventing is among the five that always bind — though only for a person bound to prevent, which is why the example is someone in authority paid to maintain justice. Not denouncing binds "only when he is obliged, in virtue of his office, to do so." The bare item, silence, he does not unpack at all.
+
+The third objection then raises cost: no man is bound to expose himself to danger in order to safeguard another's property, since he might have to risk death to withstand a thief. Aquinas grants it, and his reply keeps princes liable partly because they "do not incur any great danger thereby."
+
+So there are three silences here with three different conditions — whether you were bound, whether office obliges, and what it would cost you — and one of the three left unexamined. If the nine were a scale, these would sit next to each other on it.
+
 **The commander whose command is refused.** The second objection raises a person who cooperates towards a taking that never happens, and Aquinas concedes it: when a command is not carried out, no restitution is owed, "since its end is chiefly to restore the property of the person who has been unjustly injured." He also ranks the liable — the commander first, then the executor, then the rest — and if one of them pays, the others owe that victim nothing.
 
 An order that succeeds puts you at the head of the queue. The same order refused puts you nowhere in it. Work out what that tells you about what is being measured here.
@@ -116,6 +122,7 @@ The frame. This measures a debt to the person robbed. A reading could accept eve
 - Run the necessity test honestly. If central data would produce the extract anyway, are you the man depositing with a usurer who has other means? What would you have to find out before you could answer?
 - Then the other limb, which the first does not settle. Suppose you are not necessary and your department still takes its fifth. Aquinas asks what you intended by the deposit, not what you gained from it. Are those the same thing here?
 - Is what you said in the corridor counsel? On his test it binds only if the return probably followed from it — and you cannot now reconstruct what you said. What do you do with a test you cannot run?
+- You said nothing in June. Which of the three silences was that, if any? Work through what you were bound to do, whether your job obliged you to speak, and what speaking would have cost. Then notice how much danger Aquinas requires before he excuses a private man, and say honestly whether anything in your case comes near it.
 - Nine named ways of being implicated, most of them conditional, is a fine instrument. It is also a menu. Name the item you would reach for first if you wanted to be told you were clear, and then say whether it is the one that fits.
 
 ### What kind of argument this is *(read after the text)*
@@ -305,4 +312,4 @@ What the five trades are a list of. The discourse gives no reason and the module
 
 And the thing that keeps accumulating. The second module noted that the people on the receiving end of a role appear mostly as examples. Here one reading can say precisely who should be paid and to whom — and it is the reading that says least about what you have become. The people harmed by that return have not been given an account of what they are owed by anyone on the edge of it. That is a real gap, it is not an oversight of these three texts, and it is not filled by anything in this module.
 
-The next module takes up what you have just spent a section avoiding: what saying nothing is, and when it becomes something you did.
+Aquinas gave you three silences and worked two of them. The next module takes up the one he left alone: what saying nothing is, and when it becomes something you did.
