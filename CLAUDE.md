@@ -22,6 +22,7 @@ The repository is about 35,000 words, and most tasks need less than a third of i
 | Proposing a tension | The `notes/tensions.md` header, the passages concerned, and D-013 and D-022 | Other tensions |
 | Anything touching principle 8 | D-010, D-018, D-021, and ARCHITECTURE, What is not yet decided | — |
 | A question about process | WORKFLOW | — |
+| Re-examining the whole program | `review/METHOD.md`, then the latest review's `SYNTHESIS.md` | Earlier reviews' chunk reports |
 
 ## Where things are recorded
 
