@@ -4,6 +4,10 @@ What is genuinely unresolved and needs a decision. Settled rules are not recorde
 
 When a question is answered, the answer goes into the relevant document and the entry below is deleted.
 
+## Program review
+
+**The 2026-09-27 whole-program review awaits decisions.** `review/2026-09-27-reevaluation/SYNTHESIS.md` sets out four questions (access against completion, those harmed against load, when to test on readers, literature) and eight structural recommendations. None has been applied. Delete this entry once each has been decided and recorded in DECISIONS.md, or explicitly declined.
+
 ## Readings
 
 **Does the *Gita* belong in Module 7?** It was drafted for Module 2 and withdrawn — the entry made fixed station the reading's answer while the assigned ending sets duty aside, and the repair did not fit the module. Module 7 asks how much may be demanded of someone who cannot afford to lose, which is Arjuna's position. Whether it earns a place there is decided when that module is built and its other readings exist, not reserved now.

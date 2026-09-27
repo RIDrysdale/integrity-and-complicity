@@ -53,6 +53,7 @@ The history shows four defects recurring more than any others. Look for them fir
 - [ ] Does any test, criterion or summary in the closing amount to the editors' answer (D-011)?
 - [ ] Is the module consistent with itself? Check that writing is optional everywhere (Module 3's closing once said "keep what you wrote"), and that the handoff to the next module is still true.
 - [ ] How long is it? Modules 1 to 3 run 3,538, 9,293 and 6,788 words. If a new module is longer than the one before it, be able to say what the extra length does for the reader.
+- [ ] How long will it take a reader, primary texts included? Is the commentary shorter than the passages it points at? Where it is longer, the reader may read it instead of the text (D-012; `review/2026-09-27-reevaluation/04-form-and-load.md`, F8).
 - [ ] Have you read it through once, start to finish, as a reader, in one sitting? That pass found three defects in Module 3 that no section-by-section review had caught (8f815eb).
 - [ ] Has each candidate tension been admitted or refused against the file's test? Record the refusals in DECISIONS.md, as D-013 and D-022 do.
 - [ ] Is the README entry updated, and does its blurb claim no more than the module establishes (D-019)?

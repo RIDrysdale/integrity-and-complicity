@@ -35,6 +35,7 @@ Why the program is the way it is. Each entry records a decision, its reason, wha
 | D-021 | 2026-09-21 | Module 3 does not discharge principle 8 | in force |
 | D-022 | 2026-09-21 | T-004 admitted; two cross-reading tensions refused | in force |
 | D-023 | 2026-09-27 | Keep a decision log; add CLAUDE.md and CHECKLIST.md | in force |
+| D-024 | 2026-09-27 | Adopt a whole-program review method; run the first review | in force |
 
 Entries D-001 to D-022 were reconstructed on 2026-09-27 from commit messages and from reasoning that had been kept in READINGS.md, ARCHITECTURE.md and `notes/tensions.md`. That reasoning was moved here, not rewritten.
 
@@ -219,3 +220,9 @@ WORKFLOW.md previously ruled out a decision log, on the ground that a rule recor
 The objection is met by making this file non-governing. It records why and points to where the rule lives, and it never restates the rule. The reasoning that had accumulated in READINGS.md, ARCHITECTURE.md and `notes/tensions.md` was moved here in the same change, so those files now state only the current position.
 
 CLAUDE.md was added so that each working session starts from a short orientation and loads only what its task needs. CHECKLIST.md turns the principles, together with the defects the history shows recurring, into questions to run at each stage.
+
+## D-024 — Adopt a whole-program review method; run the first review
+**Date:** 2026-09-27 · **Scope:** process · **Status:** in force
+**Rule lives in:** `review/METHOD.md`
+
+At Robert's request, a method for re-examining the whole program rather than one part: decompose the problem into independent chunks, analyse each in parallel with a separate agent that writes from first principles before reading the program, merge, verify the merge with another agent, then act only through Robert. The first run (`review/2026-09-27-reevaluation/`) found the core design sound and the program written for a narrower reader than it names, never tested on one. Its verification step required 14 corrections to the first synthesis, mostly citations stronger than their findings, which is the defect CHECKLIST.md lists first. Its recommendations are pending in OPEN-QUESTIONS.md; this entry records only that the review was run, not that anything in it was adopted.
