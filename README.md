@@ -44,6 +44,9 @@ All three modules can be done by reading and thinking alone. Writing is offered 
 | `READINGS.md` | Assigned readings and candidates, with access and verification status |
 | `WORKFLOW.md` | How the work is done, sourced, and reviewed |
 | `OPEN-QUESTIONS.md` | What is still unresolved |
+| `DECISIONS.md` | Why things are as they are: each decision, its reason, and where its rule lives |
+| `CHECKLIST.md` | Questions to run at each stage of drafting and review |
+| `CLAUDE.md` | Orientation for AI drafting sessions: what to read for which task |
 | `modules/` | The modules. Modules 1 to 3 are drafted |
 | `notes/` | `tensions.md`, with others added as they are earned |
 

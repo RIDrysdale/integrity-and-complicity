@@ -61,11 +61,15 @@ Modules contain no editorial status, no verification caveats, no process notes. 
 
 ## What gets recorded
 
-Settled rules live in the document they govern: principles in DESIGN-PRINCIPLES.md, sourcing and process here, structure in ARCHITECTURE.md. There is no separate decision log, because a rule recorded in two places will eventually disagree with itself.
+Settled rules live in the document they govern: principles in DESIGN-PRINCIPLES.md, sourcing and process here, structure in ARCHITECTURE.md, readings and their status in READINGS.md, cases in CASES.md. A governing document states the current position and not the history of how it was reached.
 
-OPEN-QUESTIONS.md holds only what is genuinely unresolved. When a question is settled, the answer is written into the document it governs and the entry is deleted.
+DECISIONS.md records why. Each entry names a decision, its reason, what it cost, and where the rule now lives. It never restates the rule, so it cannot disagree with it: if an entry and a governing document conflict, the governing document is right. Entries are not rewritten. A reversed decision is marked and keeps its entry, because the reason it failed is what stops it being proposed again. What calls for an entry is listed at the top of that file.
 
-Exchanges between Claude and ChatGPT are not recorded. Drafts, critiques, disagreements, and the reasoning behind a choice are working conversation, not program material. What survives is the change itself, written into the relevant document. If an argument matters enough to preserve, it belongs in the program's prose where a reader will meet it, not in a file about how the program was made.
+OPEN-QUESTIONS.md holds only what is genuinely unresolved. When a question is settled, the answer is written into the document it governs, the reason into DECISIONS.md, and the entry is deleted.
+
+Exchanges between Claude and ChatGPT are not recorded. Drafts, critiques and disagreements are working conversation, not program material. What survives is the change, written into the governing document, and its reason, written into DECISIONS.md in a paragraph or two. If an argument matters to the reader, it belongs in the program's prose where a reader will meet it.
+
+CHECKLIST.md turns the principles and this file into questions to run at each stage. It governs nothing. CLAUDE.md orients a working session and governs nothing either.
 
 ## Commits
 
