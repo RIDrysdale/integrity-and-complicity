@@ -34,7 +34,7 @@ The entry point. A demand arrives that you believe is wrong but that is not ille
 
 The defense that does most of the real work in institutional life: *this is my role, these are my people, this is not my call.* The module has to take that seriously before it can be examined, because it is frequently correct.
 
-This question was once restated as *what does a role make you owe — and is there a you apart from the roles?*, on the ground that the Confucian material denies there are two separable things to compare. It has been reverted. The ground was overstated, and the original wording never presupposed two selves in the first place — *they are inseparable* was always an available answer to it. The replacement also invited a question about personal identity that the module's readings cannot develop.
+The question was once restated and has been reverted (D-007, D-011). The original wording does not presuppose two selves: *they are inseparable* is an available answer to it.
 
 ### 3. Complicity and Participation
 *What counts as taking part in wrongdoing someone else is doing?*
@@ -86,7 +86,7 @@ Responsibility looking outward rather than inward: what is owed to the people ha
 ## What is not yet decided
 
 - No readings are assigned in this document, including for Module 1.
-- The eight problems are Western-analytic in their carving: discrete problems, rival positions, an individual agent deciding. Design principle 8 does not require every module to test that carving, but it does require that somewhere in the program a tradition be allowed to reject it rather than supply another position within it. Module 2 tested this and the claim did not hold. Its Confucian readings change where inquiry starts — they ask what makes someone a good minister or parent rather than opening from a conflict between conscience and office — but that is a difference of emphasis and method, not a rejection of the framing, and the module's question has been reverted accordingly. Nothing in the program yet counts as an instance.
+- The eight problems are Western-analytic in their carving: discrete problems, rival positions, an individual agent deciding. Design principle 8 does not require every module to test that carving, but it does require that somewhere in the program a tradition be allowed to reject it rather than supply another position within it. Nothing in the program yet counts as an instance. Modules 2 and 3 were each tested and neither discharges it (D-010, D-018, D-021). Module 7 carries the debt.
 - Anchor cases and their escalation across modules are drafted in `CASES.md`.
 
 ## Coverage of the charter's concerns

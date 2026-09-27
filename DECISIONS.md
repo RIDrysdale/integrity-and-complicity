@@ -116,7 +116,7 @@ Weber's "Politics as a Vocation" goes with Fried. It is an argument the program 
 
 An earlier draft recorded the Confucian reading as having met design principle 8's test, on the ground that these texts contain no standard appealable against a relation. That was withdrawn as stronger than the assigned passages support. A second and weaker version — that obligations here cannot be stated without reference to roles — also fails, since 2A.6 does exactly that. What survives is a difference in where inquiry begins, which is real and does not meet principle 8's test.
 
-**Lesson:** this was the first of three times the claim was made and withdrawn (see D-018, D-021). Before claiming any reading reframes the question, CHECKLIST.md §B asks for the passage that shows it.
+**Lesson:** the claim was made twice, in a stronger and a weaker form, and both were withdrawn. Two later tests found no instance either (D-018, D-021). Before claiming that any reading reframes the question, CHECKLIST.md §B asks for the passage that shows it.
 
 ## D-011 — Module 2 question reverted; the closing's tests withdrawn
 **Date:** 2026-09-20 · **Scope:** Module 2 · **Status:** in force
@@ -214,7 +214,7 @@ T-004 records the two reasons at *Avodah Zarah* 6a for one prohibition; 6b and 7
 **Date:** 2026-09-27 · **Scope:** process · **Status:** in force
 **Rule lives in:** WORKFLOW.md, What gets recorded
 
-WORKFLOW.md previously ruled out a decision log, on the ground that a rule recorded in two places will eventually disagree with itself. In practice the reasoning did not disappear. It went into the governing documents, where roughly half of READINGS.md had become a history of what was dropped and why, and every session had to read it to find the current state. It also went into commit messages, which record it well but cannot be consulted cheaply.
+WORKFLOW.md previously ruled out a decision log, on the ground that a rule recorded in two places will eventually disagree with itself. In practice the reasoning did not disappear. It went into the governing documents, where about two-fifths of READINGS.md had become a history of what was dropped and why, and every session had to read it to find the current state. It also went into commit messages, which record it well but cannot be consulted cheaply.
 
 The objection is met by making this file non-governing. It records why and points to where the rule lives, and it never restates the rule. The reasoning that had accumulated in READINGS.md, ARCHITECTURE.md and `notes/tensions.md` was moved here in the same change, so those files now state only the current position.
 

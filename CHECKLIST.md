@@ -8,7 +8,7 @@ An item is passed when you can answer it in a sentence, citing the passage or li
 
 The history shows four defects recurring more than any others. Look for them first, at every stage.
 
-1. **Saying more than the passage says.** This is the commonest defect. Two readings were claimed to contradict when they answer different questions (D-017). The Talmud was credited with a ruling on the severed limb that the assigned passage does not contain (8f815eb). A reading was claimed to meet principle 8 three times, and each claim was withdrawn (D-010, D-018, D-021). Five tensions were drafted and none survived (D-013).
+1. **Saying more than the passage says.** This is the commonest defect. Two readings were claimed to contradict when they answer different questions (D-017). The Talmud was credited with a ruling on the severed limb that the assigned passage does not contain (8f815eb). The claim that a reading meets principle 8 was made in a strong form and a weaker one, and both were withdrawn (D-010). Two later tests found no instance either (D-018, D-021). Five tensions were drafted and none survived (D-013).
 2. **The apparatus doing the reading for the reader.** "What to watch for" drifts into retelling the passage until the text can be skipped (D-012).
 3. **Convergence by the back door.** This covers an advance verdict, a closing test that amounts to an editorial answer, or a final reading placed to see through the others (D-005, D-006, D-011).
 4. **Stale cross-references.** A change is made in one place and left false in another. Module 2's opening kept asserting a thesis after the entry withdrew it (ec9aa9a), and Module 3's handoff was made false by a later edit (911a5cf).

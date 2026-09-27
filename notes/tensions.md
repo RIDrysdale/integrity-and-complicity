@@ -76,8 +76,4 @@ The text then builds the case that separates them, and states the practical diff
 
 ---
 
-Two further Module 2 entries were drafted and withdrawn.
-
-The first set Cicero's duty of disclosure against Fried's location of the correction in the rules. It could not be shown that the two would decide the same case differently: Cicero offers a formulation and Fried denies that any rule resolves every borderline case, and those are not contrary answers.
-
-The second set Mencius 4B.3 against Fried on whether how you are treated bears on what you owe. Fried's footnote 35 defeats it — the professional rules he relies on permit withdrawal where a client's own conduct makes representation unreasonably difficult, so the client's behaviour is among his conditions after all.
+Candidate entries that were drafted and refused are recorded in DECISIONS.md (D-005, D-013, D-022), each with the reason it failed the test above.

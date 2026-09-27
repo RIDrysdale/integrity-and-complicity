@@ -10,7 +10,7 @@ Robert Drysdale decides. Claude drafts. ChatGPT critiques. Claude does not settl
 2. Read OPEN-QUESTIONS.md. It is short.
 3. Then load only what the task needs. Use the table below.
 
-The repository is about 30,000 words, and most tasks need less than a third of it. Do not read the modules in full unless the task is one of them.
+The repository is about 35,000 words, and most tasks need less than a third of it. Do not read the modules in full unless the task is one of them.
 
 ## What to read for which task
 
